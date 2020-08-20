@@ -1,0 +1,73 @@
+* {
+	font-family: Roboto !important;
+}
+
+body {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 1920px;
+	height: 1080px;
+	font-size: 18px;
+	overflow: hidden;
+}
+
+.alert {
+	position: absolute;
+	top: -1000px;
+	left: 16px;
+	display: flex;
+	width: 600px;
+	max-width: 600px;
+}
+
+.message {
+	overflow: hidden;
+	display: -webkit-box;
+	-webkit-line-clamp: 5;
+	-webkit-box-orient: vertical;
+}
+
+.footer,
+.r4ceFooter,
+.antoineFooter {
+	position: absolute;
+	display: flex;
+	bottom: 0;
+	width: 1920px;
+	height: 40px;
+	background-color: #c62828;
+	overflow: hidden;
+}
+
+.logoContainer {
+	width: 600px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 40px;
+}
+
+.logo {
+	color: #ffffff;
+	font-size: 25px;
+	font-family: "Lilita One" !important;
+	letter-spacing: 1px;
+}
+
+.socialContainer {
+	flex: 1;
+	color: #ffffff;
+	font-size: 18px;
+	line-height: 30px;
+	display: flex;
+	height: 40px;
+	justify-content: flex-end;
+	align-items: center;
+	opacity: 0.8;
+	margin-right: 20px;
+}
+
+.emptyContainer {
+	/* flex: 1; */
+}

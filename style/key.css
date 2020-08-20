@@ -1,0 +1,13 @@
+*:not(body):not(.hidden) {
+	color: #ffffff !important;
+	background-color: #ffffff !important;
+	border-color: #ffffff !important;
+}
+
+body {
+	background-color: #000000;
+}
+
+img {
+	display: none;
+}
