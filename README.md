@@ -3,10 +3,10 @@ https://github.com/tmijs/docs/blob/gh-pages/_posts/v1.4.2/2019-03-03-Events.md#c
 Event to istent to :
 
 Action - Received action message on channel.
-Chat - Received message on channel.
+<!-- Chat - Received message on channel. -->
 
 BITS blue
-Cheer - Username has cheered to a channel.
+<!-- Cheer - Username has cheered to a channel. -->
 
 SUBS orange
 Anongiftpaidupgrade - Username is continuing the Gift Sub they got from an anonymous user in channel.
