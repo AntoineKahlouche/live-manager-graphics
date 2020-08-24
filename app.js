@@ -33,15 +33,6 @@ app.get("/historic", (req, res) => {
 	res.send(historic.get())
 })
 
-app.post("/onlyProInfo", (req, res) => {
-	info.onlyPro.set(req.body.value)
-	res.end()
-})
-
-app.get("/onlyProInfo", (req, res) => {
-	res.send(info.onlyPro.get())
-})
-
 function render(view, data = {}) {
 	const title = _.capitalize(view) + (data && data.title ? " : " + data.title : "")
 	const style = data && data.style ? fs.readFileSync(__dirname + "/" + view + "/" + data.style + ".css") : ""

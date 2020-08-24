@@ -2,12 +2,6 @@ const socket = require("./socket.js")
 const { alert, event } = require("./enum.js")
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms))
 
-const onlyPro = {
-	val: false,
-	get: () => onlyPro.val,
-	set: value => (onlyPro.val = value)
-}
-
 const brands = {
 	pro: {
 		website: { icon: "r4ce", title: "https://r4ce.co", message: "Website" },
@@ -31,7 +25,7 @@ async function run() {
 	await sleep(process.env.INFO_AWAIT)
 
 	const id = socket.guid()
-	const brand = _.sample(onlyPro.val ? brands.pro : _.concat(_.values(brands.pro), _.values(brands.perso)))
+	const brand = _.sample(_.concat(_.values(brands.pro), _.values(brands.perso)))
 	socket.emit(event.openAlert, {
 		id,
 		type: alert.info,
@@ -47,4 +41,4 @@ async function run() {
 	run()
 }
 
-module.exports = { run, onlyPro }
+module.exports = { run }

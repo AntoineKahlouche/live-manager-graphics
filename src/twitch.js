@@ -29,9 +29,10 @@ function listen(client) {
 	// client.on("ban", (channel, username, reason, userstate) => {})
 	client.on("chat", (channel, userstate, message, self) => {
 		if (self) return
+		// console.log({ channel, userstate, message, self })
 		socket.emit(event.openAlert, {
 			type: alert.msg,
-			title: `<b>${userstate.username}</b>`,
+			title: `<b style="color:${userstate.color || "#000000"};">${userstate.subscriber ? "⭐" : ""} ${userstate.username}</b>`,
 			message: displayMessage(message)
 		})
 	})

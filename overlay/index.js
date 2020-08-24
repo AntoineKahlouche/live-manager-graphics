@@ -1,4 +1,4 @@
-$(async () => {
+$(() => {
 	const socket = io()
 	socket.on("OPEN_ALERT", function (data) {
 		if (data.type === "MSG") return
@@ -8,10 +8,14 @@ $(async () => {
 		close(data)
 	})
 
+	init()
+})
+
+async function init() {
 	for (const data of Object.values((await axios.get("/historic")).data)) {
 		open(data)
 	}
-})
+}
 
 function open(data) {
 	const functionName = _.toLower(data.type)

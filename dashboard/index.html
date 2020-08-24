@@ -20,7 +20,7 @@
 		<style>
 			body {
 				padding: 16px;
-				padding-bottom: 70px;
+				padding-bottom: 120px;
 			}
 
 			.pointer {
@@ -52,12 +52,12 @@
 		<div class="action fixed-bottom">
 			<div class="form-row p-3">
 				<div class="custom-control custom-checkbox pointer mr-3">
-					<input type="checkbox" class="custom-control-input pointer" id="message" onchange="openAlertHandler()" />
+					<input type="checkbox" class="custom-control-input pointer" checked id="message" onchange="changeDisplayMessage(this)" />
 					<label class="custom-control-label pointer" for="message">Message</label>
 				</div>
 				<div class="custom-control custom-checkbox pointer">
-					<input type="checkbox" class="custom-control-input pointer" id="onlyProInfo" onchange="changeOnlyProInfo(this)" />
-					<label class="custom-control-label pointer" for="onlyProInfo">Only pro info</label>
+					<input type="checkbox" class="custom-control-input pointer" checked id="autoScroll" onchange="changeAutoScroll(this)" />
+					<label class="custom-control-label pointer" for="autoScroll">Auto-scroll</label>
 				</div>
 			</div>
 

@@ -1,33 +1,29 @@
 let socket
+let displayMessage = true
+let autoScroll = true
 
-$(async () => {
+$(() => {
+	init()
+
 	socket = io()
-	$("#onlyProInfo").prop("checked", (await axios.get("/onlyProInfo")).data)
-	openAlertHandler()
+	socket.on("OPEN_ALERT", data => open(data))
+})
 
+async function init() {
 	for (const data of Object.values((await axios.get("/historic")).data)) {
 		open(data)
 	}
-})
-
-function openAlertHandler() {
-	socket.off()
-	if ($("#message").prop("checked")) {
-		socket.on("OPEN_ALERT", function (data) {
-			if (data.type === "INFO") return
-			open(data)
-		})
-	} else {
-		socket.on("OPEN_ALERT", function (data) {
-			if (data.type === "INFO" || data.type === "MSG") return
-			open(data)
-		})
-	}
 }
+
 function open(data) {
+	if (data.type === "INFO") return
+	if (!displayMessage && data.type === "MSG") return
+
 	const functionName = _.toLower(data.type)
 	$("body").append(window[functionName](data))
 	bindCloseEvent(data.id)
+
+	if (autoScroll) window.scrollTo(0, document.body.scrollHeight)
 }
 
 function bindCloseEvent(id) {
@@ -38,8 +34,12 @@ function bindCloseEvent(id) {
 	})
 }
 
-function changeOnlyProInfo(checkbox) {
-	axios.post("/onlyProInfo", { value: $(checkbox).prop("checked") })
+function changeDisplayMessage(checkbox) {
+	displayMessage = $(checkbox).prop("checked")
+}
+
+function changeAutoScroll(checkbox) {
+	autoScroll = $(checkbox).prop("checked")
 }
 
 function sendMessage() {
