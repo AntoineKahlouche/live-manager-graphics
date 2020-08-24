@@ -1,0 +1,1666 @@
+[
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "2"
+			},
+			"badges": {
+				"subscriber": "0",
+				"bits": "5000"
+			},
+			"bits": "30",
+			"color": null,
+			"display-name": "chispy007",
+			"emotes": null,
+			"flags": null,
+			"id": "c031e051-00e3-4558-bee6-ce8bace46336",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598162987224",
+			"turbo": false,
+			"user-id": "407981463",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/2",
+			"badges-raw": "subscriber/0,bits/5000",
+			"username": "chispy007"
+		},
+		"message": "staryuukiCheer30 es un tiburon este hombre xD"
+	},
+	{
+		"channel": "#heelmike",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "9"
+			},
+			"badges": {
+				"subscriber": "9",
+				"bits": "25000"
+			},
+			"bits": "200",
+			"color": "#DAA520",
+			"display-name": "keith_2008",
+			"emotes": null,
+			"flags": "31-37:P.5,64-67:P.5",
+			"id": "e3f24751-f1f6-4562-b358-246e26321dc3",
+			"mod": false,
+			"room-id": "96419668",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163029947",
+			"turbo": false,
+			"user-id": "174832047",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/9",
+			"badges-raw": "subscriber/9,bits/25000",
+			"username": "keith_2008"
+		},
+		"message": "PogChamp100 PogChamp100 get on his ass kat! Make him clean that shit up"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "1"
+			},
+			"badges": {
+				"subscriber": "0",
+				"bits": "5000"
+			},
+			"bits": "100",
+			"color": null,
+			"display-name": "carlosmlv86",
+			"emotes": null,
+			"flags": null,
+			"id": "337e312e-5d9d-4919-887f-0b2a80f50103",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163085735",
+			"turbo": false,
+			"user-id": "556184633",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/1",
+			"badges-raw": "subscriber/0,bits/5000",
+			"username": "carlosmlv86"
+		},
+		"message": "ShowLove100 bb me retiro a dormir. Que pases linda noche. Gracias x todo princesa. Descansa 😘"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "2"
+			},
+			"badges": {
+				"subscriber": "0",
+				"sub-gifter": "5"
+			},
+			"bits": "100",
+			"color": null,
+			"display-name": "jesvalmor",
+			"emotes": null,
+			"flags": null,
+			"id": "1d01ccc8-965a-44a3-bca9-48110d3bc251",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163092185",
+			"turbo": false,
+			"user-id": "528915086",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/2",
+			"badges-raw": "subscriber/0,sub-gifter/5",
+			"username": "jesvalmor"
+		},
+		"message": "staryuukiCheer100 ya se me altero el colesterol 😂😂"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "6"
+			},
+			"badges": {
+				"vip": "1",
+				"subscriber": "6",
+				"hype-train": "1"
+			},
+			"bits": "30",
+			"color": "#F5EE09",
+			"display-name": "Kirito_sy",
+			"emotes": {
+				"301683444": ["50-61"]
+			},
+			"flags": null,
+			"id": "1ec09eeb-5db7-4adb-b525-8db0958e243f",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163094872",
+			"turbo": false,
+			"user-id": "494843358",
+			"user-type": null,
+			"emotes-raw": "301683444:50-61",
+			"badge-info-raw": "subscriber/6",
+			"badges-raw": "vip/1,subscriber/6,hype-train/1",
+			"username": "kirito_sy"
+		},
+		"message": "staryuukiCheer30 a tu hijo lord le gustó el video staryuukiSip"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "2"
+			},
+			"badges": {
+				"subscriber": "0",
+				"bits": "1000"
+			},
+			"bits": "169",
+			"color": null,
+			"display-name": "ivanorozco22",
+			"emotes": {
+				"301683486": ["81-93"],
+				"302080590": ["95-110"]
+			},
+			"flags": "40-50:S.6",
+			"id": "65b12fbc-b6c6-4df2-a635-ee3f6ebd836c",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163130623",
+			"turbo": false,
+			"user-id": "525992231",
+			"user-type": null,
+			"emotes-raw": "301683486:81-93/302080590:95-110",
+			"badge-info-raw": "subscriber/2",
+			"badges-raw": "subscriber/0,bits/1000",
+			"username": "ivanorozco22"
+		},
+		"message": "Cheer169 la mejor manera de terminar mi Cumpleaños, viendo a la niña mas hermosa staryuukiLove staryuukiBurrito"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "7"
+			},
+			"badges": {
+				"subscriber": "6",
+				"bits": "25000"
+			},
+			"bits": "30",
+			"color": "#6600FF",
+			"display-name": "Gwlio",
+			"emotes": {
+				"301683451": ["0-10"],
+				"301683536": ["80-91"]
+			},
+			"flags": null,
+			"id": "0b49d60a-f2d1-41ac-9e0b-36d612c9016e",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163148681",
+			"turbo": false,
+			"user-id": "76739511",
+			"user-type": null,
+			"emotes-raw": "301683451:0-10/301683536:80-91",
+			"badge-info-raw": "subscriber/7",
+			"badges-raw": "subscriber/6,bits/25000",
+			"username": "gwlio"
+		},
+		"message": "staryuukiOk se me antojo ese costillon, y adore cuando Oscar te respondio Yuuki staryuukiLul staryuukiCheer30"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "8"
+			},
+			"badges": {
+				"subscriber": "6"
+			},
+			"bits": "30",
+			"color": "#FF0000",
+			"display-name": "david_salomon_sy",
+			"emotes": null,
+			"flags": null,
+			"id": "7277dfba-bd41-4c1c-9ed7-3c671800660e",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163161093",
+			"turbo": false,
+			"user-id": "481748376",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/8",
+			"badges-raw": "subscriber/6",
+			"username": "david_salomon_sy"
+		},
+		"message": "Cheer10 Cheer20 Yuukì.... es verdad lo que me digo @nothing_sy .... que metiste gol en fall guy???"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "3"
+			},
+			"badges": {
+				"subscriber": "3",
+				"sub-gifter": "1"
+			},
+			"bits": "100",
+			"color": null,
+			"display-name": "rodo101do",
+			"emotes": null,
+			"flags": null,
+			"id": "efa8315d-f0f4-4c4a-9b2f-0f8f26fa99d0",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163178743",
+			"turbo": false,
+			"user-id": "545085358",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/3",
+			"badges-raw": "subscriber/3,sub-gifter/1",
+			"username": "rodo101do"
+		},
+		"message": "Cheer100 tengo hambre que mandamos a ordenar"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "2"
+			},
+			"badges": {
+				"subscriber": "0",
+				"bits": "1000"
+			},
+			"bits": "30",
+			"color": null,
+			"display-name": "senke97",
+			"emotes": {
+				"301683486": ["82-94", "96-108", "110-122", "124-136"]
+			},
+			"flags": null,
+			"id": "e3d4f37d-c361-43da-a616-88ffcce4b07c",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163184291",
+			"turbo": false,
+			"user-id": "193319733",
+			"user-type": null,
+			"emotes-raw": "301683486:82-94,96-108,110-122,124-136",
+			"badge-info-raw": "subscriber/2",
+			"badges-raw": "subscriber/0,bits/1000",
+			"username": "senke97"
+		},
+		"message": "staryuukiCheer30 bueno mi querida Ely, creo que ya me iré a mimir q ya hace sueño staryuukiLove staryuukiLove staryuukiLove staryuukiLove"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "2"
+			},
+			"badges": {
+				"subscriber": "0",
+				"sub-gifter": "1"
+			},
+			"bits": "30",
+			"color": null,
+			"display-name": "juanosoriorko",
+			"emotes": null,
+			"flags": null,
+			"id": "d107b7ef-613a-4dcc-9bfc-882d359f71fe",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163190094",
+			"turbo": false,
+			"user-id": "501828374",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/2",
+			"badges-raw": "subscriber/0,sub-gifter/1",
+			"username": "juanosoriorko"
+		},
+		"message": "cheer30 ese video me recordo un local cerca de donde trabajo que vendian hamburguesas de 1 kilo eran maravillosa que pase todo esto y poder ir me dio hambre xd"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": null,
+			"badges": null,
+			"bits": "30",
+			"color": null,
+			"display-name": "luisjkl2134",
+			"emotes": null,
+			"flags": null,
+			"id": "2a293c38-ad1d-4d55-ae04-060a7ec52ea8",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": false,
+			"tmi-sent-ts": "1598163202907",
+			"turbo": false,
+			"user-id": "510991645",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": null,
+			"badges-raw": null,
+			"username": "luisjkl2134"
+		},
+		"message": "Cheer1 Cheer1 Cheer1 Cheer1 Cheer1 Cheer1 Cheer1 Cheer1 Cheer1 Cheer1 Cheer1 Cheer1 Cheer1 Cheer1 Cheer1 Cheer1 Cheer1 Cheer1 Cheer1 Cheer1 Cheer1 Cheer1 Cheer1 Cheer1 Cheer1 Cheer1 Cheer1 Cheer1 Cheer1 Cheer1"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "3"
+			},
+			"badges": {
+				"subscriber": "3",
+				"bits": "200000"
+			},
+			"bits": "30",
+			"color": "#FF69B4",
+			"display-name": "beans4life_",
+			"emotes": {
+				"25": ["101-105"]
+			},
+			"flags": null,
+			"id": "87e8fd37-89fb-4bb1-a955-d38a4afed0eb",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163203650",
+			"turbo": false,
+			"user-id": "107936983",
+			"user-type": null,
+			"emotes-raw": "25:101-105",
+			"badge-info-raw": "subscriber/3",
+			"badges-raw": "subscriber/3,bits/200000",
+			"username": "beans4life_"
+		},
+		"message": "mensaje de @robberthcp_sy muchas gracias por las felicitaciones, ya soy un boomer de 22 años como tu Kappa y si muchas gracias a lex por el hermoso zing de regalo, estoy feliz de pasar mi cumple contigo Cheer30"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "2"
+			},
+			"badges": {
+				"subscriber": "0",
+				"bits": "5000"
+			},
+			"bits": "30",
+			"color": "#00FF7F",
+			"display-name": "BouncerPogo",
+			"emotes": {
+				"301683486": ["90-102"]
+			},
+			"flags": null,
+			"id": "148b798c-e515-450d-bf02-0f21cd2dafc2",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163207882",
+			"turbo": false,
+			"user-id": "146272482",
+			"user-type": null,
+			"emotes-raw": "301683486:90-102",
+			"badge-info-raw": "subscriber/2",
+			"badges-raw": "subscriber/0,bits/5000",
+			"username": "bouncerpogo"
+		},
+		"message": "Linda noche Ely, descansa, siempre me la paso en grande en tu stream. Eres la mejor besos staryuukiLove staryuukiCheer30"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "1"
+			},
+			"badges": {
+				"subscriber": "0",
+				"bits": "100"
+			},
+			"bits": "30",
+			"color": null,
+			"display-name": "gabriel_lopez_12am",
+			"emotes": null,
+			"flags": null,
+			"id": "c9660055-6682-41a6-a720-2e538071b4e4",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163209472",
+			"turbo": false,
+			"user-id": "401266396",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/1",
+			"badges-raw": "subscriber/0,bits/100",
+			"username": "gabriel_lopez_12am"
+		},
+		"message": "Cheer30 Que volá asere"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "5"
+			},
+			"badges": {
+				"subscriber": "3",
+				"bits": "10000"
+			},
+			"bits": "100",
+			"color": null,
+			"display-name": "Brandoncruz23_Sy",
+			"emotes": null,
+			"flags": null,
+			"id": "5fb8ef34-3090-4b3f-8c87-2e8104c5617f",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163336116",
+			"turbo": false,
+			"user-id": "511283830",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/5",
+			"badges-raw": "subscriber/3,bits/10000",
+			"username": "brandoncruz23_sy"
+		},
+		"message": "cheer100 Descansa ely pechocha ten buenas noches mi niñita hermosa...Te quiero"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "4"
+			},
+			"badges": {
+				"subscriber": "3",
+				"sub-gifter": "5"
+			},
+			"bits": "111",
+			"color": null,
+			"display-name": "kyokomakabi",
+			"emotes": null,
+			"flags": null,
+			"id": "6135bb54-0c2e-45e3-8074-8071fb6b943f",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163341140",
+			"turbo": false,
+			"user-id": "221976753",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/4",
+			"badges-raw": "subscriber/3,sub-gifter/5",
+			"username": "kyokomakabi"
+		},
+		"message": "Bueno. Fue un stream muy lindo. Pero más lindo verte reír mucho, eso siempre siento como si me diera más años de vida. Espero que mañana lleguemos a los 600 k por que quiero estar presente en el suceso. Te quiero así como mucho mucho Cheer111"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "5"
+			},
+			"badges": {
+				"vip": "1",
+				"subscriber": "3003",
+				"bits": "100000"
+			},
+			"bits": "3000",
+			"color": "#FFFF00",
+			"display-name": "alexs_sy",
+			"emotes": null,
+			"flags": null,
+			"id": "5e80f37b-001c-40dd-9a10-a6aaac002f18",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163351573",
+			"turbo": false,
+			"user-id": "275504850",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/5",
+			"badges-raw": "vip/1,subscriber/3003,bits/100000",
+			"username": "alexs_sy"
+		},
+		"message": "Descansa preciosa me la pase muy bien que tengas una excelente noche staryuukiCheer3000"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "3"
+			},
+			"badges": {
+				"subscriber": "3",
+				"bits": "10000"
+			},
+			"bits": "100",
+			"color": "#FF0000",
+			"display-name": "Ozgar_SY",
+			"emotes": null,
+			"flags": null,
+			"id": "7a573d1c-9d78-484f-a64f-b9d9ccabacef",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163359226",
+			"turbo": false,
+			"user-id": "503278280",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/3",
+			"badges-raw": "subscriber/3,bits/10000",
+			"username": "ozgar_sy"
+		},
+		"message": "cheer100 bueno mi bella Eli ya a descansar que pases una linda noche. disfrute mucho el stream y esos bailes ufff 10 de 10. otra cosa.. esos dulces se veian muy ricos pero hubieran estado mejor con picante xD me das mi besito de las buenas noches?"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "6"
+			},
+			"badges": {
+				"vip": "1",
+				"subscriber": "3006",
+				"sub-gifter": "500"
+			},
+			"bits": "169",
+			"color": "#DAA520",
+			"display-name": "Luis_00ra_Sy",
+			"emotes": null,
+			"flags": null,
+			"id": "f08ca710-deb7-4e0b-8e5d-2af55436992b",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163372187",
+			"turbo": false,
+			"user-id": "499529074",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/6",
+			"badges-raw": "vip/1,subscriber/3006,sub-gifter/500",
+			"username": "luis_00ra_sy"
+		},
+		"message": "cheer169 preciosa Yuuki buenas noches descansa y ten dulces sueños mañana nos vemos besitos"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "5"
+			},
+			"badges": {
+				"subscriber": "3",
+				"sub-gifter": "5"
+			},
+			"bits": "100",
+			"color": "#00FF7F",
+			"display-name": "KiiLaZz_SY",
+			"emotes": {
+				"301683486": ["106-118"]
+			},
+			"flags": null,
+			"id": "f08e7080-5db7-42ee-b688-3717ce037d71",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163381808",
+			"turbo": false,
+			"user-id": "446225483",
+			"user-type": null,
+			"emotes-raw": "301683486:106-118",
+			"badge-info-raw": "subscriber/5",
+			"badges-raw": "subscriber/3,sub-gifter/5",
+			"username": "kiilazz_sy"
+		},
+		"message": "cheer100 Buenas noches y que descances hermosa. Muchas gracias por el stream de hoy estuvo muy divertido. staryuukiLove"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "3"
+			},
+			"badges": {
+				"subscriber": "3",
+				"sub-gifter": "1"
+			},
+			"bits": "100",
+			"color": null,
+			"display-name": "rodo101do",
+			"emotes": null,
+			"flags": null,
+			"id": "4a346032-10e4-456c-bf29-f759032f1b06",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163384296",
+			"turbo": false,
+			"user-id": "545085358",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/3",
+			"badges-raw": "subscriber/3,sub-gifter/1",
+			"username": "rodo101do"
+		},
+		"message": "Cheer100"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "2"
+			},
+			"badges": {
+				"subscriber": "0",
+				"bits": "10000"
+			},
+			"bits": "100",
+			"color": "#9ACD32",
+			"display-name": "SylverF7",
+			"emotes": {
+				"301683486": ["53-65", "67-79"]
+			},
+			"flags": null,
+			"id": "bbe8d85b-3657-40ee-ba7b-68a459b31c5a",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163398240",
+			"turbo": false,
+			"user-id": "272504539",
+			"user-type": null,
+			"emotes-raw": "301683486:53-65,67-79",
+			"badge-info-raw": "subscriber/2",
+			"badges-raw": "subscriber/0,bits/10000",
+			"username": "sylverf7"
+		},
+		"message": "Cheer100 Hermoso stream mi querida Eli. Hasta mañana staryuukiLove staryuukiLove"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "2"
+			},
+			"badges": {
+				"subscriber": "0"
+			},
+			"bits": "111",
+			"color": null,
+			"display-name": "sebaxx31",
+			"emotes": null,
+			"flags": null,
+			"id": "cc1b737c-919b-45b0-9684-064ded730140",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163400131",
+			"turbo": false,
+			"user-id": "528455264",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/2",
+			"badges-raw": "subscriber/0",
+			"username": "sebaxx31"
+		},
+		"message": "staryuukiCheer111 ya nos vamos??"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "4"
+			},
+			"badges": {
+				"vip": "1",
+				"subscriber": "3003",
+				"sub-gifter": "50"
+			},
+			"bits": "100",
+			"color": "#DAA520",
+			"display-name": "MgRanx_SY",
+			"emotes": {
+				"301683486": ["204-216"]
+			},
+			"flags": null,
+			"id": "82ed4f77-8f0b-4a11-9324-b98ab9ba709e",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163402829",
+			"turbo": false,
+			"user-id": "133672220",
+			"user-type": null,
+			"emotes-raw": "301683486:204-216",
+			"badge-info-raw": "subscriber/4",
+			"badges-raw": "vip/1,subscriber/3003,sub-gifter/50",
+			"username": "mgranx_sy"
+		},
+		"message": "Fue un grandioso stream Yuuki. Hubo de todo, risas, locuras, dulces y bailes. Descansa mucho y nos vemos mañana. Nunca olvides que eres la mejor persona y streamer del mundo. Te quiero mucho beba hermosa staryuukiLove Cheer100"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "2"
+			},
+			"badges": {
+				"subscriber": "0",
+				"bits": "10000"
+			},
+			"bits": "100",
+			"color": "#00FF7F",
+			"display-name": "Jmeme_28",
+			"emotes": {
+				"301683486": ["146-158", "160-172"]
+			},
+			"flags": null,
+			"id": "078f14a2-b1e9-4a5b-9d78-e37f5ac31522",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163405494",
+			"turbo": false,
+			"user-id": "541812456",
+			"user-type": null,
+			"emotes-raw": "301683486:146-158,160-172",
+			"badge-info-raw": "subscriber/2",
+			"badges-raw": "subscriber/0,bits/10000",
+			"username": "jmeme_28"
+		},
+		"message": "cheer100 bueno cubanita. que tengas una linda noche y descanses de lo más rico. gracias por este maravilloso stream. te quiero bb. me das mi beso staryuukiLove staryuukiLove"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "2"
+			},
+			"badges": {
+				"subscriber": "0",
+				"bits": "1000"
+			},
+			"bits": "100",
+			"color": null,
+			"display-name": "mauri_416",
+			"emotes": null,
+			"flags": null,
+			"id": "c2c08845-e35f-4d29-b944-65633b827cc5",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163407192",
+			"turbo": false,
+			"user-id": "548583479",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/2",
+			"badges-raw": "subscriber/0,bits/1000",
+			"username": "mauri_416"
+		},
+		"message": "Cheer100 descansa yuki hermosa que tenga una noche tan linda como tu"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "3"
+			},
+			"badges": {
+				"subscriber": "3003",
+				"sub-gifter": "25"
+			},
+			"bits": "100",
+			"color": "#DAA520",
+			"display-name": "jcav01",
+			"emotes": null,
+			"flags": null,
+			"id": "b05e03f9-c8cf-48ae-82e9-984fa3735c99",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163408552",
+			"turbo": false,
+			"user-id": "538772004",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/3",
+			"badges-raw": "subscriber/3003,sub-gifter/25",
+			"username": "jcav01"
+		},
+		"message": "Descansa Yuuki. Que tengas buenas noches. Besos hermosa. Cheer100"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "3"
+			},
+			"badges": {
+				"subscriber": "3",
+				"sub-gifter": "100"
+			},
+			"bits": "100",
+			"color": null,
+			"display-name": "flip_ikki",
+			"emotes": null,
+			"flags": null,
+			"id": "5277f9bc-37ee-4cf2-bc21-c20516bba2e2",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163460894",
+			"turbo": false,
+			"user-id": "524802832",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/3",
+			"badges-raw": "subscriber/3,sub-gifter/100",
+			"username": "flip_ikki"
+		},
+		"message": "cheer100 ya nos vamos hermosa? bueno descansa que tengas linda noche"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": null,
+			"badges": {
+				"premium": "1"
+			},
+			"bits": "100",
+			"color": "#DAA520",
+			"display-name": "e1v3x",
+			"emotes": null,
+			"flags": null,
+			"id": "ad149dc4-d80d-4a7c-be0c-5685f2f73875",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": false,
+			"tmi-sent-ts": "1598163467106",
+			"turbo": false,
+			"user-id": "45344773",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": null,
+			"badges-raw": "premium/1",
+			"username": "e1v3x"
+		},
+		"message": "ShowLove100 te puedo hacer host o raid? soy nuevo en twitch"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "3"
+			},
+			"badges": {
+				"subscriber": "3",
+				"bits": "10000"
+			},
+			"bits": "100",
+			"color": "#00FF7F",
+			"display-name": "Piramide_CJS",
+			"emotes": null,
+			"flags": null,
+			"id": "ee103b83-56f9-49e8-9fe4-b0f18de47bb3",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163469673",
+			"turbo": false,
+			"user-id": "531192642",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/3",
+			"badges-raw": "subscriber/3,bits/10000",
+			"username": "piramide_cjs"
+		},
+		"message": "cheer100 hermosa no quisiera que te vayas pero te veo muy cansadita que duermas bien. te vere luego besitos bebé"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "4"
+			},
+			"badges": {
+				"subscriber": "3",
+				"bits": "10000"
+			},
+			"bits": "100",
+			"color": null,
+			"display-name": "betocg_21",
+			"emotes": null,
+			"flags": null,
+			"id": "f03fc713-651e-46ad-8f07-7b2745ef1566",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163484807",
+			"turbo": false,
+			"user-id": "533558689",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/4",
+			"badges-raw": "subscriber/3,bits/10000",
+			"username": "betocg_21"
+		},
+		"message": "Ely que descanses y tengas dulces sueños besos y abrazos cheer100"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "8"
+			},
+			"badges": {
+				"subscriber": "6"
+			},
+			"bits": "111",
+			"color": "#FF0000",
+			"display-name": "david_salomon_sy",
+			"emotes": null,
+			"flags": null,
+			"id": "f0efbcca-e70b-494b-93c9-b51437a788ad",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163496780",
+			"turbo": false,
+			"user-id": "481748376",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/8",
+			"badges-raw": "subscriber/6",
+			"username": "david_salomon_sy"
+		},
+		"message": "Cheer111 yuukìì... hasta mañana y duerme rico ! felicidades por tu gol !!! eres la mejor !!! besos!!"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": null,
+			"badges": {
+				"bits": "100"
+			},
+			"bits": "100",
+			"color": "#DAA520",
+			"display-name": "e1v3x",
+			"emotes": null,
+			"flags": null,
+			"id": "f6a00f58-1072-4ac1-9866-22e3b4d7d7ca",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": false,
+			"tmi-sent-ts": "1598163507408",
+			"turbo": false,
+			"user-id": "45344773",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": null,
+			"badges-raw": "bits/100",
+			"username": "e1v3x"
+		},
+		"message": "estas cansada???? staryuukiCheer100"
+	},
+	{
+		"channel": "#heelmike",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "5"
+			},
+			"badges": {
+				"subscriber": "3",
+				"sub-gifter": "100"
+			},
+			"bits": "245",
+			"color": null,
+			"display-name": "geebzs",
+			"emotes": null,
+			"flags": "87-92:P.6",
+			"id": "2bbdeef7-e93a-441b-af32-53458ef91c33",
+			"mod": false,
+			"room-id": "96419668",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163513136",
+			"turbo": false,
+			"user-id": "507648232",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/5",
+			"badges-raw": "subscriber/3,sub-gifter/100",
+			"username": "geebzs"
+		},
+		"message": "Cheer245 mike you seem like you love some meat in your mouth before bed can i get some fuckin Ws in chat w w w"
+	},
+	{
+		"channel": "#heelmike",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "11"
+			},
+			"badges": {
+				"subscriber": "2009",
+				"bits": "10000"
+			},
+			"bits": "200",
+			"color": "#FF4500",
+			"display-name": "Marglarr",
+			"emotes": null,
+			"flags": null,
+			"id": "b77ff3ba-cf1b-414d-a1f1-bb0a89cad589",
+			"mod": false,
+			"room-id": "96419668",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163518989",
+			"turbo": false,
+			"user-id": "124670992",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/11",
+			"badges-raw": "subscriber/2009,bits/10000",
+			"username": "marglarr"
+		},
+		"message": "Mike... you always claim you are a man of culture. You always claim to never read the alerts for the sleep stream.. yet everytime you tell joe you’re ready, you rant for 77777 minutes with them on the screan before we start. Why not have joe throw them on the stream after you lay down? 7_? Cheer100 Cheer100"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "3"
+			},
+			"badges": {
+				"subscriber": "3",
+				"bits": "5000"
+			},
+			"bits": "100",
+			"color": "#008000",
+			"display-name": "tobias_enrique21",
+			"emotes": {
+				"301683486": ["83-95"],
+				"301683534": ["97-110"]
+			},
+			"flags": null,
+			"id": "e01912bc-abc9-4073-882f-666498afe036",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163550687",
+			"turbo": false,
+			"user-id": "534888226",
+			"user-type": null,
+			"emotes-raw": "301683534:97-110/301683486:83-95",
+			"badge-info-raw": "subscriber/3",
+			"badges-raw": "subscriber/3,bits/5000",
+			"username": "tobias_enrique21"
+		},
+		"message": "Bueno yuuki querida qué descanses y tengas una linda noche hasta el próximo stream staryuukiLove staryuukiSleep showlove100"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": null,
+			"badges": {
+				"bits": "100"
+			},
+			"bits": "100",
+			"color": "#DAA520",
+			"display-name": "e1v3x",
+			"emotes": null,
+			"flags": null,
+			"id": "5f888909-46ec-4a1a-8470-03e4f5de811a",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": false,
+			"tmi-sent-ts": "1598163569731",
+			"turbo": false,
+			"user-id": "45344773",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": null,
+			"badges-raw": "bits/100",
+			"username": "e1v3x"
+		},
+		"message": "deja los besitos star ShowLove100"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "2"
+			},
+			"badges": {
+				"subscriber": "0",
+				"bits": "5000"
+			},
+			"bits": "100",
+			"color": null,
+			"display-name": "chispy007",
+			"emotes": {
+				"301683486": ["126-138", "140-152"]
+			},
+			"flags": null,
+			"id": "27c21ca6-071e-431d-8ef0-dea574e1a31e",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163581236",
+			"turbo": false,
+			"user-id": "407981463",
+			"user-type": null,
+			"emotes-raw": "301683486:126-138,140-152",
+			"badge-info-raw": "subscriber/2",
+			"badges-raw": "subscriber/0,bits/5000",
+			"username": "chispy007"
+		},
+		"message": "Cuídate querida Eli, fue un tremendo día y gracias por compartir como siempre tu alegría con todos nosotros. Nos vemos mañana staryuukiLove staryuukiLove staryuukiCheer100"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "2"
+			},
+			"badges": {
+				"subscriber": "0"
+			},
+			"bits": "111",
+			"color": null,
+			"display-name": "sebaxx31",
+			"emotes": null,
+			"flags": null,
+			"id": "51204c5e-3cc3-465a-880f-0d6ab2355e89",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163599135",
+			"turbo": false,
+			"user-id": "528455264",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/2",
+			"badges-raw": "subscriber/0",
+			"username": "sebaxx31"
+		},
+		"message": "staryuukiCheer111 buenas noches mi niña Bonita y saludos a la mami suegra como sigue de salud"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "3"
+			},
+			"badges": {
+				"subscriber": "3",
+				"bits": "200000"
+			},
+			"bits": "100",
+			"color": "#FF69B4",
+			"display-name": "beans4life_",
+			"emotes": null,
+			"flags": null,
+			"id": "72b7f1f5-5cd5-4a6a-b293-e024ce8c2a20",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163622659",
+			"turbo": false,
+			"user-id": "107936983",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/3",
+			"badges-raw": "subscriber/3,bits/200000",
+			"username": "beans4life_"
+		},
+		"message": "Que tengas linda noche eli hermosa. buenisimo stream aunque llegue un poco tarde. nos vemos mañana adios chat Cheer100"
+	},
+	{
+		"channel": "#heelmike",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "11"
+			},
+			"badges": {
+				"subscriber": "2009",
+				"bits": "10000"
+			},
+			"bits": "100",
+			"color": "#FF4500",
+			"display-name": "Marglarr",
+			"emotes": null,
+			"flags": null,
+			"id": "3692b4ba-5d2d-4ffd-b229-d910c778396d",
+			"mod": false,
+			"room-id": "96419668",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163624564",
+			"turbo": false,
+			"user-id": "124670992",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/11",
+			"badges-raw": "subscriber/2009,bits/10000",
+			"username": "marglarr"
+		},
+		"message": "OH... I DONT HAVE ANY CHANGEEE!! I DONT HAVE ANY CHANGGEEEEE!!!!!! Cheer100"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "2"
+			},
+			"badges": {
+				"subscriber": "0",
+				"bits": "100000"
+			},
+			"bits": "100",
+			"color": null,
+			"display-name": "r3ycuba",
+			"emotes": null,
+			"flags": null,
+			"id": "fc26b98c-60cf-4ec1-8afd-8d13180a0ab9",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163641918",
+			"turbo": false,
+			"user-id": "486526252",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/2",
+			"badges-raw": "subscriber/0,bits/100000",
+			"username": "r3ycuba"
+		},
+		"message": "Cheer100 benas noches bella, que duermas bien y suenes lindo bay"
+	},
+	{
+		"channel": "#heelmike",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "7"
+			},
+			"badges": {
+				"subscriber": "6",
+				"sub-gifter": "5"
+			},
+			"bits": "200",
+			"color": "#FF4500",
+			"display-name": "evil_of_lucy",
+			"emotes": null,
+			"flags": null,
+			"id": "abdb490f-d2bd-4d82-80aa-0d492832aac3",
+			"mod": false,
+			"room-id": "96419668",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163661190",
+			"turbo": false,
+			"user-id": "126258342",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/7",
+			"badges-raw": "subscriber/6,sub-gifter/5",
+			"username": "evil_of_lucy"
+		},
+		"message": "cheer200 i remember kony 2012 and i wasn't expecting kat would remember because she would be 9 years old"
+	},
+	{
+		"channel": "#heelmike",
+		"userstate": {
+			"badge-info": null,
+			"badges": null,
+			"bits": "200",
+			"color": "#FF0000",
+			"display-name": "tensecasey",
+			"emotes": null,
+			"flags": null,
+			"id": "2f240740-e45c-4b65-b8b7-5985d46afe6b",
+			"mod": false,
+			"room-id": "96419668",
+			"subscriber": false,
+			"tmi-sent-ts": "1598163677300",
+			"turbo": false,
+			"user-id": "487447666",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": null,
+			"badges-raw": null,
+			"username": "tensecasey"
+		},
+		"message": "hey alexa call 9 1 1 Cheer100 Cheer100"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "8"
+			},
+			"badges": {
+				"vip": "1",
+				"subscriber": "3006"
+			},
+			"bits": "100",
+			"color": "#FFDA00",
+			"display-name": "Arias_of_Sy",
+			"emotes": {
+				"301683486": ["95-107"],
+				"301841599": ["127-140", "142-155"]
+			},
+			"flags": null,
+			"id": "abf96357-3693-478c-9996-d8922f4ea7f7",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163749792",
+			"turbo": false,
+			"user-id": "473255615",
+			"user-type": null,
+			"emotes-raw": "301683486:95-107/301841599:127-140,142-155",
+			"badge-info-raw": "subscriber/8",
+			"badges-raw": "vip/1,subscriber/3006",
+			"username": "arias_of_sy"
+		},
+		"message": "Bueno que tengas una linda noche querida. Nos vemos mañana que descanses. Te me cuidas siempre staryuukiLove . Ve a todos chat staryuukiTibio staryuukiTibio staryuukiCheer100"
+	},
+	{
+		"channel": "#heelmike",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "2"
+			},
+			"badges": {
+				"subscriber": "0",
+				"bits": "100"
+			},
+			"bits": "200",
+			"color": "#9ACD32",
+			"display-name": "DrElite_",
+			"emotes": null,
+			"flags": null,
+			"id": "466e5dfc-0a78-4976-8b82-2e6eeb217b10",
+			"mod": false,
+			"room-id": "96419668",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163769463",
+			"turbo": false,
+			"user-id": "207373427",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/2",
+			"badges-raw": "subscriber/0,bits/100",
+			"username": "drelite_"
+		},
+		"message": "ShowLove100 ShowLove100 move mic closer to u mic"
+	},
+	{
+		"channel": "#heelmike",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "5"
+			},
+			"badges": {
+				"subscriber": "3",
+				"sub-gifter": "100"
+			},
+			"bits": "245",
+			"color": null,
+			"display-name": "geebzs",
+			"emotes": null,
+			"flags": "106-111:A.3",
+			"id": "7d62c5c5-4125-48fb-9335-8ae011094d64",
+			"mod": false,
+			"room-id": "96419668",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163791089",
+			"turbo": false,
+			"user-id": "507648232",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/5",
+			"badges-raw": "subscriber/3,sub-gifter/100",
+			"username": "geebzs"
+		},
+		"message": "Cheer245 mike why dont you help kat clean up and set up sleep stream instead of sitting down you 5 foot 2 midget 7 7 7 7 7 7 7"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "5"
+			},
+			"badges": {
+				"vip": "1",
+				"subscriber": "3003",
+				"bits": "75000"
+			},
+			"bits": "999",
+			"color": "#9ACD32",
+			"display-name": "ikki_sy",
+			"emotes": {
+				"301683486": ["132-144"]
+			},
+			"flags": null,
+			"id": "a5eaa0de-d12b-4e6c-b1cf-e84928b52de9",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163823141",
+			"turbo": false,
+			"user-id": "115873886",
+			"user-type": null,
+			"emotes-raw": "301683486:132-144",
+			"badge-info-raw": "subscriber/5",
+			"badges-raw": "vip/1,subscriber/3003,bits/75000",
+			"username": "ikki_sy"
+		},
+		"message": "cheer999 casi nunca me despido pero aqui siempre estoy, no olvides que nos iluminaste el dia a todos nosotros nunca te acabes bella staryuukiLove"
+	},
+	{
+		"channel": "#heelmike",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "2"
+			},
+			"badges": {
+				"subscriber": "0",
+				"bits": "100"
+			},
+			"bits": "200",
+			"color": "#9ACD32",
+			"display-name": "DrElite_",
+			"emotes": null,
+			"flags": "41-50:",
+			"id": "3b2793a9-0882-4a3d-ac75-ecbf7df17799",
+			"mod": false,
+			"room-id": "96419668",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163835624",
+			"turbo": false,
+			"user-id": "207373427",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/2",
+			"badges-raw": "subscriber/0,bits/100",
+			"username": "drelite_"
+		},
+		"message": "ShowLove100 ShowLove100 cant wait to see crack head and red head do a sleep stream"
+	},
+	{
+		"channel": "#staryuuki",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "3"
+			},
+			"badges": {
+				"subscriber": "3",
+				"sub-gifter": "1"
+			},
+			"bits": "100",
+			"color": null,
+			"display-name": "rodo101do",
+			"emotes": null,
+			"flags": "19-24:S.5",
+			"id": "7e2c6533-bd94-407f-a5c8-d03d6f4c9e52",
+			"mod": false,
+			"room-id": "167189231",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163863680",
+			"turbo": false,
+			"user-id": "545085358",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/3",
+			"badges-raw": "subscriber/3,sub-gifter/1",
+			"username": "rodo101do"
+		},
+		"message": "Cheer100 se van ya apenas despierto"
+	},
+	{
+		"channel": "#heelmike",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "2"
+			},
+			"badges": {
+				"subscriber": "0",
+				"bits": "100"
+			},
+			"bits": "100",
+			"color": "#9ACD32",
+			"display-name": "DrElite_",
+			"emotes": null,
+			"flags": null,
+			"id": "91a479ca-dcc3-4d55-aa7d-f895429fd084",
+			"mod": false,
+			"room-id": "96419668",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163876691",
+			"turbo": false,
+			"user-id": "207373427",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/2",
+			"badges-raw": "subscriber/0,bits/100",
+			"username": "drelite_"
+		},
+		"message": "Cheer100 lets get 7777777777777777777 for the bois"
+	},
+	{
+		"channel": "#heelmike",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "2"
+			},
+			"badges": {
+				"subscriber": "0",
+				"bits": "100"
+			},
+			"bits": "200",
+			"color": null,
+			"display-name": "realbackwoods",
+			"emotes": null,
+			"flags": null,
+			"id": "f42bbe4c-d2e8-414c-9444-8b7124c49cee",
+			"mod": false,
+			"room-id": "96419668",
+			"subscriber": true,
+			"tmi-sent-ts": "1598163893888",
+			"turbo": false,
+			"user-id": "133588224",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/2",
+			"badges-raw": "subscriber/0,bits/100",
+			"username": "realbackwoods"
+		},
+		"message": "cheer200 dishes and youre still on just chatting too mike"
+	},
+	{
+		"channel": "#heelmike",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "2"
+			},
+			"badges": {
+				"subscriber": "0",
+				"bits": "100"
+			},
+			"bits": "200",
+			"color": null,
+			"display-name": "realbackwoods",
+			"emotes": null,
+			"flags": null,
+			"id": "b1cff02d-2509-40fb-a75a-61b474658a75",
+			"mod": false,
+			"room-id": "96419668",
+			"subscriber": true,
+			"tmi-sent-ts": "1598164148112",
+			"turbo": false,
+			"user-id": "133588224",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/2",
+			"badges-raw": "subscriber/0,bits/100",
+			"username": "realbackwoods"
+		},
+		"message": "cheer200 dishes if you wanna do cooking stream tomorrow . and you are still in just chatting"
+	},
+	{
+		"channel": "#heelmike",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "9"
+			},
+			"badges": {
+				"subscriber": "9",
+				"bits": "25000"
+			},
+			"bits": "200",
+			"color": "#DAA520",
+			"display-name": "keith_2008",
+			"emotes": null,
+			"flags": "34-39:A.5/P.6",
+			"id": "febfeb40-9c42-4091-b8c6-93f0901219da",
+			"mod": false,
+			"room-id": "96419668",
+			"subscriber": true,
+			"tmi-sent-ts": "1598164342423",
+			"turbo": false,
+			"user-id": "174832047",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/9",
+			"badges-raw": "subscriber/9,bits/25000",
+			"username": "keith_2008"
+		},
+		"message": "PogChamp100 PogChamp100 keep that fucker off"
+	}
+]

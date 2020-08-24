@@ -1,0 +1,62 @@
+[
+	{
+		"channel": "#staryuuki",
+		"username": "m_a_n_u_1_3",
+		"reason": null,
+		"userstate": {
+			"room-id": "167189231",
+			"target-user-id": "552643869",
+			"tmi-sent-ts": "1598163016841"
+		}
+	},
+	{
+		"channel": "#staryuuki",
+		"username": "axel_ovando1",
+		"reason": null,
+		"userstate": {
+			"room-id": "167189231",
+			"target-user-id": "537921761",
+			"tmi-sent-ts": "1598163034905"
+		}
+	},
+	{
+		"channel": "#staryuuki",
+		"username": "jezen98",
+		"reason": null,
+		"userstate": {
+			"room-id": "167189231",
+			"target-user-id": "542245078",
+			"tmi-sent-ts": "1598163176000"
+		}
+	},
+	{
+		"channel": "#staryuuki",
+		"username": "oscarcossiobv",
+		"reason": null,
+		"userstate": {
+			"room-id": "167189231",
+			"target-user-id": "483690231",
+			"tmi-sent-ts": "1598163397841"
+		}
+	},
+	{
+		"channel": "#staryuuki",
+		"username": "pr0d1gys",
+		"reason": null,
+		"userstate": {
+			"room-id": "167189231",
+			"target-user-id": "455094510",
+			"tmi-sent-ts": "1598163598963"
+		}
+	},
+	{
+		"channel": "#staryuuki",
+		"username": "wilnan_caraballo27",
+		"reason": null,
+		"userstate": {
+			"room-id": "167189231",
+			"target-user-id": "534224410",
+			"tmi-sent-ts": "1598164064623"
+		}
+	}
+]

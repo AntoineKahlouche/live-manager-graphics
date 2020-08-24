@@ -1,0 +1,324 @@
+[
+	{
+		"channel": "#staryuuki",
+		"username": "djnovastrike",
+		"method": {
+			"prime": true,
+			"plan": "Prime",
+			"planName": "Channel Subscription (staryuuki)"
+		},
+		"message": null,
+		"userstate": {
+			"badge-info": null,
+			"badges": {
+				"premium": "1"
+			},
+			"color": "#0000FF",
+			"display-name": "djnovastrike",
+			"emotes": null,
+			"flags": null,
+			"id": "da43cecb-1477-4638-814a-c1000ed34dd2",
+			"login": "djnovastrike",
+			"mod": false,
+			"msg-id": "sub",
+			"msg-param-cumulative-months": true,
+			"msg-param-months": false,
+			"msg-param-should-share-streak": false,
+			"msg-param-sub-plan-name": "Channel Subscription (staryuuki)",
+			"msg-param-sub-plan": "Prime",
+			"room-id": "167189231",
+			"subscriber": true,
+			"system-msg": "djnovastrike subscribed with Twitch Prime.",
+			"tmi-sent-ts": "1598162746239",
+			"user-id": "535526663",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": null,
+			"badges-raw": "premium/1",
+			"message-type": "sub"
+		}
+	},
+	{
+		"channel": "#staryuuki",
+		"username": "furtivoultra",
+		"method": {
+			"prime": true,
+			"plan": "Prime",
+			"planName": "Channel Subscription (staryuuki)"
+		},
+		"message": null,
+		"userstate": {
+			"badge-info": null,
+			"badges": {
+				"premium": "1"
+			},
+			"color": null,
+			"display-name": "furtivoultra",
+			"emotes": null,
+			"flags": null,
+			"id": "71597b80-3d1a-43c3-a954-54bccf80c76b",
+			"login": "furtivoultra",
+			"mod": false,
+			"msg-id": "sub",
+			"msg-param-cumulative-months": true,
+			"msg-param-months": false,
+			"msg-param-should-share-streak": false,
+			"msg-param-sub-plan-name": "Channel Subscription (staryuuki)",
+			"msg-param-sub-plan": "Prime",
+			"room-id": "167189231",
+			"subscriber": true,
+			"system-msg": "furtivoultra subscribed with Twitch Prime.",
+			"tmi-sent-ts": "1598163007010",
+			"user-id": "271464897",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": null,
+			"badges-raw": "premium/1",
+			"message-type": "sub"
+		}
+	},
+	{
+		"channel": "#manuelferraratv",
+		"username": "samskool1993",
+		"method": {
+			"prime": true,
+			"plan": "Prime",
+			"planName": "Channel Subscription (manuelferraratv)"
+		},
+		"message": null,
+		"userstate": {
+			"badge-info": {
+				"subscriber": "0"
+			},
+			"badges": {
+				"subscriber": "0",
+				"premium": "1"
+			},
+			"color": "#0000FF",
+			"display-name": "samskool1993",
+			"emotes": null,
+			"flags": null,
+			"id": "ff74403f-282b-45eb-9554-f5b0f55976d2",
+			"login": "samskool1993",
+			"mod": false,
+			"msg-id": "sub",
+			"msg-param-cumulative-months": true,
+			"msg-param-months": false,
+			"msg-param-should-share-streak": false,
+			"msg-param-sub-plan-name": "Channel Subscription (manuelferraratv)",
+			"msg-param-sub-plan": "Prime",
+			"room-id": "131861345",
+			"subscriber": true,
+			"system-msg": "samskool1993 subscribed with Twitch Prime.",
+			"tmi-sent-ts": "1598163266274",
+			"user-id": "137896429",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/0",
+			"badges-raw": "subscriber/0,premium/1",
+			"message-type": "sub"
+		}
+	},
+	{
+		"channel": "#staryuuki",
+		"username": "el_gfernandez",
+		"method": {
+			"prime": true,
+			"plan": "Prime",
+			"planName": "Channel Subscription (staryuuki)"
+		},
+		"message": null,
+		"userstate": {
+			"badge-info": null,
+			"badges": {
+				"premium": "1"
+			},
+			"color": null,
+			"display-name": "el_gfernandez",
+			"emotes": null,
+			"flags": null,
+			"id": "8ac3f5c4-4273-4927-99e9-9878385396ba",
+			"login": "el_gfernandez",
+			"mod": false,
+			"msg-id": "sub",
+			"msg-param-cumulative-months": true,
+			"msg-param-months": false,
+			"msg-param-should-share-streak": false,
+			"msg-param-sub-plan-name": "Channel Subscription (staryuuki)",
+			"msg-param-sub-plan": "Prime",
+			"room-id": "167189231",
+			"subscriber": true,
+			"system-msg": "el_gfernandez subscribed with Twitch Prime.",
+			"tmi-sent-ts": "1598163268936",
+			"user-id": "519802071",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": null,
+			"badges-raw": "premium/1",
+			"message-type": "sub"
+		}
+	},
+	{
+		"channel": "#heelmike",
+		"username": "pilotmichal",
+		"method": {
+			"prime": true,
+			"plan": "Prime",
+			"planName": "Channel Subscription (heelmike)"
+		},
+		"message": null,
+		"userstate": {
+			"badge-info": {
+				"subscriber": "0"
+			},
+			"badges": {
+				"subscriber": "0",
+				"premium": "1"
+			},
+			"color": "#0072FF",
+			"display-name": "pilotmichal",
+			"emotes": null,
+			"flags": null,
+			"id": "8543d011-9606-4389-9019-5d50cf2b4fd2",
+			"login": "pilotmichal",
+			"mod": false,
+			"msg-id": "sub",
+			"msg-param-cumulative-months": true,
+			"msg-param-months": false,
+			"msg-param-should-share-streak": false,
+			"msg-param-sub-plan-name": "Channel Subscription (heelmike)",
+			"msg-param-sub-plan": "Prime",
+			"room-id": "96419668",
+			"subscriber": true,
+			"system-msg": "pilotmichal subscribed with Twitch Prime.",
+			"tmi-sent-ts": "1598163305306",
+			"user-id": "194465744",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/0",
+			"badges-raw": "subscriber/0,premium/1",
+			"message-type": "sub"
+		}
+	},
+	{
+		"channel": "#staryuuki",
+		"username": "e1v3x",
+		"method": {
+			"prime": false,
+			"plan": "1000",
+			"planName": "Channel Subscription (staryuuki)"
+		},
+		"message": null,
+		"userstate": {
+			"badge-info": {
+				"subscriber": "0"
+			},
+			"badges": {
+				"subscriber": "0",
+				"bits": "100"
+			},
+			"color": "#DAA520",
+			"display-name": "e1v3x",
+			"emotes": null,
+			"flags": null,
+			"id": "4dbe72a9-392c-493c-b75e-1ec2c374971a",
+			"login": "e1v3x",
+			"mod": false,
+			"msg-id": "sub",
+			"msg-param-cumulative-months": true,
+			"msg-param-months": false,
+			"msg-param-should-share-streak": false,
+			"msg-param-sub-plan-name": "Channel Subscription (staryuuki)",
+			"msg-param-sub-plan": "1000",
+			"room-id": "167189231",
+			"subscriber": true,
+			"system-msg": "e1v3x subscribed at Tier 1.",
+			"tmi-sent-ts": "1598163680718",
+			"user-id": "45344773",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/0",
+			"badges-raw": "subscriber/0,bits/100",
+			"message-type": "sub"
+		}
+	},
+	{
+		"channel": "#manuelferraratv",
+		"username": "JKAAFF",
+		"method": {
+			"prime": true,
+			"plan": "Prime",
+			"planName": "Channel Subscription (manuelferraratv)"
+		},
+		"message": null,
+		"userstate": {
+			"badge-info": {
+				"subscriber": "0"
+			},
+			"badges": {
+				"subscriber": "0",
+				"premium": "1"
+			},
+			"color": null,
+			"display-name": "JKAAFF",
+			"emotes": null,
+			"flags": null,
+			"id": "eb8b798c-2dbd-49ed-bf87-cb516a17278d",
+			"login": "jkaaff",
+			"mod": false,
+			"msg-id": "sub",
+			"msg-param-cumulative-months": true,
+			"msg-param-months": false,
+			"msg-param-should-share-streak": false,
+			"msg-param-sub-plan-name": "Channel Subscription (manuelferraratv)",
+			"msg-param-sub-plan": "Prime",
+			"room-id": "131861345",
+			"subscriber": true,
+			"system-msg": "JKAAFF subscribed with Twitch Prime.",
+			"tmi-sent-ts": "1598163756503",
+			"user-id": "513470536",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/0",
+			"badges-raw": "subscriber/0,premium/1",
+			"message-type": "sub"
+		}
+	},
+	{
+		"channel": "#staryuuki",
+		"username": "sebas_omg9",
+		"method": {
+			"prime": false,
+			"plan": "1000",
+			"planName": "Channel Subscription (staryuuki)"
+		},
+		"message": null,
+		"userstate": {
+			"badge-info": null,
+			"badges": null,
+			"color": null,
+			"display-name": "sebas_omg9",
+			"emotes": null,
+			"flags": null,
+			"id": "3ab9f678-124b-4aa8-89d8-172980b5a1bf",
+			"login": "sebas_omg9",
+			"mod": false,
+			"msg-id": "sub",
+			"msg-param-cumulative-months": true,
+			"msg-param-months": false,
+			"msg-param-should-share-streak": false,
+			"msg-param-sub-plan-name": "Channel Subscription (staryuuki)",
+			"msg-param-sub-plan": "1000",
+			"room-id": "167189231",
+			"subscriber": true,
+			"system-msg": "sebas_omg9 subscribed at Tier 1.",
+			"tmi-sent-ts": "1598163758413",
+			"user-id": "555005214",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": null,
+			"badges-raw": null,
+			"message-type": "sub"
+		}
+	}
+]

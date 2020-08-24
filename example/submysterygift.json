@@ -1,0 +1,125 @@
+[
+	{
+		"channel": "#staryuuki",
+		"username": "jesvalmor",
+		"numbOfSubs": 5,
+		"methods": {
+			"prime": false,
+			"plan": "1000",
+			"planName": null
+		},
+		"userstate": {
+			"badge-info": {
+				"subscriber": "2"
+			},
+			"badges": {
+				"subscriber": "0",
+				"sub-gifter": "5"
+			},
+			"color": null,
+			"display-name": "jesvalmor",
+			"emotes": null,
+			"flags": null,
+			"id": "58a6b742-5b8c-47c8-a587-1832c6977601",
+			"login": "jesvalmor",
+			"mod": false,
+			"msg-id": "submysterygift",
+			"msg-param-mass-gift-count": "5",
+			"msg-param-origin-id": "06 67 07 55 da d7 bc fc 43 1f 3c 6c 4f 2c 78 98 96 e7 48 92",
+			"msg-param-sender-count": "11",
+			"msg-param-sub-plan": "1000",
+			"room-id": "167189231",
+			"subscriber": true,
+			"system-msg": "jesvalmor is gifting 5 Tier 1 Subs to Staryuuki's community! They've gifted a total of 11 in the channel!",
+			"tmi-sent-ts": "1598163415256",
+			"user-id": "528915086",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/2",
+			"badges-raw": "subscriber/0,sub-gifter/5",
+			"message-type": "submysterygift"
+		}
+	},
+	{
+		"channel": "#staryuuki",
+		"username": "rodo101do",
+		"numbOfSubs": 5,
+		"methods": {
+			"prime": false,
+			"plan": "1000",
+			"planName": null
+		},
+		"userstate": {
+			"badge-info": {
+				"subscriber": "3"
+			},
+			"badges": {
+				"subscriber": "3",
+				"sub-gifter": "1"
+			},
+			"color": null,
+			"display-name": "rodo101do",
+			"emotes": null,
+			"flags": null,
+			"id": "a513e7d5-42fd-4906-a53b-e2025c707fc3",
+			"login": "rodo101do",
+			"mod": false,
+			"msg-id": "submysterygift",
+			"msg-param-mass-gift-count": "5",
+			"msg-param-origin-id": "81 2e 98 22 00 4b 01 65 a9 35 a5 1f e0 70 99 9a f6 89 95 46",
+			"msg-param-sender-count": false,
+			"msg-param-sub-plan": "1000",
+			"room-id": "167189231",
+			"subscriber": true,
+			"system-msg": "rodo101do is gifting 5 Tier 1 Subs to Staryuuki's community!",
+			"tmi-sent-ts": "1598163487745",
+			"user-id": "545085358",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/3",
+			"badges-raw": "subscriber/3,sub-gifter/1",
+			"message-type": "submysterygift"
+		}
+	},
+	{
+		"channel": "#heelmike",
+		"username": "thatsjustdeclan",
+		"numbOfSubs": 1,
+		"methods": {
+			"prime": false,
+			"plan": "1000",
+			"planName": null
+		},
+		"userstate": {
+			"badge-info": {
+				"subscriber": "3"
+			},
+			"badges": {
+				"subscriber": "3",
+				"sub-gifter": "10"
+			},
+			"color": null,
+			"display-name": "thatsjustdeclan",
+			"emotes": null,
+			"flags": null,
+			"id": "9675af0a-d956-4108-a82f-32e4f119958c",
+			"login": "thatsjustdeclan",
+			"mod": false,
+			"msg-id": "submysterygift",
+			"msg-param-mass-gift-count": true,
+			"msg-param-origin-id": "c4 49 d4 52 72 1b c2 e3 7e 34 45 b3 b7 5f 6e 3b 2d 40 88 4e",
+			"msg-param-sender-count": "11",
+			"msg-param-sub-plan": "1000",
+			"room-id": "96419668",
+			"subscriber": true,
+			"system-msg": "thatsjustdeclan is gifting 1 Tier 1 Subs to Heelmike's community! They've gifted a total of 11 in the channel!",
+			"tmi-sent-ts": "1598164299079",
+			"user-id": "507602033",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/3",
+			"badges-raw": "subscriber/3,sub-gifter/10",
+			"message-type": "submysterygift"
+		}
+	}
+]

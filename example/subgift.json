@@ -1,0 +1,753 @@
+[
+	{
+		"channel": "#heelmike",
+		"username": "geebzs",
+		"streakMonths": 0,
+		"recipient": "swazziz",
+		"methods": {
+			"prime": false,
+			"plan": "1000",
+			"planName": "Channel Subscription (heelmike)"
+		},
+		"userstate": {
+			"badge-info": {
+				"subscriber": "5"
+			},
+			"badges": {
+				"subscriber": "3",
+				"sub-gifter": "100"
+			},
+			"color": null,
+			"display-name": "geebzs",
+			"emotes": null,
+			"flags": null,
+			"id": "3c615366-16c2-4d23-a785-7d6c06dd46fc",
+			"login": "geebzs",
+			"mod": false,
+			"msg-id": "subgift",
+			"msg-param-gift-months": true,
+			"msg-param-months": true,
+			"msg-param-origin-id": "da 39 a3 ee 5e 6b 4b 0d 32 55 bf ef 95 60 18 90 af d8 07 09",
+			"msg-param-recipient-display-name": "swazziz",
+			"msg-param-recipient-id": "447233446",
+			"msg-param-recipient-user-name": "swazziz",
+			"msg-param-sender-count": "154",
+			"msg-param-sub-plan-name": "Channel Subscription (heelmike)",
+			"msg-param-sub-plan": "1000",
+			"room-id": "96419668",
+			"subscriber": true,
+			"system-msg": "geebzs gifted a Tier 1 sub to swazziz! They have given 154 Gift Subs in the channel!",
+			"tmi-sent-ts": "1598163185939",
+			"user-id": "507648232",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/5",
+			"badges-raw": "subscriber/3,sub-gifter/100",
+			"message-type": "subgift"
+		}
+	},
+	{
+		"channel": "#manuelferraratv",
+		"username": "senor_zacapa",
+		"streakMonths": 0,
+		"recipient": "lechatboxeur88",
+		"methods": {
+			"prime": false,
+			"plan": "1000",
+			"planName": "Channel Subscription (manuelferraratv)"
+		},
+		"userstate": {
+			"badge-info": {
+				"subscriber": "7"
+			},
+			"badges": {
+				"subscriber": "6",
+				"sub-gift-leader": "1"
+			},
+			"color": "#5F9EA0",
+			"display-name": "senor_zacapa",
+			"emotes": null,
+			"flags": null,
+			"id": "16b688d6-02ba-4de1-8de9-8c3508cd245b",
+			"login": "senor_zacapa",
+			"mod": false,
+			"msg-id": "subgift",
+			"msg-param-gift-months": true,
+			"msg-param-months": true,
+			"msg-param-origin-id": "da 39 a3 ee 5e 6b 4b 0d 32 55 bf ef 95 60 18 90 af d8 07 09",
+			"msg-param-recipient-display-name": "lechatboxeur88",
+			"msg-param-recipient-id": "520760106",
+			"msg-param-recipient-user-name": "lechatboxeur88",
+			"msg-param-sender-count": "23",
+			"msg-param-sub-plan-name": "Channel Subscription (manuelferraratv)",
+			"msg-param-sub-plan": "1000",
+			"room-id": "131861345",
+			"subscriber": true,
+			"system-msg": "senor_zacapa gifted a Tier 1 sub to lechatboxeur88! They have given 23 Gift Subs in the channel!",
+			"tmi-sent-ts": "1598163231253",
+			"user-id": "466609216",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/7",
+			"badges-raw": "subscriber/6,sub-gift-leader/1",
+			"message-type": "subgift"
+		}
+	},
+	{
+		"channel": "#heelmike",
+		"username": "geebzs",
+		"streakMonths": 0,
+		"recipient": "kingofclapzz",
+		"methods": {
+			"prime": false,
+			"plan": "1000",
+			"planName": "Channel Subscription (heelmike)"
+		},
+		"userstate": {
+			"badge-info": {
+				"subscriber": "5"
+			},
+			"badges": {
+				"subscriber": "3",
+				"sub-gifter": "100"
+			},
+			"color": null,
+			"display-name": "geebzs",
+			"emotes": null,
+			"flags": null,
+			"id": "4283daa6-9158-479b-944d-c1a2e592103a",
+			"login": "geebzs",
+			"mod": false,
+			"msg-id": "subgift",
+			"msg-param-gift-months": true,
+			"msg-param-months": "2",
+			"msg-param-origin-id": "da 39 a3 ee 5e 6b 4b 0d 32 55 bf ef 95 60 18 90 af d8 07 09",
+			"msg-param-recipient-display-name": "kingofclapzz",
+			"msg-param-recipient-id": "494762980",
+			"msg-param-recipient-user-name": "kingofclapzz",
+			"msg-param-sender-count": "155",
+			"msg-param-sub-plan-name": "Channel Subscription (heelmike)",
+			"msg-param-sub-plan": "1000",
+			"room-id": "96419668",
+			"subscriber": true,
+			"system-msg": "geebzs gifted a Tier 1 sub to kingofclapzz! They have given 155 Gift Subs in the channel!",
+			"tmi-sent-ts": "1598163325448",
+			"user-id": "507648232",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/5",
+			"badges-raw": "subscriber/3,sub-gifter/100",
+			"message-type": "subgift"
+		}
+	},
+	{
+		"channel": "#staryuuki",
+		"username": "jesvalmor",
+		"streakMonths": 0,
+		"recipient": "brandon19473626274",
+		"methods": {
+			"prime": false,
+			"plan": "1000",
+			"planName": "Channel Subscription (staryuuki)"
+		},
+		"userstate": {
+			"badge-info": {
+				"subscriber": "2"
+			},
+			"badges": {
+				"subscriber": "0",
+				"sub-gifter": "5"
+			},
+			"color": null,
+			"display-name": "jesvalmor",
+			"emotes": null,
+			"flags": null,
+			"id": "596dac2e-9cd5-4cb8-8e22-527d26a8b354",
+			"login": "jesvalmor",
+			"mod": false,
+			"msg-id": "subgift",
+			"msg-param-gift-months": true,
+			"msg-param-months": true,
+			"msg-param-origin-id": "da 39 a3 ee 5e 6b 4b 0d 32 55 bf ef 95 60 18 90 af d8 07 09",
+			"msg-param-recipient-display-name": "brandon19473626274",
+			"msg-param-recipient-id": "558631556",
+			"msg-param-recipient-user-name": "brandon19473626274",
+			"msg-param-sender-count": false,
+			"msg-param-sub-plan-name": "Channel Subscription (staryuuki)",
+			"msg-param-sub-plan": "1000",
+			"room-id": "167189231",
+			"subscriber": true,
+			"system-msg": "jesvalmor gifted a Tier 1 sub to brandon19473626274!",
+			"tmi-sent-ts": "1598163416140",
+			"user-id": "528915086",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/2",
+			"badges-raw": "subscriber/0,sub-gifter/5",
+			"message-type": "subgift"
+		}
+	},
+	{
+		"channel": "#staryuuki",
+		"username": "jesvalmor",
+		"streakMonths": 0,
+		"recipient": "coloxiusxd57",
+		"methods": {
+			"prime": false,
+			"plan": "1000",
+			"planName": "Channel Subscription (staryuuki)"
+		},
+		"userstate": {
+			"badge-info": {
+				"subscriber": "2"
+			},
+			"badges": {
+				"subscriber": "0",
+				"sub-gifter": "5"
+			},
+			"color": null,
+			"display-name": "jesvalmor",
+			"emotes": null,
+			"flags": null,
+			"id": "4694e25c-6008-4670-9531-6daafac63bd3",
+			"login": "jesvalmor",
+			"mod": false,
+			"msg-id": "subgift",
+			"msg-param-gift-months": true,
+			"msg-param-months": "3",
+			"msg-param-origin-id": "da 39 a3 ee 5e 6b 4b 0d 32 55 bf ef 95 60 18 90 af d8 07 09",
+			"msg-param-recipient-display-name": "coloxiusxd57",
+			"msg-param-recipient-id": "476383729",
+			"msg-param-recipient-user-name": "coloxiusxd57",
+			"msg-param-sender-count": false,
+			"msg-param-sub-plan-name": "Channel Subscription (staryuuki)",
+			"msg-param-sub-plan": "1000",
+			"room-id": "167189231",
+			"subscriber": true,
+			"system-msg": "jesvalmor gifted a Tier 1 sub to coloxiusxd57!",
+			"tmi-sent-ts": "1598163416148",
+			"user-id": "528915086",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/2",
+			"badges-raw": "subscriber/0,sub-gifter/5",
+			"message-type": "subgift"
+		}
+	},
+	{
+		"channel": "#staryuuki",
+		"username": "jesvalmor",
+		"streakMonths": 0,
+		"recipient": "gamerstyle96",
+		"methods": {
+			"prime": false,
+			"plan": "1000",
+			"planName": "Channel Subscription (staryuuki)"
+		},
+		"userstate": {
+			"badge-info": {
+				"subscriber": "2"
+			},
+			"badges": {
+				"subscriber": "0",
+				"sub-gifter": "5"
+			},
+			"color": null,
+			"display-name": "jesvalmor",
+			"emotes": null,
+			"flags": null,
+			"id": "2a57e361-affe-46a6-b94e-1061642de1b1",
+			"login": "jesvalmor",
+			"mod": false,
+			"msg-id": "subgift",
+			"msg-param-gift-months": true,
+			"msg-param-months": true,
+			"msg-param-origin-id": "da 39 a3 ee 5e 6b 4b 0d 32 55 bf ef 95 60 18 90 af d8 07 09",
+			"msg-param-recipient-display-name": "gamerstyle96",
+			"msg-param-recipient-id": "562235993",
+			"msg-param-recipient-user-name": "gamerstyle96",
+			"msg-param-sender-count": false,
+			"msg-param-sub-plan-name": "Channel Subscription (staryuuki)",
+			"msg-param-sub-plan": "1000",
+			"room-id": "167189231",
+			"subscriber": true,
+			"system-msg": "jesvalmor gifted a Tier 1 sub to gamerstyle96!",
+			"tmi-sent-ts": "1598163416165",
+			"user-id": "528915086",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/2",
+			"badges-raw": "subscriber/0,sub-gifter/5",
+			"message-type": "subgift"
+		}
+	},
+	{
+		"channel": "#staryuuki",
+		"username": "jesvalmor",
+		"streakMonths": 0,
+		"recipient": "sneakyhurdley68",
+		"methods": {
+			"prime": false,
+			"plan": "1000",
+			"planName": "Channel Subscription (staryuuki)"
+		},
+		"userstate": {
+			"badge-info": {
+				"subscriber": "2"
+			},
+			"badges": {
+				"subscriber": "0",
+				"sub-gifter": "5"
+			},
+			"color": null,
+			"display-name": "jesvalmor",
+			"emotes": null,
+			"flags": null,
+			"id": "bc245b80-188b-4c55-a971-709c57be6886",
+			"login": "jesvalmor",
+			"mod": false,
+			"msg-id": "subgift",
+			"msg-param-gift-months": true,
+			"msg-param-months": true,
+			"msg-param-origin-id": "da 39 a3 ee 5e 6b 4b 0d 32 55 bf ef 95 60 18 90 af d8 07 09",
+			"msg-param-recipient-display-name": "sneakyhurdley68",
+			"msg-param-recipient-id": "552099494",
+			"msg-param-recipient-user-name": "sneakyhurdley68",
+			"msg-param-sender-count": false,
+			"msg-param-sub-plan-name": "Channel Subscription (staryuuki)",
+			"msg-param-sub-plan": "1000",
+			"room-id": "167189231",
+			"subscriber": true,
+			"system-msg": "jesvalmor gifted a Tier 1 sub to sneakyhurdley68!",
+			"tmi-sent-ts": "1598163416228",
+			"user-id": "528915086",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/2",
+			"badges-raw": "subscriber/0,sub-gifter/5",
+			"message-type": "subgift"
+		}
+	},
+	{
+		"channel": "#staryuuki",
+		"username": "jesvalmor",
+		"streakMonths": 0,
+		"recipient": "chris_ale_",
+		"methods": {
+			"prime": false,
+			"plan": "1000",
+			"planName": "Channel Subscription (staryuuki)"
+		},
+		"userstate": {
+			"badge-info": {
+				"subscriber": "2"
+			},
+			"badges": {
+				"subscriber": "0",
+				"sub-gifter": "5"
+			},
+			"color": null,
+			"display-name": "jesvalmor",
+			"emotes": null,
+			"flags": null,
+			"id": "191465b7-9437-4bb2-bed8-78963cfd94a7",
+			"login": "jesvalmor",
+			"mod": false,
+			"msg-id": "subgift",
+			"msg-param-gift-months": true,
+			"msg-param-months": true,
+			"msg-param-origin-id": "da 39 a3 ee 5e 6b 4b 0d 32 55 bf ef 95 60 18 90 af d8 07 09",
+			"msg-param-recipient-display-name": "chris_ale_",
+			"msg-param-recipient-id": "559029154",
+			"msg-param-recipient-user-name": "chris_ale_",
+			"msg-param-sender-count": false,
+			"msg-param-sub-plan-name": "Channel Subscription (staryuuki)",
+			"msg-param-sub-plan": "1000",
+			"room-id": "167189231",
+			"subscriber": true,
+			"system-msg": "jesvalmor gifted a Tier 1 sub to chris_ale_!",
+			"tmi-sent-ts": "1598163416277",
+			"user-id": "528915086",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/2",
+			"badges-raw": "subscriber/0,sub-gifter/5",
+			"message-type": "subgift"
+		}
+	},
+	{
+		"channel": "#staryuuki",
+		"username": "rodo101do",
+		"streakMonths": 0,
+		"recipient": "rulaxs",
+		"methods": {
+			"prime": false,
+			"plan": "1000",
+			"planName": "Channel Subscription (staryuuki)"
+		},
+		"userstate": {
+			"badge-info": {
+				"subscriber": "3"
+			},
+			"badges": {
+				"subscriber": "3",
+				"sub-gifter": "1"
+			},
+			"color": null,
+			"display-name": "rodo101do",
+			"emotes": null,
+			"flags": null,
+			"id": "d40caf19-a5ef-41c1-a69f-a2eb217eff39",
+			"login": "rodo101do",
+			"mod": false,
+			"msg-id": "subgift",
+			"msg-param-gift-months": true,
+			"msg-param-months": true,
+			"msg-param-origin-id": "da 39 a3 ee 5e 6b 4b 0d 32 55 bf ef 95 60 18 90 af d8 07 09",
+			"msg-param-recipient-display-name": "rulaxs",
+			"msg-param-recipient-id": "544671738",
+			"msg-param-recipient-user-name": "rulaxs",
+			"msg-param-sender-count": false,
+			"msg-param-sub-plan-name": "Channel Subscription (staryuuki)",
+			"msg-param-sub-plan": "1000",
+			"room-id": "167189231",
+			"subscriber": true,
+			"system-msg": "rodo101do gifted a Tier 1 sub to rulaxs!",
+			"tmi-sent-ts": "1598163488930",
+			"user-id": "545085358",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/3",
+			"badges-raw": "subscriber/3,sub-gifter/1",
+			"message-type": "subgift"
+		}
+	},
+	{
+		"channel": "#staryuuki",
+		"username": "rodo101do",
+		"streakMonths": 0,
+		"recipient": "ja_ov",
+		"methods": {
+			"prime": false,
+			"plan": "1000",
+			"planName": "Channel Subscription (staryuuki)"
+		},
+		"userstate": {
+			"badge-info": {
+				"subscriber": "3"
+			},
+			"badges": {
+				"subscriber": "3",
+				"sub-gifter": "1"
+			},
+			"color": null,
+			"display-name": "rodo101do",
+			"emotes": null,
+			"flags": null,
+			"id": "cbcf8b41-0563-481c-b383-1164e00ffd81",
+			"login": "rodo101do",
+			"mod": false,
+			"msg-id": "subgift",
+			"msg-param-gift-months": true,
+			"msg-param-months": true,
+			"msg-param-origin-id": "da 39 a3 ee 5e 6b 4b 0d 32 55 bf ef 95 60 18 90 af d8 07 09",
+			"msg-param-recipient-display-name": "ja_ov",
+			"msg-param-recipient-id": "559668805",
+			"msg-param-recipient-user-name": "ja_ov",
+			"msg-param-sender-count": false,
+			"msg-param-sub-plan-name": "Channel Subscription (staryuuki)",
+			"msg-param-sub-plan": "1000",
+			"room-id": "167189231",
+			"subscriber": true,
+			"system-msg": "rodo101do gifted a Tier 1 sub to ja_ov!",
+			"tmi-sent-ts": "1598163489006",
+			"user-id": "545085358",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/3",
+			"badges-raw": "subscriber/3,sub-gifter/1",
+			"message-type": "subgift"
+		}
+	},
+	{
+		"channel": "#staryuuki",
+		"username": "rodo101do",
+		"streakMonths": 0,
+		"recipient": "albertofl_2018",
+		"methods": {
+			"prime": false,
+			"plan": "1000",
+			"planName": "Channel Subscription (staryuuki)"
+		},
+		"userstate": {
+			"badge-info": {
+				"subscriber": "3"
+			},
+			"badges": {
+				"subscriber": "3",
+				"sub-gifter": "1"
+			},
+			"color": null,
+			"display-name": "rodo101do",
+			"emotes": null,
+			"flags": null,
+			"id": "a76e2f8e-571c-4d9e-8a1c-fb3843da43f8",
+			"login": "rodo101do",
+			"mod": false,
+			"msg-id": "subgift",
+			"msg-param-gift-months": true,
+			"msg-param-months": true,
+			"msg-param-origin-id": "da 39 a3 ee 5e 6b 4b 0d 32 55 bf ef 95 60 18 90 af d8 07 09",
+			"msg-param-recipient-display-name": "albertofl_2018",
+			"msg-param-recipient-id": "551993457",
+			"msg-param-recipient-user-name": "albertofl_2018",
+			"msg-param-sender-count": false,
+			"msg-param-sub-plan-name": "Channel Subscription (staryuuki)",
+			"msg-param-sub-plan": "1000",
+			"room-id": "167189231",
+			"subscriber": true,
+			"system-msg": "rodo101do gifted a Tier 1 sub to albertofl_2018!",
+			"tmi-sent-ts": "1598163489005",
+			"user-id": "545085358",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/3",
+			"badges-raw": "subscriber/3,sub-gifter/1",
+			"message-type": "subgift"
+		}
+	},
+	{
+		"channel": "#staryuuki",
+		"username": "rodo101do",
+		"streakMonths": 0,
+		"recipient": "x_martin_65",
+		"methods": {
+			"prime": false,
+			"plan": "1000",
+			"planName": "Channel Subscription (staryuuki)"
+		},
+		"userstate": {
+			"badge-info": {
+				"subscriber": "3"
+			},
+			"badges": {
+				"subscriber": "3",
+				"sub-gifter": "1"
+			},
+			"color": null,
+			"display-name": "rodo101do",
+			"emotes": null,
+			"flags": null,
+			"id": "26949276-8e47-4741-af56-df4a649075dc",
+			"login": "rodo101do",
+			"mod": false,
+			"msg-id": "subgift",
+			"msg-param-gift-months": true,
+			"msg-param-months": true,
+			"msg-param-origin-id": "da 39 a3 ee 5e 6b 4b 0d 32 55 bf ef 95 60 18 90 af d8 07 09",
+			"msg-param-recipient-display-name": "x_martin_65",
+			"msg-param-recipient-id": "566128391",
+			"msg-param-recipient-user-name": "x_martin_65",
+			"msg-param-sender-count": false,
+			"msg-param-sub-plan-name": "Channel Subscription (staryuuki)",
+			"msg-param-sub-plan": "1000",
+			"room-id": "167189231",
+			"subscriber": true,
+			"system-msg": "rodo101do gifted a Tier 1 sub to x_martin_65!",
+			"tmi-sent-ts": "1598163489011",
+			"user-id": "545085358",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/3",
+			"badges-raw": "subscriber/3,sub-gifter/1",
+			"message-type": "subgift"
+		}
+	},
+	{
+		"channel": "#staryuuki",
+		"username": "rodo101do",
+		"streakMonths": 0,
+		"recipient": "david_mx13",
+		"methods": {
+			"prime": false,
+			"plan": "1000",
+			"planName": "Channel Subscription (staryuuki)"
+		},
+		"userstate": {
+			"badge-info": {
+				"subscriber": "3"
+			},
+			"badges": {
+				"subscriber": "3",
+				"sub-gifter": "1"
+			},
+			"color": null,
+			"display-name": "rodo101do",
+			"emotes": null,
+			"flags": null,
+			"id": "70293cb1-74e3-43eb-a620-693f0fed1fb8",
+			"login": "rodo101do",
+			"mod": false,
+			"msg-id": "subgift",
+			"msg-param-gift-months": true,
+			"msg-param-months": true,
+			"msg-param-origin-id": "da 39 a3 ee 5e 6b 4b 0d 32 55 bf ef 95 60 18 90 af d8 07 09",
+			"msg-param-recipient-display-name": "david_mx13",
+			"msg-param-recipient-id": "566430936",
+			"msg-param-recipient-user-name": "david_mx13",
+			"msg-param-sender-count": false,
+			"msg-param-sub-plan-name": "Channel Subscription (staryuuki)",
+			"msg-param-sub-plan": "1000",
+			"room-id": "167189231",
+			"subscriber": true,
+			"system-msg": "rodo101do gifted a Tier 1 sub to david_mx13!",
+			"tmi-sent-ts": "1598163489048",
+			"user-id": "545085358",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/3",
+			"badges-raw": "subscriber/3,sub-gifter/1",
+			"message-type": "subgift"
+		}
+	},
+	{
+		"channel": "#heelmike",
+		"username": "geebzs",
+		"streakMonths": 0,
+		"recipient": "FrenzyNMC",
+		"methods": {
+			"prime": false,
+			"plan": "1000",
+			"planName": "Channel Subscription (heelmike)"
+		},
+		"userstate": {
+			"badge-info": {
+				"subscriber": "5"
+			},
+			"badges": {
+				"subscriber": "3",
+				"sub-gifter": "100"
+			},
+			"color": null,
+			"display-name": "geebzs",
+			"emotes": null,
+			"flags": null,
+			"id": "7b0c1561-fafc-46b4-8900-aadab75589b4",
+			"login": "geebzs",
+			"mod": false,
+			"msg-id": "subgift",
+			"msg-param-gift-months": true,
+			"msg-param-months": "2",
+			"msg-param-origin-id": "da 39 a3 ee 5e 6b 4b 0d 32 55 bf ef 95 60 18 90 af d8 07 09",
+			"msg-param-recipient-display-name": "FrenzyNMC",
+			"msg-param-recipient-id": "444952870",
+			"msg-param-recipient-user-name": "frenzynmc",
+			"msg-param-sender-count": "156",
+			"msg-param-sub-plan-name": "Channel Subscription (heelmike)",
+			"msg-param-sub-plan": "1000",
+			"room-id": "96419668",
+			"subscriber": true,
+			"system-msg": "geebzs gifted a Tier 1 sub to FrenzyNMC! They have given 156 Gift Subs in the channel!",
+			"tmi-sent-ts": "1598163649238",
+			"user-id": "507648232",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/5",
+			"badges-raw": "subscriber/3,sub-gifter/100",
+			"message-type": "subgift"
+		}
+	},
+	{
+		"channel": "#heelmike",
+		"username": "thatsjustdeclan",
+		"streakMonths": 0,
+		"recipient": "fetty_blade",
+		"methods": {
+			"prime": false,
+			"plan": "1000",
+			"planName": "Channel Subscription (heelmike)"
+		},
+		"userstate": {
+			"badge-info": {
+				"subscriber": "3"
+			},
+			"badges": {
+				"subscriber": "3",
+				"sub-gifter": "10"
+			},
+			"color": null,
+			"display-name": "thatsjustdeclan",
+			"emotes": null,
+			"flags": null,
+			"id": "134ae9c2-d292-4820-abc4-ed55ce419575",
+			"login": "thatsjustdeclan",
+			"mod": false,
+			"msg-id": "subgift",
+			"msg-param-gift-months": true,
+			"msg-param-months": true,
+			"msg-param-origin-id": "da 39 a3 ee 5e 6b 4b 0d 32 55 bf ef 95 60 18 90 af d8 07 09",
+			"msg-param-recipient-display-name": "fetty_blade",
+			"msg-param-recipient-id": "185306498",
+			"msg-param-recipient-user-name": "fetty_blade",
+			"msg-param-sender-count": false,
+			"msg-param-sub-plan-name": "Channel Subscription (heelmike)",
+			"msg-param-sub-plan": "1000",
+			"room-id": "96419668",
+			"subscriber": true,
+			"system-msg": "thatsjustdeclan gifted a Tier 1 sub to fetty_blade!",
+			"tmi-sent-ts": "1598164300253",
+			"user-id": "507602033",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/3",
+			"badges-raw": "subscriber/3,sub-gifter/10",
+			"message-type": "subgift"
+		}
+	},
+	{
+		"channel": "#heelmike",
+		"username": "tmoneyytv",
+		"streakMonths": 0,
+		"recipient": "qtclap7",
+		"methods": {
+			"prime": false,
+			"plan": "1000",
+			"planName": "Channel Subscription (heelmike)"
+		},
+		"userstate": {
+			"badge-info": {
+				"subscriber": "1"
+			},
+			"badges": {
+				"subscriber": "0"
+			},
+			"color": null,
+			"display-name": "tmoneyytv",
+			"emotes": null,
+			"flags": null,
+			"id": "deadac85-b552-49dc-9665-4f52e3f1b8ca",
+			"login": "tmoneyytv",
+			"mod": false,
+			"msg-id": "subgift",
+			"msg-param-gift-months": true,
+			"msg-param-months": true,
+			"msg-param-origin-id": "da 39 a3 ee 5e 6b 4b 0d 32 55 bf ef 95 60 18 90 af d8 07 09",
+			"msg-param-recipient-display-name": "qtclap7",
+			"msg-param-recipient-id": "206020584",
+			"msg-param-recipient-user-name": "qtclap7",
+			"msg-param-sender-count": true,
+			"msg-param-sub-plan-name": "Channel Subscription (heelmike)",
+			"msg-param-sub-plan": "1000",
+			"room-id": "96419668",
+			"subscriber": true,
+			"system-msg": "tmoneyytv gifted a Tier 1 sub to qtclap7! This is their first Gift Sub in the channel!",
+			"tmi-sent-ts": "1598164429809",
+			"user-id": "88297510",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/1",
+			"badges-raw": "subscriber/0",
+			"message-type": "subgift"
+		}
+	}
+]

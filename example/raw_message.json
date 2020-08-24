@@ -1,0 +1,2405 @@
+[
+	{
+		"messageCloned": {
+			"raw": ":tmi.twitch.tv CAP * ACK :twitch.tv/tags twitch.tv/commands twitch.tv/membership",
+			"tags": {},
+			"prefix": "tmi.twitch.tv",
+			"command": "CAP",
+			"params": ["*", "ACK", "twitch.tv/tags twitch.tv/commands twitch.tv/membership"]
+		},
+		"message": {
+			"raw": ":tmi.twitch.tv CAP * ACK :twitch.tv/tags twitch.tv/commands twitch.tv/membership",
+			"tags": {},
+			"prefix": "tmi.twitch.tv",
+			"command": "CAP",
+			"params": ["*", "ACK", "twitch.tv/tags twitch.tv/commands twitch.tv/membership"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":tmi.twitch.tv 001 antoinekahlouche :Welcome, GLHF!",
+			"tags": {},
+			"prefix": "tmi.twitch.tv",
+			"command": "001",
+			"params": ["antoinekahlouche", "Welcome, GLHF!"]
+		},
+		"message": {
+			"raw": ":tmi.twitch.tv 001 antoinekahlouche :Welcome, GLHF!",
+			"tags": {},
+			"prefix": "tmi.twitch.tv",
+			"command": "001",
+			"params": ["antoinekahlouche", "Welcome, GLHF!"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":tmi.twitch.tv 002 antoinekahlouche :Your host is tmi.twitch.tv",
+			"tags": {},
+			"prefix": "tmi.twitch.tv",
+			"command": "002",
+			"params": ["antoinekahlouche", "Your host is tmi.twitch.tv"]
+		},
+		"message": {
+			"raw": ":tmi.twitch.tv 002 antoinekahlouche :Your host is tmi.twitch.tv",
+			"tags": {},
+			"prefix": "tmi.twitch.tv",
+			"command": "002",
+			"params": ["antoinekahlouche", "Your host is tmi.twitch.tv"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":tmi.twitch.tv 003 antoinekahlouche :This server is rather new",
+			"tags": {},
+			"prefix": "tmi.twitch.tv",
+			"command": "003",
+			"params": ["antoinekahlouche", "This server is rather new"]
+		},
+		"message": {
+			"raw": ":tmi.twitch.tv 003 antoinekahlouche :This server is rather new",
+			"tags": {},
+			"prefix": "tmi.twitch.tv",
+			"command": "003",
+			"params": ["antoinekahlouche", "This server is rather new"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":tmi.twitch.tv 004 antoinekahlouche :-",
+			"tags": {},
+			"prefix": "tmi.twitch.tv",
+			"command": "004",
+			"params": ["antoinekahlouche", "-"]
+		},
+		"message": {
+			"raw": ":tmi.twitch.tv 004 antoinekahlouche :-",
+			"tags": {},
+			"prefix": "tmi.twitch.tv",
+			"command": "004",
+			"params": ["antoinekahlouche", "-"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":tmi.twitch.tv 375 antoinekahlouche :-",
+			"tags": {},
+			"prefix": "tmi.twitch.tv",
+			"command": "375",
+			"params": ["antoinekahlouche", "-"]
+		},
+		"message": {
+			"raw": ":tmi.twitch.tv 375 antoinekahlouche :-",
+			"tags": {},
+			"prefix": "tmi.twitch.tv",
+			"command": "375",
+			"params": ["antoinekahlouche", "-"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":tmi.twitch.tv 372 antoinekahlouche :You are in a maze of twisty passages, all alike.",
+			"tags": {},
+			"prefix": "tmi.twitch.tv",
+			"command": "372",
+			"params": ["antoinekahlouche", "You are in a maze of twisty passages, all alike."]
+		},
+		"message": {
+			"raw": ":tmi.twitch.tv 372 antoinekahlouche :You are in a maze of twisty passages, all alike.",
+			"tags": {},
+			"prefix": "tmi.twitch.tv",
+			"command": "372",
+			"params": ["antoinekahlouche", "You are in a maze of twisty passages, all alike."]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":tmi.twitch.tv 376 antoinekahlouche :>",
+			"tags": {},
+			"prefix": "tmi.twitch.tv",
+			"command": "376",
+			"params": ["antoinekahlouche", ">"]
+		},
+		"message": {
+			"raw": ":tmi.twitch.tv 376 antoinekahlouche :>",
+			"tags": {},
+			"prefix": "tmi.twitch.tv",
+			"command": "376",
+			"params": ["antoinekahlouche", ">"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": "@badge-info=;badges=;color=;display-name=AntoineKahlouche;emote-sets=0;user-id=565291888;user-type= :tmi.twitch.tv GLOBALUSERSTATE",
+			"tags": {
+				"badge-info": true,
+				"badges": true,
+				"color": true,
+				"display-name": "AntoineKahlouche",
+				"emote-sets": "0",
+				"user-id": "565291888",
+				"user-type": true
+			},
+			"prefix": "tmi.twitch.tv",
+			"command": "GLOBALUSERSTATE",
+			"params": []
+		},
+		"message": {
+			"raw": "@badge-info=;badges=;color=;display-name=AntoineKahlouche;emote-sets=0;user-id=565291888;user-type= :tmi.twitch.tv GLOBALUSERSTATE",
+			"tags": {
+				"badge-info": null,
+				"badges": null,
+				"color": null,
+				"display-name": "AntoineKahlouche",
+				"emote-sets": "0",
+				"user-id": "565291888",
+				"user-type": null,
+				"badge-info-raw": null,
+				"badges-raw": null
+			},
+			"prefix": "tmi.twitch.tv",
+			"command": "GLOBALUSERSTATE",
+			"params": []
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche!antoinekahlouche@antoinekahlouche.tmi.twitch.tv JOIN #tonton",
+			"tags": {},
+			"prefix": "antoinekahlouche!antoinekahlouche@antoinekahlouche.tmi.twitch.tv",
+			"command": "JOIN",
+			"params": ["#tonton"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche!antoinekahlouche@antoinekahlouche.tmi.twitch.tv JOIN #tonton",
+			"tags": {},
+			"prefix": "antoinekahlouche!antoinekahlouche@antoinekahlouche.tmi.twitch.tv",
+			"command": "JOIN",
+			"params": ["#tonton"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": "@badge-info=;badges=;color=;display-name=AntoineKahlouche;emote-sets=0;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #tonton",
+			"tags": {
+				"badge-info": true,
+				"badges": true,
+				"color": true,
+				"display-name": "AntoineKahlouche",
+				"emote-sets": "0",
+				"mod": "0",
+				"subscriber": "0",
+				"user-type": true
+			},
+			"prefix": "tmi.twitch.tv",
+			"command": "USERSTATE",
+			"params": ["#tonton"]
+		},
+		"message": {
+			"raw": "@badge-info=;badges=;color=;display-name=AntoineKahlouche;emote-sets=0;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #tonton",
+			"tags": {
+				"badge-info": null,
+				"badges": null,
+				"color": null,
+				"display-name": "AntoineKahlouche",
+				"emote-sets": "0",
+				"mod": false,
+				"subscriber": false,
+				"user-type": null,
+				"badge-info-raw": null,
+				"badges-raw": null,
+				"username": "antoinekahlouche"
+			},
+			"prefix": "tmi.twitch.tv",
+			"command": "USERSTATE",
+			"params": ["#tonton"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": "@emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=72480716;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #tonton",
+			"tags": {
+				"emote-only": "0",
+				"followers-only": "-1",
+				"r9k": "0",
+				"rituals": "0",
+				"room-id": "72480716",
+				"slow": "0",
+				"subs-only": "0"
+			},
+			"prefix": "tmi.twitch.tv",
+			"command": "ROOMSTATE",
+			"params": ["#tonton"]
+		},
+		"message": {
+			"raw": "@emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=72480716;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #tonton",
+			"tags": {
+				"emote-only": false,
+				"followers-only": "-1",
+				"r9k": false,
+				"rituals": false,
+				"room-id": "72480716",
+				"slow": false,
+				"subs-only": false,
+				"channel": "#tonton"
+			},
+			"prefix": "tmi.twitch.tv",
+			"command": "ROOMSTATE",
+			"params": ["#tonton"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :darkloki38 deltaswiss kryst0f3 papuuuuche rag_1977 zolten17 alfredcousin asuelia itsvodoo armsonyt masterlan88 mattyist mrfifou59 pochovic21 shiftyohh spiralord manu_di_emmanuel_angelo torvald54_ elscare lockdownnn ragixmax rosellilas kodahk lataupe21000 malchikd payouss trafalgar68 lamchantantes maharishi_mprd_ blackbiteur astraloa ayme034 geek_23 kiyuseven senjidd baraldir madkingdog transphormic badrac62 cuyck gurudoug",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "darkloki38 deltaswiss kryst0f3 papuuuuche rag_1977 zolten17 alfredcousin asuelia itsvodoo armsonyt masterlan88 mattyist mrfifou59 pochovic21 shiftyohh spiralord manu_di_emmanuel_angelo torvald54_ elscare lockdownnn ragixmax rosellilas kodahk lataupe21000 malchikd payouss trafalgar68 lamchantantes maharishi_mprd_ blackbiteur astraloa ayme034 geek_23 kiyuseven senjidd baraldir madkingdog transphormic badrac62 cuyck gurudoug"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :darkloki38 deltaswiss kryst0f3 papuuuuche rag_1977 zolten17 alfredcousin asuelia itsvodoo armsonyt masterlan88 mattyist mrfifou59 pochovic21 shiftyohh spiralord manu_di_emmanuel_angelo torvald54_ elscare lockdownnn ragixmax rosellilas kodahk lataupe21000 malchikd payouss trafalgar68 lamchantantes maharishi_mprd_ blackbiteur astraloa ayme034 geek_23 kiyuseven senjidd baraldir madkingdog transphormic badrac62 cuyck gurudoug",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "darkloki38 deltaswiss kryst0f3 papuuuuche rag_1977 zolten17 alfredcousin asuelia itsvodoo armsonyt masterlan88 mattyist mrfifou59 pochovic21 shiftyohh spiralord manu_di_emmanuel_angelo torvald54_ elscare lockdownnn ragixmax rosellilas kodahk lataupe21000 malchikd payouss trafalgar68 lamchantantes maharishi_mprd_ blackbiteur astraloa ayme034 geek_23 kiyuseven senjidd baraldir madkingdog transphormic badrac62 cuyck gurudoug"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :kermogant lofacky piixou lokeizz nauds64 nazham_ poussintv skysight alainfi bhorokh ify_anthooo razgort bakerguelen douldi kiwa66 mamade7 rezadoxmao alex3bsa xallotaku tenshirock markos8419 randymarche quentingamer76 dragonxpredator foofighter35 grump68 soprakyl yunri brok59 strangulot woody_tomato jaykoz83 podricksama zehven7 77darkhunter jl_corb3t nkaotik13 bolin95 oo_shootey sanqka waza2254 askania39 armenoir aymeric97436",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "kermogant lofacky piixou lokeizz nauds64 nazham_ poussintv skysight alainfi bhorokh ify_anthooo razgort bakerguelen douldi kiwa66 mamade7 rezadoxmao alex3bsa xallotaku tenshirock markos8419 randymarche quentingamer76 dragonxpredator foofighter35 grump68 soprakyl yunri brok59 strangulot woody_tomato jaykoz83 podricksama zehven7 77darkhunter jl_corb3t nkaotik13 bolin95 oo_shootey sanqka waza2254 askania39 armenoir aymeric97436"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :kermogant lofacky piixou lokeizz nauds64 nazham_ poussintv skysight alainfi bhorokh ify_anthooo razgort bakerguelen douldi kiwa66 mamade7 rezadoxmao alex3bsa xallotaku tenshirock markos8419 randymarche quentingamer76 dragonxpredator foofighter35 grump68 soprakyl yunri brok59 strangulot woody_tomato jaykoz83 podricksama zehven7 77darkhunter jl_corb3t nkaotik13 bolin95 oo_shootey sanqka waza2254 askania39 armenoir aymeric97436",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "kermogant lofacky piixou lokeizz nauds64 nazham_ poussintv skysight alainfi bhorokh ify_anthooo razgort bakerguelen douldi kiwa66 mamade7 rezadoxmao alex3bsa xallotaku tenshirock markos8419 randymarche quentingamer76 dragonxpredator foofighter35 grump68 soprakyl yunri brok59 strangulot woody_tomato jaykoz83 podricksama zehven7 77darkhunter jl_corb3t nkaotik13 bolin95 oo_shootey sanqka waza2254 askania39 armenoir aymeric97436"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :da_bricius multypass sharklow63 komakaw razoha titumix bonedu_ qbiifree tiriaz azourma medkg urrodono altus4r zukah snaaw_ owani timki_ drikaniel monsieurtomate36 p13rr1ck rastaman953 sombrafr unpaladindunord hestius petiteframboize tribeourien linarion_ ekynoxx291410 jolachips koberty lunattix munsternet pokila zeermi gomywan slibar04 ticklemi petitajt vaila loikiii johvn351 pilou09 rienatedire vollkill shinoobi1 morph2500",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "da_bricius multypass sharklow63 komakaw razoha titumix bonedu_ qbiifree tiriaz azourma medkg urrodono altus4r zukah snaaw_ owani timki_ drikaniel monsieurtomate36 p13rr1ck rastaman953 sombrafr unpaladindunord hestius petiteframboize tribeourien linarion_ ekynoxx291410 jolachips koberty lunattix munsternet pokila zeermi gomywan slibar04 ticklemi petitajt vaila loikiii johvn351 pilou09 rienatedire vollkill shinoobi1 morph2500"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :da_bricius multypass sharklow63 komakaw razoha titumix bonedu_ qbiifree tiriaz azourma medkg urrodono altus4r zukah snaaw_ owani timki_ drikaniel monsieurtomate36 p13rr1ck rastaman953 sombrafr unpaladindunord hestius petiteframboize tribeourien linarion_ ekynoxx291410 jolachips koberty lunattix munsternet pokila zeermi gomywan slibar04 ticklemi petitajt vaila loikiii johvn351 pilou09 rienatedire vollkill shinoobi1 morph2500",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "da_bricius multypass sharklow63 komakaw razoha titumix bonedu_ qbiifree tiriaz azourma medkg urrodono altus4r zukah snaaw_ owani timki_ drikaniel monsieurtomate36 p13rr1ck rastaman953 sombrafr unpaladindunord hestius petiteframboize tribeourien linarion_ ekynoxx291410 jolachips koberty lunattix munsternet pokila zeermi gomywan slibar04 ticklemi petitajt vaila loikiii johvn351 pilou09 rienatedire vollkill shinoobi1 morph2500"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :swouap eankalt raisinfrui eoz_dono hortoz krimdark endryss kmassftn skraggi68 gizzmoo2 solkreez khemnor morphaman_ kaazzy_ astalhon mp_professional stormfireevo twodecrefieu d2point natsukicsgo paarthu0 2frenchiesgamers mudougenu neptunechaman arnuf albertmudat taupefish alataryel j3zi kenshiro_sensei neiitag barnac2301 wobble_tv tiro_8 woreextv boule2feu cainlys calimucho casucepakedesstrepsils cloudfire42 eulaune",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "swouap eankalt raisinfrui eoz_dono hortoz krimdark endryss kmassftn skraggi68 gizzmoo2 solkreez khemnor morphaman_ kaazzy_ astalhon mp_professional stormfireevo twodecrefieu d2point natsukicsgo paarthu0 2frenchiesgamers mudougenu neptunechaman arnuf albertmudat taupefish alataryel j3zi kenshiro_sensei neiitag barnac2301 wobble_tv tiro_8 woreextv boule2feu cainlys calimucho casucepakedesstrepsils cloudfire42 eulaune"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :swouap eankalt raisinfrui eoz_dono hortoz krimdark endryss kmassftn skraggi68 gizzmoo2 solkreez khemnor morphaman_ kaazzy_ astalhon mp_professional stormfireevo twodecrefieu d2point natsukicsgo paarthu0 2frenchiesgamers mudougenu neptunechaman arnuf albertmudat taupefish alataryel j3zi kenshiro_sensei neiitag barnac2301 wobble_tv tiro_8 woreextv boule2feu cainlys calimucho casucepakedesstrepsils cloudfire42 eulaune",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "swouap eankalt raisinfrui eoz_dono hortoz krimdark endryss kmassftn skraggi68 gizzmoo2 solkreez khemnor morphaman_ kaazzy_ astalhon mp_professional stormfireevo twodecrefieu d2point natsukicsgo paarthu0 2frenchiesgamers mudougenu neptunechaman arnuf albertmudat taupefish alataryel j3zi kenshiro_sensei neiitag barnac2301 wobble_tv tiro_8 woreextv boule2feu cainlys calimucho casucepakedesstrepsils cloudfire42 eulaune"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :goodmanchronic airrrz nydenlader acynra homaioie zatchoumz 2k8tv kaoox drysdenice hanodain jafar_land k3err radterr roobyx87 akensis42 jbakbad leonidasroidesspartiates mycrolk poupouneisback leroilion lescribe le_bok_29 fritemayo33 memepamal omnnivious jadam11 arshesl lukumai_cie sehelitar tanos xsumlightx skyben13 hp38 esdezed gunarsd romanesque24 lalibellulequiflatule pujol59 woups_38 bstax95 jaunpur bloisi l1fo skoliro62",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "goodmanchronic airrrz nydenlader acynra homaioie zatchoumz 2k8tv kaoox drysdenice hanodain jafar_land k3err radterr roobyx87 akensis42 jbakbad leonidasroidesspartiates mycrolk poupouneisback leroilion lescribe le_bok_29 fritemayo33 memepamal omnnivious jadam11 arshesl lukumai_cie sehelitar tanos xsumlightx skyben13 hp38 esdezed gunarsd romanesque24 lalibellulequiflatule pujol59 woups_38 bstax95 jaunpur bloisi l1fo skoliro62"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :goodmanchronic airrrz nydenlader acynra homaioie zatchoumz 2k8tv kaoox drysdenice hanodain jafar_land k3err radterr roobyx87 akensis42 jbakbad leonidasroidesspartiates mycrolk poupouneisback leroilion lescribe le_bok_29 fritemayo33 memepamal omnnivious jadam11 arshesl lukumai_cie sehelitar tanos xsumlightx skyben13 hp38 esdezed gunarsd romanesque24 lalibellulequiflatule pujol59 woups_38 bstax95 jaunpur bloisi l1fo skoliro62",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "goodmanchronic airrrz nydenlader acynra homaioie zatchoumz 2k8tv kaoox drysdenice hanodain jafar_land k3err radterr roobyx87 akensis42 jbakbad leonidasroidesspartiates mycrolk poupouneisback leroilion lescribe le_bok_29 fritemayo33 memepamal omnnivious jadam11 arshesl lukumai_cie sehelitar tanos xsumlightx skyben13 hp38 esdezed gunarsd romanesque24 lalibellulequiflatule pujol59 woups_38 bstax95 jaunpur bloisi l1fo skoliro62"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :sword_ph3nix labruce85310 le_pepito_de_stizo lineblood lntemporia hiirosan19 jackman1163 tayko_ cheapeur mummie04 sanadas_ tortue951genial tv_furax darktreize grrgl_ kurigata olivier361 saalvie xamnesys goullo jd1mast3r xaneur564 bichon_33 laperche974 raflyt wise___fox nefylim ravenspy_ soipadeg13 bouikibaby jeanmerdmoude susulli08 vizhou antikorfr benbenouz paixcul tiririt ael29bzh bitax___ iiborsalinoii kara_77 klcspinnro",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "sword_ph3nix labruce85310 le_pepito_de_stizo lineblood lntemporia hiirosan19 jackman1163 tayko_ cheapeur mummie04 sanadas_ tortue951genial tv_furax darktreize grrgl_ kurigata olivier361 saalvie xamnesys goullo jd1mast3r xaneur564 bichon_33 laperche974 raflyt wise___fox nefylim ravenspy_ soipadeg13 bouikibaby jeanmerdmoude susulli08 vizhou antikorfr benbenouz paixcul tiririt ael29bzh bitax___ iiborsalinoii kara_77 klcspinnro"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :sword_ph3nix labruce85310 le_pepito_de_stizo lineblood lntemporia hiirosan19 jackman1163 tayko_ cheapeur mummie04 sanadas_ tortue951genial tv_furax darktreize grrgl_ kurigata olivier361 saalvie xamnesys goullo jd1mast3r xaneur564 bichon_33 laperche974 raflyt wise___fox nefylim ravenspy_ soipadeg13 bouikibaby jeanmerdmoude susulli08 vizhou antikorfr benbenouz paixcul tiririt ael29bzh bitax___ iiborsalinoii kara_77 klcspinnro",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "sword_ph3nix labruce85310 le_pepito_de_stizo lineblood lntemporia hiirosan19 jackman1163 tayko_ cheapeur mummie04 sanadas_ tortue951genial tv_furax darktreize grrgl_ kurigata olivier361 saalvie xamnesys goullo jd1mast3r xaneur564 bichon_33 laperche974 raflyt wise___fox nefylim ravenspy_ soipadeg13 bouikibaby jeanmerdmoude susulli08 vizhou antikorfr benbenouz paixcul tiririt ael29bzh bitax___ iiborsalinoii kara_77 klcspinnro"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :lendriane loudwho lucitk samaru97 schizo_ spacejeje flammiiiii kaiji03 r_skill c4ssi4n kamisou_ soziok takusmokus makduv mumpael seyrino tete2pain memna prashnak sethguex45 arnahud31 hamidscooter213 tapissheiko dribbins dwight_ tiiibow azkel_vali dxc1234 olkinetv rico69113 bossespionfr f2p_pixou bastwo_tv surnaturaldeath mycheeky totof72120 mizurukomio fessierardent scelerat38 baka969 dorianblv bigix_gidix ecleas hugogol33",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "lendriane loudwho lucitk samaru97 schizo_ spacejeje flammiiiii kaiji03 r_skill c4ssi4n kamisou_ soziok takusmokus makduv mumpael seyrino tete2pain memna prashnak sethguex45 arnahud31 hamidscooter213 tapissheiko dribbins dwight_ tiiibow azkel_vali dxc1234 olkinetv rico69113 bossespionfr f2p_pixou bastwo_tv surnaturaldeath mycheeky totof72120 mizurukomio fessierardent scelerat38 baka969 dorianblv bigix_gidix ecleas hugogol33"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :lendriane loudwho lucitk samaru97 schizo_ spacejeje flammiiiii kaiji03 r_skill c4ssi4n kamisou_ soziok takusmokus makduv mumpael seyrino tete2pain memna prashnak sethguex45 arnahud31 hamidscooter213 tapissheiko dribbins dwight_ tiiibow azkel_vali dxc1234 olkinetv rico69113 bossespionfr f2p_pixou bastwo_tv surnaturaldeath mycheeky totof72120 mizurukomio fessierardent scelerat38 baka969 dorianblv bigix_gidix ecleas hugogol33",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "lendriane loudwho lucitk samaru97 schizo_ spacejeje flammiiiii kaiji03 r_skill c4ssi4n kamisou_ soziok takusmokus makduv mumpael seyrino tete2pain memna prashnak sethguex45 arnahud31 hamidscooter213 tapissheiko dribbins dwight_ tiiibow azkel_vali dxc1234 olkinetv rico69113 bossespionfr f2p_pixou bastwo_tv surnaturaldeath mycheeky totof72120 mizurukomio fessierardent scelerat38 baka969 dorianblv bigix_gidix ecleas hugogol33"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :cop210 good_rington how_can_i_get_woods jaqenhghar59 jim_le_rouge molusque partyboy1979 wolfbrutaldeathmetal kadamax_nbc_ komz0 arca_xen psychic____ arsion693 fadore3 chapie___ fylinas lamort03110 lord_fzx payfz norajscandale poulpito telnarus chesterlp66 19chakal81 krauzer poulet29600 bhntm finallfox plume__ akaamaru zaltec_sd shilvana kahuna40 niconell nihiru zordnyck hastasiempre47 dubra1702 ervatorr jenoxyde troubabar",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "cop210 good_rington how_can_i_get_woods jaqenhghar59 jim_le_rouge molusque partyboy1979 wolfbrutaldeathmetal kadamax_nbc_ komz0 arca_xen psychic____ arsion693 fadore3 chapie___ fylinas lamort03110 lord_fzx payfz norajscandale poulpito telnarus chesterlp66 19chakal81 krauzer poulet29600 bhntm finallfox plume__ akaamaru zaltec_sd shilvana kahuna40 niconell nihiru zordnyck hastasiempre47 dubra1702 ervatorr jenoxyde troubabar"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :cop210 good_rington how_can_i_get_woods jaqenhghar59 jim_le_rouge molusque partyboy1979 wolfbrutaldeathmetal kadamax_nbc_ komz0 arca_xen psychic____ arsion693 fadore3 chapie___ fylinas lamort03110 lord_fzx payfz norajscandale poulpito telnarus chesterlp66 19chakal81 krauzer poulet29600 bhntm finallfox plume__ akaamaru zaltec_sd shilvana kahuna40 niconell nihiru zordnyck hastasiempre47 dubra1702 ervatorr jenoxyde troubabar",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "cop210 good_rington how_can_i_get_woods jaqenhghar59 jim_le_rouge molusque partyboy1979 wolfbrutaldeathmetal kadamax_nbc_ komz0 arca_xen psychic____ arsion693 fadore3 chapie___ fylinas lamort03110 lord_fzx payfz norajscandale poulpito telnarus chesterlp66 19chakal81 krauzer poulet29600 bhntm finallfox plume__ akaamaru zaltec_sd shilvana kahuna40 niconell nihiru zordnyck hastasiempre47 dubra1702 ervatorr jenoxyde troubabar"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :djodjay killohdj tontonghost warr0ck54 wolfi31 pathou06 zekkos_ lcyphl timoz974 drakonck jelkam virgoproz kywuine doctor_who__ hakourio polhenry saypamoi syfer86000 calya meganopz raph2929 banmonitor azkky nhoom_ redwitt tubulairemat davom83 irvinop ksos1 petitmoustiquetv le_pharmacien clex1488 guindou04 kaherdin285 manyaak nailwug rimastino r1nt0t0 croquette7930 culpinou kynnk77 tilusia touptitamis v_and_k clakos25 mekkare",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "djodjay killohdj tontonghost warr0ck54 wolfi31 pathou06 zekkos_ lcyphl timoz974 drakonck jelkam virgoproz kywuine doctor_who__ hakourio polhenry saypamoi syfer86000 calya meganopz raph2929 banmonitor azkky nhoom_ redwitt tubulairemat davom83 irvinop ksos1 petitmoustiquetv le_pharmacien clex1488 guindou04 kaherdin285 manyaak nailwug rimastino r1nt0t0 croquette7930 culpinou kynnk77 tilusia touptitamis v_and_k clakos25 mekkare"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :djodjay killohdj tontonghost warr0ck54 wolfi31 pathou06 zekkos_ lcyphl timoz974 drakonck jelkam virgoproz kywuine doctor_who__ hakourio polhenry saypamoi syfer86000 calya meganopz raph2929 banmonitor azkky nhoom_ redwitt tubulairemat davom83 irvinop ksos1 petitmoustiquetv le_pharmacien clex1488 guindou04 kaherdin285 manyaak nailwug rimastino r1nt0t0 croquette7930 culpinou kynnk77 tilusia touptitamis v_and_k clakos25 mekkare",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "djodjay killohdj tontonghost warr0ck54 wolfi31 pathou06 zekkos_ lcyphl timoz974 drakonck jelkam virgoproz kywuine doctor_who__ hakourio polhenry saypamoi syfer86000 calya meganopz raph2929 banmonitor azkky nhoom_ redwitt tubulairemat davom83 irvinop ksos1 petitmoustiquetv le_pharmacien clex1488 guindou04 kaherdin285 manyaak nailwug rimastino r1nt0t0 croquette7930 culpinou kynnk77 tilusia touptitamis v_and_k clakos25 mekkare"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :spyrrowprime whidow armeleven krom_le_subversif ranoul fraken68 orautv orkidok sakhamin semogmp3 madmatt90000 pompom57l larcange34 rutufghu sin5e ysakdum zylandy boumbo80 jlsmooky pokimonk mirrama skipwoop azarios_ taz438 michelsordou sherif_bert chouken redteki_kb9 tigentv xalem agent_kruger_ nomads0204 tarzak69 ultrazennn layzeof cosa_nosttra chosmis benton81 bigblunt47 cyphou frotmans kalvincam rhummer swami_baba",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "spyrrowprime whidow armeleven krom_le_subversif ranoul fraken68 orautv orkidok sakhamin semogmp3 madmatt90000 pompom57l larcange34 rutufghu sin5e ysakdum zylandy boumbo80 jlsmooky pokimonk mirrama skipwoop azarios_ taz438 michelsordou sherif_bert chouken redteki_kb9 tigentv xalem agent_kruger_ nomads0204 tarzak69 ultrazennn layzeof cosa_nosttra chosmis benton81 bigblunt47 cyphou frotmans kalvincam rhummer swami_baba"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :spyrrowprime whidow armeleven krom_le_subversif ranoul fraken68 orautv orkidok sakhamin semogmp3 madmatt90000 pompom57l larcange34 rutufghu sin5e ysakdum zylandy boumbo80 jlsmooky pokimonk mirrama skipwoop azarios_ taz438 michelsordou sherif_bert chouken redteki_kb9 tigentv xalem agent_kruger_ nomads0204 tarzak69 ultrazennn layzeof cosa_nosttra chosmis benton81 bigblunt47 cyphou frotmans kalvincam rhummer swami_baba",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "spyrrowprime whidow armeleven krom_le_subversif ranoul fraken68 orautv orkidok sakhamin semogmp3 madmatt90000 pompom57l larcange34 rutufghu sin5e ysakdum zylandy boumbo80 jlsmooky pokimonk mirrama skipwoop azarios_ taz438 michelsordou sherif_bert chouken redteki_kb9 tigentv xalem agent_kruger_ nomads0204 tarzak69 ultrazennn layzeof cosa_nosttra chosmis benton81 bigblunt47 cyphou frotmans kalvincam rhummer swami_baba"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :morpheus971 djetouuu modernrafale71 shield_esport axem26 lapinerie omforever37 pandorabox86 septcentquarantetrois carnicho dodo130486 drago20066 manofthemoon9 7skullstream lapuissancedudark miasanmia1991 paps55 streamelements twins57 biboushh bigbuddah77 arwindyr beloceen cmoiiiiii olivier________ mesklchoco piratz64 trylexgaming wetterle63 zamsa37 cloud_girofle rafa_mori jordanbibo schirdone lasko089 nogerou oliv_er psycsl",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "morpheus971 djetouuu modernrafale71 shield_esport axem26 lapinerie omforever37 pandorabox86 septcentquarantetrois carnicho dodo130486 drago20066 manofthemoon9 7skullstream lapuissancedudark miasanmia1991 paps55 streamelements twins57 biboushh bigbuddah77 arwindyr beloceen cmoiiiiii olivier________ mesklchoco piratz64 trylexgaming wetterle63 zamsa37 cloud_girofle rafa_mori jordanbibo schirdone lasko089 nogerou oliv_er psycsl"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :morpheus971 djetouuu modernrafale71 shield_esport axem26 lapinerie omforever37 pandorabox86 septcentquarantetrois carnicho dodo130486 drago20066 manofthemoon9 7skullstream lapuissancedudark miasanmia1991 paps55 streamelements twins57 biboushh bigbuddah77 arwindyr beloceen cmoiiiiii olivier________ mesklchoco piratz64 trylexgaming wetterle63 zamsa37 cloud_girofle rafa_mori jordanbibo schirdone lasko089 nogerou oliv_er psycsl",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "morpheus971 djetouuu modernrafale71 shield_esport axem26 lapinerie omforever37 pandorabox86 septcentquarantetrois carnicho dodo130486 drago20066 manofthemoon9 7skullstream lapuissancedudark miasanmia1991 paps55 streamelements twins57 biboushh bigbuddah77 arwindyr beloceen cmoiiiiii olivier________ mesklchoco piratz64 trylexgaming wetterle63 zamsa37 cloud_girofle rafa_mori jordanbibo schirdone lasko089 nogerou oliv_er psycsl"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :stefanv5 zazaaa7 nonauh_tv desmokiki gouzdai ibiza57220 leyline57 octaro aydantrayve momo27490 nathgeolag rildelperou aracher33 chleur62 lebouseuh stygius_ aidorung notethedeath 0bomis dagvore bibi008 monkeypicon petitatomes priamguinut sarafan99 gamavic sebize thesnakedo viviiie florian___ zestuuuu stonesoldier26 doumeguyomarch healuzion ls_reilleen razogfnai szo0osz boxstter fydelia13500 sebibi2 cladzzzz xthorinx souze",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "stefanv5 zazaaa7 nonauh_tv desmokiki gouzdai ibiza57220 leyline57 octaro aydantrayve momo27490 nathgeolag rildelperou aracher33 chleur62 lebouseuh stygius_ aidorung notethedeath 0bomis dagvore bibi008 monkeypicon petitatomes priamguinut sarafan99 gamavic sebize thesnakedo viviiie florian___ zestuuuu stonesoldier26 doumeguyomarch healuzion ls_reilleen razogfnai szo0osz boxstter fydelia13500 sebibi2 cladzzzz xthorinx souze"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :stefanv5 zazaaa7 nonauh_tv desmokiki gouzdai ibiza57220 leyline57 octaro aydantrayve momo27490 nathgeolag rildelperou aracher33 chleur62 lebouseuh stygius_ aidorung notethedeath 0bomis dagvore bibi008 monkeypicon petitatomes priamguinut sarafan99 gamavic sebize thesnakedo viviiie florian___ zestuuuu stonesoldier26 doumeguyomarch healuzion ls_reilleen razogfnai szo0osz boxstter fydelia13500 sebibi2 cladzzzz xthorinx souze",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "stefanv5 zazaaa7 nonauh_tv desmokiki gouzdai ibiza57220 leyline57 octaro aydantrayve momo27490 nathgeolag rildelperou aracher33 chleur62 lebouseuh stygius_ aidorung notethedeath 0bomis dagvore bibi008 monkeypicon petitatomes priamguinut sarafan99 gamavic sebize thesnakedo viviiie florian___ zestuuuu stonesoldier26 doumeguyomarch healuzion ls_reilleen razogfnai szo0osz boxstter fydelia13500 sebibi2 cladzzzz xthorinx souze"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :qdlnaru squallala lomu72yatochinayou oksann_ bouledogue camouche kronedkc angelsomega nero_scp cathquebec elvis6993 mangi_one sethi_ier blackill56 shynz0r game_world27 inoopspp joseven777 kerthaseso niccless_ jakuamano kachiro33 valaras mickous29 tijo1521 kardens kodisnancy inggeraxe kalahera kamuuishiro lagoon5 rastapop44 angusmff bootswana onisyth seth_guigui_34 altefkatre bugssbunny44 jeanpaulpolo les_cagoules narcieka",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "qdlnaru squallala lomu72yatochinayou oksann_ bouledogue camouche kronedkc angelsomega nero_scp cathquebec elvis6993 mangi_one sethi_ier blackill56 shynz0r game_world27 inoopspp joseven777 kerthaseso niccless_ jakuamano kachiro33 valaras mickous29 tijo1521 kardens kodisnancy inggeraxe kalahera kamuuishiro lagoon5 rastapop44 angusmff bootswana onisyth seth_guigui_34 altefkatre bugssbunny44 jeanpaulpolo les_cagoules narcieka"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :qdlnaru squallala lomu72yatochinayou oksann_ bouledogue camouche kronedkc angelsomega nero_scp cathquebec elvis6993 mangi_one sethi_ier blackill56 shynz0r game_world27 inoopspp joseven777 kerthaseso niccless_ jakuamano kachiro33 valaras mickous29 tijo1521 kardens kodisnancy inggeraxe kalahera kamuuishiro lagoon5 rastapop44 angusmff bootswana onisyth seth_guigui_34 altefkatre bugssbunny44 jeanpaulpolo les_cagoules narcieka",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "qdlnaru squallala lomu72yatochinayou oksann_ bouledogue camouche kronedkc angelsomega nero_scp cathquebec elvis6993 mangi_one sethi_ier blackill56 shynz0r game_world27 inoopspp joseven777 kerthaseso niccless_ jakuamano kachiro33 valaras mickous29 tijo1521 kardens kodisnancy inggeraxe kalahera kamuuishiro lagoon5 rastapop44 angusmff bootswana onisyth seth_guigui_34 altefkatre bugssbunny44 jeanpaulpolo les_cagoules narcieka"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :uxutti nessahoney pateu367 maxou_le_voyou nanolab sinsesmile logrina moustibate nonausse rikbil mecarion caladiia mushton jah_bulon benitoux quichon31 xxxskaraxxx malecke19 nalis91700 jl_nul_au_jeu thrawn_neuneu touffeless cameltwooo momolefou95 anthropologydept silka23 souuls lulu_atnas feet mickmika974 universe b_e_n_i_t_o zerafyn0 chabaloo06 friger974 jipryhius liinxyy arkkaron aten bibapeloula cptsuperkill el_guristas",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "uxutti nessahoney pateu367 maxou_le_voyou nanolab sinsesmile logrina moustibate nonausse rikbil mecarion caladiia mushton jah_bulon benitoux quichon31 xxxskaraxxx malecke19 nalis91700 jl_nul_au_jeu thrawn_neuneu touffeless cameltwooo momolefou95 anthropologydept silka23 souuls lulu_atnas feet mickmika974 universe b_e_n_i_t_o zerafyn0 chabaloo06 friger974 jipryhius liinxyy arkkaron aten bibapeloula cptsuperkill el_guristas"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :uxutti nessahoney pateu367 maxou_le_voyou nanolab sinsesmile logrina moustibate nonausse rikbil mecarion caladiia mushton jah_bulon benitoux quichon31 xxxskaraxxx malecke19 nalis91700 jl_nul_au_jeu thrawn_neuneu touffeless cameltwooo momolefou95 anthropologydept silka23 souuls lulu_atnas feet mickmika974 universe b_e_n_i_t_o zerafyn0 chabaloo06 friger974 jipryhius liinxyy arkkaron aten bibapeloula cptsuperkill el_guristas",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "uxutti nessahoney pateu367 maxou_le_voyou nanolab sinsesmile logrina moustibate nonausse rikbil mecarion caladiia mushton jah_bulon benitoux quichon31 xxxskaraxxx malecke19 nalis91700 jl_nul_au_jeu thrawn_neuneu touffeless cameltwooo momolefou95 anthropologydept silka23 souuls lulu_atnas feet mickmika974 universe b_e_n_i_t_o zerafyn0 chabaloo06 friger974 jipryhius liinxyy arkkaron aten bibapeloula cptsuperkill el_guristas"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :asgardan ikse jojolemongole shenzuuu dyronbe cart2b xk94 kmttuck knightsabe kotek____ rohed45 djinnbuccaneer volours tworist joueur__1 elproctor ffdeni lollyneuter lukaya1987 kikifoul moogway_ nakor00 altamos31 y0teck von_ghoul fan_neversayes rod4401 bobilemetisse coqsixnel12 droogzzz jumy_ jumpmangoat kradeben lexdrift1 anemousse cuernita lanlan234 mordrana eliksear kriszzzp petitpois64 ecleos gewelle lamaindroitedescud",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "asgardan ikse jojolemongole shenzuuu dyronbe cart2b xk94 kmttuck knightsabe kotek____ rohed45 djinnbuccaneer volours tworist joueur__1 elproctor ffdeni lollyneuter lukaya1987 kikifoul moogway_ nakor00 altamos31 y0teck von_ghoul fan_neversayes rod4401 bobilemetisse coqsixnel12 droogzzz jumy_ jumpmangoat kradeben lexdrift1 anemousse cuernita lanlan234 mordrana eliksear kriszzzp petitpois64 ecleos gewelle lamaindroitedescud"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :asgardan ikse jojolemongole shenzuuu dyronbe cart2b xk94 kmttuck knightsabe kotek____ rohed45 djinnbuccaneer volours tworist joueur__1 elproctor ffdeni lollyneuter lukaya1987 kikifoul moogway_ nakor00 altamos31 y0teck von_ghoul fan_neversayes rod4401 bobilemetisse coqsixnel12 droogzzz jumy_ jumpmangoat kradeben lexdrift1 anemousse cuernita lanlan234 mordrana eliksear kriszzzp petitpois64 ecleos gewelle lamaindroitedescud",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "asgardan ikse jojolemongole shenzuuu dyronbe cart2b xk94 kmttuck knightsabe kotek____ rohed45 djinnbuccaneer volours tworist joueur__1 elproctor ffdeni lollyneuter lukaya1987 kikifoul moogway_ nakor00 altamos31 y0teck von_ghoul fan_neversayes rod4401 bobilemetisse coqsixnel12 droogzzz jumy_ jumpmangoat kradeben lexdrift1 anemousse cuernita lanlan234 mordrana eliksear kriszzzp petitpois64 ecleos gewelle lamaindroitedescud"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :jule2121 bessimiste tonitinio blanchneig dark_cloud_qc guybbr leakcimortar gorbif klad_rendan obiwan_ben_kenobi sowhat1961 cyhors jeanneausecours5 la_gache_ nendomatt 33aleo jiraya_goketsu kerowen57 macben04 reupix dancc_doggo ilanos woofy44 phyenomz667 bryan_hiiipower milky6906 nehro_ pioupes ranium72 eagledreamerz onedrink_ azga73 elveno hyryk obenite_twitch saaryone skaarph tonton inoko vanbasten88 cedsnake zen_alla",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "jule2121 bessimiste tonitinio blanchneig dark_cloud_qc guybbr leakcimortar gorbif klad_rendan obiwan_ben_kenobi sowhat1961 cyhors jeanneausecours5 la_gache_ nendomatt 33aleo jiraya_goketsu kerowen57 macben04 reupix dancc_doggo ilanos woofy44 phyenomz667 bryan_hiiipower milky6906 nehro_ pioupes ranium72 eagledreamerz onedrink_ azga73 elveno hyryk obenite_twitch saaryone skaarph tonton inoko vanbasten88 cedsnake zen_alla"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :jule2121 bessimiste tonitinio blanchneig dark_cloud_qc guybbr leakcimortar gorbif klad_rendan obiwan_ben_kenobi sowhat1961 cyhors jeanneausecours5 la_gache_ nendomatt 33aleo jiraya_goketsu kerowen57 macben04 reupix dancc_doggo ilanos woofy44 phyenomz667 bryan_hiiipower milky6906 nehro_ pioupes ranium72 eagledreamerz onedrink_ azga73 elveno hyryk obenite_twitch saaryone skaarph tonton inoko vanbasten88 cedsnake zen_alla",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "jule2121 bessimiste tonitinio blanchneig dark_cloud_qc guybbr leakcimortar gorbif klad_rendan obiwan_ben_kenobi sowhat1961 cyhors jeanneausecours5 la_gache_ nendomatt 33aleo jiraya_goketsu kerowen57 macben04 reupix dancc_doggo ilanos woofy44 phyenomz667 bryan_hiiipower milky6906 nehro_ pioupes ranium72 eagledreamerz onedrink_ azga73 elveno hyryk obenite_twitch saaryone skaarph tonton inoko vanbasten88 cedsnake zen_alla"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :plisken59 babahz dusplif asapoji gearsnop mouhi4 vincentlejoueurfrancais fly_fred kiritoh15 maakkaveli modjokun noxiiuss jeultan shuya_nim tuffgong11 ysario cybledor jiren_gb kfarz bigoudboy notoriousmoumou squirrel_mgs maximeyamaha grosmuscle44 hps_cust sacdefrappe44 mickanard newsl spiegelzuchi yndreth jaager24 justemaurice mcfly62 troback69 d3ath__z0n3 manquedebol1 alastairr974 savantjordanlatorpille shnawx sliceswing",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "plisken59 babahz dusplif asapoji gearsnop mouhi4 vincentlejoueurfrancais fly_fred kiritoh15 maakkaveli modjokun noxiiuss jeultan shuya_nim tuffgong11 ysario cybledor jiren_gb kfarz bigoudboy notoriousmoumou squirrel_mgs maximeyamaha grosmuscle44 hps_cust sacdefrappe44 mickanard newsl spiegelzuchi yndreth jaager24 justemaurice mcfly62 troback69 d3ath__z0n3 manquedebol1 alastairr974 savantjordanlatorpille shnawx sliceswing"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :plisken59 babahz dusplif asapoji gearsnop mouhi4 vincentlejoueurfrancais fly_fred kiritoh15 maakkaveli modjokun noxiiuss jeultan shuya_nim tuffgong11 ysario cybledor jiren_gb kfarz bigoudboy notoriousmoumou squirrel_mgs maximeyamaha grosmuscle44 hps_cust sacdefrappe44 mickanard newsl spiegelzuchi yndreth jaager24 justemaurice mcfly62 troback69 d3ath__z0n3 manquedebol1 alastairr974 savantjordanlatorpille shnawx sliceswing",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "plisken59 babahz dusplif asapoji gearsnop mouhi4 vincentlejoueurfrancais fly_fred kiritoh15 maakkaveli modjokun noxiiuss jeultan shuya_nim tuffgong11 ysario cybledor jiren_gb kfarz bigoudboy notoriousmoumou squirrel_mgs maximeyamaha grosmuscle44 hps_cust sacdefrappe44 mickanard newsl spiegelzuchi yndreth jaager24 justemaurice mcfly62 troback69 d3ath__z0n3 manquedebol1 alastairr974 savantjordanlatorpille shnawx sliceswing"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :dams9494 d4rkshad0w12 giofablil skj_vii squinfuss denkhoo dr__drake darkyuto62 larkona pappychat38 sassan_n shadoasis_tv spei6men thegreenonly jonathh lecocolasticot ledock regnasha buglan lanf3ust23 lipton_tyan rhombus974 ixio_jo ludof95 p4py_m154n7hr0p3 gamefast42 setsukasandalaran chaton_kamikaze emotexbot kheeaz kinayh senomiyagi sobrightanddelicate tchouche deled1 shagar_live freast heiisen__ mell0303 cosmathetruth",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "dams9494 d4rkshad0w12 giofablil skj_vii squinfuss denkhoo dr__drake darkyuto62 larkona pappychat38 sassan_n shadoasis_tv spei6men thegreenonly jonathh lecocolasticot ledock regnasha buglan lanf3ust23 lipton_tyan rhombus974 ixio_jo ludof95 p4py_m154n7hr0p3 gamefast42 setsukasandalaran chaton_kamikaze emotexbot kheeaz kinayh senomiyagi sobrightanddelicate tchouche deled1 shagar_live freast heiisen__ mell0303 cosmathetruth"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :dams9494 d4rkshad0w12 giofablil skj_vii squinfuss denkhoo dr__drake darkyuto62 larkona pappychat38 sassan_n shadoasis_tv spei6men thegreenonly jonathh lecocolasticot ledock regnasha buglan lanf3ust23 lipton_tyan rhombus974 ixio_jo ludof95 p4py_m154n7hr0p3 gamefast42 setsukasandalaran chaton_kamikaze emotexbot kheeaz kinayh senomiyagi sobrightanddelicate tchouche deled1 shagar_live freast heiisen__ mell0303 cosmathetruth",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "dams9494 d4rkshad0w12 giofablil skj_vii squinfuss denkhoo dr__drake darkyuto62 larkona pappychat38 sassan_n shadoasis_tv spei6men thegreenonly jonathh lecocolasticot ledock regnasha buglan lanf3ust23 lipton_tyan rhombus974 ixio_jo ludof95 p4py_m154n7hr0p3 gamefast42 setsukasandalaran chaton_kamikaze emotexbot kheeaz kinayh senomiyagi sobrightanddelicate tchouche deled1 shagar_live freast heiisen__ mell0303 cosmathetruth"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :mordicuss16 thanostv yoshi8island bloodshinetv dragossvrat sushii_t abannol demon_sparda_ geb93 lili1907 bastouilie oxycrest thoriius weyoz yomguigui dvrcxx alcibiade066 kylashandra27 leih1 ptikab infornia azgar33 c_alty fragallgame nainkapable aldren35 sintub pooshyyy sixtron64 ttvimpulse13 araycrust don_apoo klayvan bad_pritt_ skedra wave_solmir kable974 rave__on utouchubuy chakal_fou lolo2824 psykozion youyou103 ganacherie",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "mordicuss16 thanostv yoshi8island bloodshinetv dragossvrat sushii_t abannol demon_sparda_ geb93 lili1907 bastouilie oxycrest thoriius weyoz yomguigui dvrcxx alcibiade066 kylashandra27 leih1 ptikab infornia azgar33 c_alty fragallgame nainkapable aldren35 sintub pooshyyy sixtron64 ttvimpulse13 araycrust don_apoo klayvan bad_pritt_ skedra wave_solmir kable974 rave__on utouchubuy chakal_fou lolo2824 psykozion youyou103 ganacherie"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :mordicuss16 thanostv yoshi8island bloodshinetv dragossvrat sushii_t abannol demon_sparda_ geb93 lili1907 bastouilie oxycrest thoriius weyoz yomguigui dvrcxx alcibiade066 kylashandra27 leih1 ptikab infornia azgar33 c_alty fragallgame nainkapable aldren35 sintub pooshyyy sixtron64 ttvimpulse13 araycrust don_apoo klayvan bad_pritt_ skedra wave_solmir kable974 rave__on utouchubuy chakal_fou lolo2824 psykozion youyou103 ganacherie",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "mordicuss16 thanostv yoshi8island bloodshinetv dragossvrat sushii_t abannol demon_sparda_ geb93 lili1907 bastouilie oxycrest thoriius weyoz yomguigui dvrcxx alcibiade066 kylashandra27 leih1 ptikab infornia azgar33 c_alty fragallgame nainkapable aldren35 sintub pooshyyy sixtron64 ttvimpulse13 araycrust don_apoo klayvan bad_pritt_ skedra wave_solmir kable974 rave__on utouchubuy chakal_fou lolo2824 psykozion youyou103 ganacherie"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :mondo77 riva_ow borgil hasdapilo mygirlisadragon pandylapin bohuisadahu lionalbert lynton69 phephaistos stamboxe korkoulou gtp972 cristianepre l_homme_vert__ zilzala fathismunk hunter_benks nelphaelle osef21h tonfa3637 tuttleb commanderroot philou35200 rodololo pierrot2512 psikdlick tazzleviewer m1ckpique kimjongheall lelapinou56 madoushiii toto519 owndz sniper260689",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "mondo77 riva_ow borgil hasdapilo mygirlisadragon pandylapin bohuisadahu lionalbert lynton69 phephaistos stamboxe korkoulou gtp972 cristianepre l_homme_vert__ zilzala fathismunk hunter_benks nelphaelle osef21h tonfa3637 tuttleb commanderroot philou35200 rodololo pierrot2512 psikdlick tazzleviewer m1ckpique kimjongheall lelapinou56 madoushiii toto519 owndz sniper260689"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :mondo77 riva_ow borgil hasdapilo mygirlisadragon pandylapin bohuisadahu lionalbert lynton69 phephaistos stamboxe korkoulou gtp972 cristianepre l_homme_vert__ zilzala fathismunk hunter_benks nelphaelle osef21h tonfa3637 tuttleb commanderroot philou35200 rodololo pierrot2512 psikdlick tazzleviewer m1ckpique kimjongheall lelapinou56 madoushiii toto519 owndz sniper260689",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "mondo77 riva_ow borgil hasdapilo mygirlisadragon pandylapin bohuisadahu lionalbert lynton69 phephaistos stamboxe korkoulou gtp972 cristianepre l_homme_vert__ zilzala fathismunk hunter_benks nelphaelle osef21h tonfa3637 tuttleb commanderroot philou35200 rodololo pierrot2512 psikdlick tazzleviewer m1ckpique kimjongheall lelapinou56 madoushiii toto519 owndz sniper260689"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :antoinekahlouche",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "antoinekahlouche"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #tonton :antoinekahlouche",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#tonton", "antoinekahlouche"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 366 antoinekahlouche #tonton :End of /NAMES list",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "366",
+			"params": ["antoinekahlouche", "#tonton", "End of /NAMES list"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 366 antoinekahlouche #tonton :End of /NAMES list",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "366",
+			"params": ["antoinekahlouche", "#tonton", "End of /NAMES list"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche!antoinekahlouche@antoinekahlouche.tmi.twitch.tv JOIN #manuelferraratv",
+			"tags": {},
+			"prefix": "antoinekahlouche!antoinekahlouche@antoinekahlouche.tmi.twitch.tv",
+			"command": "JOIN",
+			"params": ["#manuelferraratv"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche!antoinekahlouche@antoinekahlouche.tmi.twitch.tv JOIN #manuelferraratv",
+			"tags": {},
+			"prefix": "antoinekahlouche!antoinekahlouche@antoinekahlouche.tmi.twitch.tv",
+			"command": "JOIN",
+			"params": ["#manuelferraratv"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": "@badge-info=;badges=;color=;display-name=AntoineKahlouche;emote-sets=0;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #manuelferraratv",
+			"tags": {
+				"badge-info": true,
+				"badges": true,
+				"color": true,
+				"display-name": "AntoineKahlouche",
+				"emote-sets": "0",
+				"mod": "0",
+				"subscriber": "0",
+				"user-type": true
+			},
+			"prefix": "tmi.twitch.tv",
+			"command": "USERSTATE",
+			"params": ["#manuelferraratv"]
+		},
+		"message": {
+			"raw": "@badge-info=;badges=;color=;display-name=AntoineKahlouche;emote-sets=0;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #manuelferraratv",
+			"tags": {
+				"badge-info": null,
+				"badges": null,
+				"color": null,
+				"display-name": "AntoineKahlouche",
+				"emote-sets": "0",
+				"mod": false,
+				"subscriber": false,
+				"user-type": null,
+				"badge-info-raw": null,
+				"badges-raw": null,
+				"username": "antoinekahlouche"
+			},
+			"prefix": "tmi.twitch.tv",
+			"command": "USERSTATE",
+			"params": ["#manuelferraratv"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": "@emote-only=0;followers-only=0;r9k=0;rituals=0;room-id=131861345;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #manuelferraratv",
+			"tags": {
+				"emote-only": "0",
+				"followers-only": "0",
+				"r9k": "0",
+				"rituals": "0",
+				"room-id": "131861345",
+				"slow": "0",
+				"subs-only": "0"
+			},
+			"prefix": "tmi.twitch.tv",
+			"command": "ROOMSTATE",
+			"params": ["#manuelferraratv"]
+		},
+		"message": {
+			"raw": "@emote-only=0;followers-only=0;r9k=0;rituals=0;room-id=131861345;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #manuelferraratv",
+			"tags": {
+				"emote-only": false,
+				"followers-only": false,
+				"r9k": false,
+				"rituals": false,
+				"room-id": "131861345",
+				"slow": false,
+				"subs-only": false,
+				"channel": "#manuelferraratv"
+			},
+			"prefix": "tmi.twitch.tv",
+			"command": "ROOMSTATE",
+			"params": ["#manuelferraratv"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :cherrygryffon chmeuuh djulien113 melvin91700 pepitopoulpe projul azura6z bustien shashuu voidwanda dvm_weez54 greeenje massilium nopt pacoxka peanutsurtwitch bambino_o blueharvestwar jlrobalt nirhox aequalys bc_nklow djemistarplatinium dtenshii fab_mandalay fxaf johnjereztv optiimus5 0hmiamor aksunrise th3noobkill3r theo_pln kayennjy painbeni aimstv_ aznaq er0ik seb0476 sbramstein silentheal_1 dotcor4 harkanic",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "cherrygryffon chmeuuh djulien113 melvin91700 pepitopoulpe projul azura6z bustien shashuu voidwanda dvm_weez54 greeenje massilium nopt pacoxka peanutsurtwitch bambino_o blueharvestwar jlrobalt nirhox aequalys bc_nklow djemistarplatinium dtenshii fab_mandalay fxaf johnjereztv optiimus5 0hmiamor aksunrise th3noobkill3r theo_pln kayennjy painbeni aimstv_ aznaq er0ik seb0476 sbramstein silentheal_1 dotcor4 harkanic"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :cherrygryffon chmeuuh djulien113 melvin91700 pepitopoulpe projul azura6z bustien shashuu voidwanda dvm_weez54 greeenje massilium nopt pacoxka peanutsurtwitch bambino_o blueharvestwar jlrobalt nirhox aequalys bc_nklow djemistarplatinium dtenshii fab_mandalay fxaf johnjereztv optiimus5 0hmiamor aksunrise th3noobkill3r theo_pln kayennjy painbeni aimstv_ aznaq er0ik seb0476 sbramstein silentheal_1 dotcor4 harkanic",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "cherrygryffon chmeuuh djulien113 melvin91700 pepitopoulpe projul azura6z bustien shashuu voidwanda dvm_weez54 greeenje massilium nopt pacoxka peanutsurtwitch bambino_o blueharvestwar jlrobalt nirhox aequalys bc_nklow djemistarplatinium dtenshii fab_mandalay fxaf johnjereztv optiimus5 0hmiamor aksunrise th3noobkill3r theo_pln kayennjy painbeni aimstv_ aznaq er0ik seb0476 sbramstein silentheal_1 dotcor4 harkanic"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :jeanletare manonfire75014 matxx25 takuan_soho twojamonplease zacsobadass babii1070 iie_siecle_av_jc happythe0ry nowther_ sylhux watafaaaaaaak ast3roth bulzubu666 gilwood49 rosouel39 rytzuki vortexhd94 chaaquey dynuxssv2 toguro974 zaroboxlegendperfect daitotvv fline_ytb rhaegahl rimastino yocolo10 youssefsnani zoomiz1 golumbo incurso_o bidouchka kukumania83 nasssun pr0t0_o regisd93 sukai12 azarios_ balnave25",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "jeanletare manonfire75014 matxx25 takuan_soho twojamonplease zacsobadass babii1070 iie_siecle_av_jc happythe0ry nowther_ sylhux watafaaaaaaak ast3roth bulzubu666 gilwood49 rosouel39 rytzuki vortexhd94 chaaquey dynuxssv2 toguro974 zaroboxlegendperfect daitotvv fline_ytb rhaegahl rimastino yocolo10 youssefsnani zoomiz1 golumbo incurso_o bidouchka kukumania83 nasssun pr0t0_o regisd93 sukai12 azarios_ balnave25"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :jeanletare manonfire75014 matxx25 takuan_soho twojamonplease zacsobadass babii1070 iie_siecle_av_jc happythe0ry nowther_ sylhux watafaaaaaaak ast3roth bulzubu666 gilwood49 rosouel39 rytzuki vortexhd94 chaaquey dynuxssv2 toguro974 zaroboxlegendperfect daitotvv fline_ytb rhaegahl rimastino yocolo10 youssefsnani zoomiz1 golumbo incurso_o bidouchka kukumania83 nasssun pr0t0_o regisd93 sukai12 azarios_ balnave25",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "jeanletare manonfire75014 matxx25 takuan_soho twojamonplease zacsobadass babii1070 iie_siecle_av_jc happythe0ry nowther_ sylhux watafaaaaaaak ast3roth bulzubu666 gilwood49 rosouel39 rytzuki vortexhd94 chaaquey dynuxssv2 toguro974 zaroboxlegendperfect daitotvv fline_ytb rhaegahl rimastino yocolo10 youssefsnani zoomiz1 golumbo incurso_o bidouchka kukumania83 nasssun pr0t0_o regisd93 sukai12 azarios_ balnave25"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :tizeur2litres kozekill mister_warning orbisnonsufficit solex10000 stargame5775 t1m0x aimden imdamsko xxflnc70xx thefrenchstig59 travonbloom remito50 zerivokk crinieresauvage dinu deymysoss iinocenciia nlcfire p1zr blochaus captainpoivron harisa777 nikodin51 nikoomook gabmcfly goulax93 shaiplaying tacostacos valoxic anakindegap naltarr doctee raziiee zigzagol akyoneoz darkcrystall falaheris saladfiinger tixuoti",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "tizeur2litres kozekill mister_warning orbisnonsufficit solex10000 stargame5775 t1m0x aimden imdamsko xxflnc70xx thefrenchstig59 travonbloom remito50 zerivokk crinieresauvage dinu deymysoss iinocenciia nlcfire p1zr blochaus captainpoivron harisa777 nikodin51 nikoomook gabmcfly goulax93 shaiplaying tacostacos valoxic anakindegap naltarr doctee raziiee zigzagol akyoneoz darkcrystall falaheris saladfiinger tixuoti"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :tizeur2litres kozekill mister_warning orbisnonsufficit solex10000 stargame5775 t1m0x aimden imdamsko xxflnc70xx thefrenchstig59 travonbloom remito50 zerivokk crinieresauvage dinu deymysoss iinocenciia nlcfire p1zr blochaus captainpoivron harisa777 nikodin51 nikoomook gabmcfly goulax93 shaiplaying tacostacos valoxic anakindegap naltarr doctee raziiee zigzagol akyoneoz darkcrystall falaheris saladfiinger tixuoti",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "tizeur2litres kozekill mister_warning orbisnonsufficit solex10000 stargame5775 t1m0x aimden imdamsko xxflnc70xx thefrenchstig59 travonbloom remito50 zerivokk crinieresauvage dinu deymysoss iinocenciia nlcfire p1zr blochaus captainpoivron harisa777 nikodin51 nikoomook gabmcfly goulax93 shaiplaying tacostacos valoxic anakindegap naltarr doctee raziiee zigzagol akyoneoz darkcrystall falaheris saladfiinger tixuoti"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :christowww dydougaming01 ragemizg bizuu_rs3 darko_bangbang ilgumaco physicoseb velahan dw00n foxichrome mrbiiest1 mrblonde33 unyckorn winside22 karnal07 mcsandiwch rycus__ shaawttv carbonmxz grossbinch djek4l edenia_hayden js_blast mrdex_tv nonick2luxe basicgrooveradio cycy_la_bete qifran chocobidou justbdl liozard nerqooo thewhispererkbl hurricane555 le_guitou gabiman layzorfr ldurbe manuelferraratv nicobod",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "christowww dydougaming01 ragemizg bizuu_rs3 darko_bangbang ilgumaco physicoseb velahan dw00n foxichrome mrbiiest1 mrblonde33 unyckorn winside22 karnal07 mcsandiwch rycus__ shaawttv carbonmxz grossbinch djek4l edenia_hayden js_blast mrdex_tv nonick2luxe basicgrooveradio cycy_la_bete qifran chocobidou justbdl liozard nerqooo thewhispererkbl hurricane555 le_guitou gabiman layzorfr ldurbe manuelferraratv nicobod"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :christowww dydougaming01 ragemizg bizuu_rs3 darko_bangbang ilgumaco physicoseb velahan dw00n foxichrome mrbiiest1 mrblonde33 unyckorn winside22 karnal07 mcsandiwch rycus__ shaawttv carbonmxz grossbinch djek4l edenia_hayden js_blast mrdex_tv nonick2luxe basicgrooveradio cycy_la_bete qifran chocobidou justbdl liozard nerqooo thewhispererkbl hurricane555 le_guitou gabiman layzorfr ldurbe manuelferraratv nicobod",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "christowww dydougaming01 ragemizg bizuu_rs3 darko_bangbang ilgumaco physicoseb velahan dw00n foxichrome mrbiiest1 mrblonde33 unyckorn winside22 karnal07 mcsandiwch rycus__ shaawttv carbonmxz grossbinch djek4l edenia_hayden js_blast mrdex_tv nonick2luxe basicgrooveradio cycy_la_bete qifran chocobidou justbdl liozard nerqooo thewhispererkbl hurricane555 le_guitou gabiman layzorfr ldurbe manuelferraratv nicobod"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :raptor_off devasst71 doppi0o pioupes shleidja xxxrider108xxx imduzzyy obibiwan33 figarooooooooo saydesignns badobado94470 tony_1313 zakozacka green_ytbeurre narativo frimios70 gibouz123 adagioway angelight360 dufundudeliresansle12 ls_la_meuf__xewer ninix25 yacoyo agamdalo djesenn hexinit irigan242 kaiooooken89 sfinxbxl toubib75 aladam92 dayzzito jl_akaruu_ wolverouxcc fenrirorion fluffsauce moujee mydoo_ quantumdan13",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "raptor_off devasst71 doppi0o pioupes shleidja xxxrider108xxx imduzzyy obibiwan33 figarooooooooo saydesignns badobado94470 tony_1313 zakozacka green_ytbeurre narativo frimios70 gibouz123 adagioway angelight360 dufundudeliresansle12 ls_la_meuf__xewer ninix25 yacoyo agamdalo djesenn hexinit irigan242 kaiooooken89 sfinxbxl toubib75 aladam92 dayzzito jl_akaruu_ wolverouxcc fenrirorion fluffsauce moujee mydoo_ quantumdan13"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :raptor_off devasst71 doppi0o pioupes shleidja xxxrider108xxx imduzzyy obibiwan33 figarooooooooo saydesignns badobado94470 tony_1313 zakozacka green_ytbeurre narativo frimios70 gibouz123 adagioway angelight360 dufundudeliresansle12 ls_la_meuf__xewer ninix25 yacoyo agamdalo djesenn hexinit irigan242 kaiooooken89 sfinxbxl toubib75 aladam92 dayzzito jl_akaruu_ wolverouxcc fenrirorion fluffsauce moujee mydoo_ quantumdan13",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "raptor_off devasst71 doppi0o pioupes shleidja xxxrider108xxx imduzzyy obibiwan33 figarooooooooo saydesignns badobado94470 tony_1313 zakozacka green_ytbeurre narativo frimios70 gibouz123 adagioway angelight360 dufundudeliresansle12 ls_la_meuf__xewer ninix25 yacoyo agamdalo djesenn hexinit irigan242 kaiooooken89 sfinxbxl toubib75 aladam92 dayzzito jl_akaruu_ wolverouxcc fenrirorion fluffsauce moujee mydoo_ quantumdan13"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :serval___ sidmonory universe dqrklight hayende fefefaifumer flobrams im_rastaman420 mick87csp st3vo13 baptiste_dem commanderroot guinflame orvadon6 uskz_buddah waloutv capote_visqeuse ebara dario_romain focusss__ leenucks readygolol suginozen botashc brunzob sevaar09 sazamyzoo y0teck zakiboss ifreshhhh misterbnji missananas44 niegan propaganjah bobbybaczkiewicz jakiejako iluxuss kenshinnhimuraaa matpyt17 norajscandale",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "serval___ sidmonory universe dqrklight hayende fefefaifumer flobrams im_rastaman420 mick87csp st3vo13 baptiste_dem commanderroot guinflame orvadon6 uskz_buddah waloutv capote_visqeuse ebara dario_romain focusss__ leenucks readygolol suginozen botashc brunzob sevaar09 sazamyzoo y0teck zakiboss ifreshhhh misterbnji missananas44 niegan propaganjah bobbybaczkiewicz jakiejako iluxuss kenshinnhimuraaa matpyt17 norajscandale"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :serval___ sidmonory universe dqrklight hayende fefefaifumer flobrams im_rastaman420 mick87csp st3vo13 baptiste_dem commanderroot guinflame orvadon6 uskz_buddah waloutv capote_visqeuse ebara dario_romain focusss__ leenucks readygolol suginozen botashc brunzob sevaar09 sazamyzoo y0teck zakiboss ifreshhhh misterbnji missananas44 niegan propaganjah bobbybaczkiewicz jakiejako iluxuss kenshinnhimuraaa matpyt17 norajscandale",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "serval___ sidmonory universe dqrklight hayende fefefaifumer flobrams im_rastaman420 mick87csp st3vo13 baptiste_dem commanderroot guinflame orvadon6 uskz_buddah waloutv capote_visqeuse ebara dario_romain focusss__ leenucks readygolol suginozen botashc brunzob sevaar09 sazamyzoo y0teck zakiboss ifreshhhh misterbnji missananas44 niegan propaganjah bobbybaczkiewicz jakiejako iluxuss kenshinnhimuraaa matpyt17 norajscandale"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :raserone22 addicted969 gouttepersil marachacha vincent_le_gallois xenotr6 yanovic12 aokishii docteur_quii irkors kowkss aligatrox erazeback benwolf2211 djo_972 doxx00 gojaz litroox3iq roots956 11peep15 aestheticjmack tarzak69 mrpiedbouche onizuka6032 sedalessio epimodev mr_renatogaming gohtek imdeskyfr_ papazoubida to2bad abdelcongo ccrmly like1978 aizawow lacrapule1960 killso31 pinkbeaver08 zinou35 aztekk_",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "raserone22 addicted969 gouttepersil marachacha vincent_le_gallois xenotr6 yanovic12 aokishii docteur_quii irkors kowkss aligatrox erazeback benwolf2211 djo_972 doxx00 gojaz litroox3iq roots956 11peep15 aestheticjmack tarzak69 mrpiedbouche onizuka6032 sedalessio epimodev mr_renatogaming gohtek imdeskyfr_ papazoubida to2bad abdelcongo ccrmly like1978 aizawow lacrapule1960 killso31 pinkbeaver08 zinou35 aztekk_"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :raserone22 addicted969 gouttepersil marachacha vincent_le_gallois xenotr6 yanovic12 aokishii docteur_quii irkors kowkss aligatrox erazeback benwolf2211 djo_972 doxx00 gojaz litroox3iq roots956 11peep15 aestheticjmack tarzak69 mrpiedbouche onizuka6032 sedalessio epimodev mr_renatogaming gohtek imdeskyfr_ papazoubida to2bad abdelcongo ccrmly like1978 aizawow lacrapule1960 killso31 pinkbeaver08 zinou35 aztekk_",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "raserone22 addicted969 gouttepersil marachacha vincent_le_gallois xenotr6 yanovic12 aokishii docteur_quii irkors kowkss aligatrox erazeback benwolf2211 djo_972 doxx00 gojaz litroox3iq roots956 11peep15 aestheticjmack tarzak69 mrpiedbouche onizuka6032 sedalessio epimodev mr_renatogaming gohtek imdeskyfr_ papazoubida to2bad abdelcongo ccrmly like1978 aizawow lacrapule1960 killso31 pinkbeaver08 zinou35 aztekk_"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :empereur_lesaumon max21b07 mrdrakside owkande panzx snakex10 swenkozer biiroot gperrious unlimitedweaver ngfrog nightbot orwell_tv chauve_bloura emotexbot tonioeltorreau mortdesoif7878 thejokoeur_ misterfreezeeeee zorglu fontinae kenshiro_94 poudre renauddu11160 xskyward7 blainn_ demolition_derby houken_ lechef04 nonausse senor_zacapa alexandre_d3 anselmo10totti gregbraz jl_dwist lomn1 sharkiipiic sofkillah2",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "empereur_lesaumon max21b07 mrdrakside owkande panzx snakex10 swenkozer biiroot gperrious unlimitedweaver ngfrog nightbot orwell_tv chauve_bloura emotexbot tonioeltorreau mortdesoif7878 thejokoeur_ misterfreezeeeee zorglu fontinae kenshiro_94 poudre renauddu11160 xskyward7 blainn_ demolition_derby houken_ lechef04 nonausse senor_zacapa alexandre_d3 anselmo10totti gregbraz jl_dwist lomn1 sharkiipiic sofkillah2"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :empereur_lesaumon max21b07 mrdrakside owkande panzx snakex10 swenkozer biiroot gperrious unlimitedweaver ngfrog nightbot orwell_tv chauve_bloura emotexbot tonioeltorreau mortdesoif7878 thejokoeur_ misterfreezeeeee zorglu fontinae kenshiro_94 poudre renauddu11160 xskyward7 blainn_ demolition_derby houken_ lechef04 nonausse senor_zacapa alexandre_d3 anselmo10totti gregbraz jl_dwist lomn1 sharkiipiic sofkillah2",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "empereur_lesaumon max21b07 mrdrakside owkande panzx snakex10 swenkozer biiroot gperrious unlimitedweaver ngfrog nightbot orwell_tv chauve_bloura emotexbot tonioeltorreau mortdesoif7878 thejokoeur_ misterfreezeeeee zorglu fontinae kenshiro_94 poudre renauddu11160 xskyward7 blainn_ demolition_derby houken_ lechef04 nonausse senor_zacapa alexandre_d3 anselmo10totti gregbraz jl_dwist lomn1 sharkiipiic sofkillah2"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :ethanperstar fugazi_7 redahdkeys sb7_masz sf_lalan_pintatantesango wooshishi 1stylus1 bk000 ludoletoss08 mrnayz_z raloux19 urugashy 3verett ginosaure le_fromage_en_grain lebgdu7777 m1nd_____ mevennnn skeloconut chameleonnf kalipsoe laacrepe li_yes snoopy75008 viiddaa24 yuzatw zenitsuagatsuuma antraxdrg charko_tv zivam22 teeph__ benjicolor daymon_drax alph4ratz d4liano mathrixxxxx45 rougecommelebleu wolfi31 a13x86",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "ethanperstar fugazi_7 redahdkeys sb7_masz sf_lalan_pintatantesango wooshishi 1stylus1 bk000 ludoletoss08 mrnayz_z raloux19 urugashy 3verett ginosaure le_fromage_en_grain lebgdu7777 m1nd_____ mevennnn skeloconut chameleonnf kalipsoe laacrepe li_yes snoopy75008 viiddaa24 yuzatw zenitsuagatsuuma antraxdrg charko_tv zivam22 teeph__ benjicolor daymon_drax alph4ratz d4liano mathrixxxxx45 rougecommelebleu wolfi31 a13x86"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :ethanperstar fugazi_7 redahdkeys sb7_masz sf_lalan_pintatantesango wooshishi 1stylus1 bk000 ludoletoss08 mrnayz_z raloux19 urugashy 3verett ginosaure le_fromage_en_grain lebgdu7777 m1nd_____ mevennnn skeloconut chameleonnf kalipsoe laacrepe li_yes snoopy75008 viiddaa24 yuzatw zenitsuagatsuuma antraxdrg charko_tv zivam22 teeph__ benjicolor daymon_drax alph4ratz d4liano mathrixxxxx45 rougecommelebleu wolfi31 a13x86",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "ethanperstar fugazi_7 redahdkeys sb7_masz sf_lalan_pintatantesango wooshishi 1stylus1 bk000 ludoletoss08 mrnayz_z raloux19 urugashy 3verett ginosaure le_fromage_en_grain lebgdu7777 m1nd_____ mevennnn skeloconut chameleonnf kalipsoe laacrepe li_yes snoopy75008 viiddaa24 yuzatw zenitsuagatsuuma antraxdrg charko_tv zivam22 teeph__ benjicolor daymon_drax alph4ratz d4liano mathrixxxxx45 rougecommelebleu wolfi31 a13x86"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :adelscot dessto fabadeus astraiosow snoopydop feozinkr6 jul666_ lamaver nakashowof sandro2727 404_yv bimdanslesdents jlyounes_ rhonann1 ulri arikado30 elbaloo j_lardhy menchauve_giro naintuable05 reloadz_atone skailex31 vezuz05 aphixiia baptiste6_4 wissam_blk sbym1 t_nook piougko pointclicks cutman19 geraltleivre kamperkeny nico674000 b0udda capitainesoso_24 lenmectv nextdoorsilvio38 scarfaceharden sydarott",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "adelscot dessto fabadeus astraiosow snoopydop feozinkr6 jul666_ lamaver nakashowof sandro2727 404_yv bimdanslesdents jlyounes_ rhonann1 ulri arikado30 elbaloo j_lardhy menchauve_giro naintuable05 reloadz_atone skailex31 vezuz05 aphixiia baptiste6_4 wissam_blk sbym1 t_nook piougko pointclicks cutman19 geraltleivre kamperkeny nico674000 b0udda capitainesoso_24 lenmectv nextdoorsilvio38 scarfaceharden sydarott"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :adelscot dessto fabadeus astraiosow snoopydop feozinkr6 jul666_ lamaver nakashowof sandro2727 404_yv bimdanslesdents jlyounes_ rhonann1 ulri arikado30 elbaloo j_lardhy menchauve_giro naintuable05 reloadz_atone skailex31 vezuz05 aphixiia baptiste6_4 wissam_blk sbym1 t_nook piougko pointclicks cutman19 geraltleivre kamperkeny nico674000 b0udda capitainesoso_24 lenmectv nextdoorsilvio38 scarfaceharden sydarott",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "adelscot dessto fabadeus astraiosow snoopydop feozinkr6 jul666_ lamaver nakashowof sandro2727 404_yv bimdanslesdents jlyounes_ rhonann1 ulri arikado30 elbaloo j_lardhy menchauve_giro naintuable05 reloadz_atone skailex31 vezuz05 aphixiia baptiste6_4 wissam_blk sbym1 t_nook piougko pointclicks cutman19 geraltleivre kamperkeny nico674000 b0udda capitainesoso_24 lenmectv nextdoorsilvio38 scarfaceharden sydarott"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :thedrakakis theo516 caporalsang dufuzsky luxulu tetsukakkaroto faustreaper jl_aikho draner952 jl_le_duvet_a_jowan legjuice95 sanvar_ siktrazz soualokum anotherttvviewer anthonito99 spiidey21 ulrickgn monkeydcf slache17 dorian5725 mastabobine cynder95260 gaut67 matek_eu blackdreemon blueshadowwz peug206fran6du06 slockness zerofr apyom aten nichirensama bebibou2708 m4ng0uste kilass_btw01 shorow_ transpalette_",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "thedrakakis theo516 caporalsang dufuzsky luxulu tetsukakkaroto faustreaper jl_aikho draner952 jl_le_duvet_a_jowan legjuice95 sanvar_ siktrazz soualokum anotherttvviewer anthonito99 spiidey21 ulrickgn monkeydcf slache17 dorian5725 mastabobine cynder95260 gaut67 matek_eu blackdreemon blueshadowwz peug206fran6du06 slockness zerofr apyom aten nichirensama bebibou2708 m4ng0uste kilass_btw01 shorow_ transpalette_"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :thedrakakis theo516 caporalsang dufuzsky luxulu tetsukakkaroto faustreaper jl_aikho draner952 jl_le_duvet_a_jowan legjuice95 sanvar_ siktrazz soualokum anotherttvviewer anthonito99 spiidey21 ulrickgn monkeydcf slache17 dorian5725 mastabobine cynder95260 gaut67 matek_eu blackdreemon blueshadowwz peug206fran6du06 slockness zerofr apyom aten nichirensama bebibou2708 m4ng0uste kilass_btw01 shorow_ transpalette_",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "thedrakakis theo516 caporalsang dufuzsky luxulu tetsukakkaroto faustreaper jl_aikho draner952 jl_le_duvet_a_jowan legjuice95 sanvar_ siktrazz soualokum anotherttvviewer anthonito99 spiidey21 ulrickgn monkeydcf slache17 dorian5725 mastabobine cynder95260 gaut67 matek_eu blackdreemon blueshadowwz peug206fran6du06 slockness zerofr apyom aten nichirensama bebibou2708 m4ng0uste kilass_btw01 shorow_ transpalette_"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :df_mattuvufr_arz etienba dertoneur manucrb totalynectar toutelanuit tyson78300 abdou023 atarrax jeanmichelrebou porkyoff tomatogt11 zagneel hbtreize hocpoc777 lamaindroitedescud freast jamaultnoah50 lrugg212 mathisjl omshix roxane14 sweethali tomsoone ixkutkillx jimmygames89 felix2880 fn_ak47_neon kylsee seitv_ zevik1990 balkkhrog crapss johnsfatstomach killouze lightkiwixx on3byone sql_kakoo taiidana candyvalentinne",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "df_mattuvufr_arz etienba dertoneur manucrb totalynectar toutelanuit tyson78300 abdou023 atarrax jeanmichelrebou porkyoff tomatogt11 zagneel hbtreize hocpoc777 lamaindroitedescud freast jamaultnoah50 lrugg212 mathisjl omshix roxane14 sweethali tomsoone ixkutkillx jimmygames89 felix2880 fn_ak47_neon kylsee seitv_ zevik1990 balkkhrog crapss johnsfatstomach killouze lightkiwixx on3byone sql_kakoo taiidana candyvalentinne"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :df_mattuvufr_arz etienba dertoneur manucrb totalynectar toutelanuit tyson78300 abdou023 atarrax jeanmichelrebou porkyoff tomatogt11 zagneel hbtreize hocpoc777 lamaindroitedescud freast jamaultnoah50 lrugg212 mathisjl omshix roxane14 sweethali tomsoone ixkutkillx jimmygames89 felix2880 fn_ak47_neon kylsee seitv_ zevik1990 balkkhrog crapss johnsfatstomach killouze lightkiwixx on3byone sql_kakoo taiidana candyvalentinne",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "df_mattuvufr_arz etienba dertoneur manucrb totalynectar toutelanuit tyson78300 abdou023 atarrax jeanmichelrebou porkyoff tomatogt11 zagneel hbtreize hocpoc777 lamaindroitedescud freast jamaultnoah50 lrugg212 mathisjl omshix roxane14 sweethali tomsoone ixkutkillx jimmygames89 felix2880 fn_ak47_neon kylsee seitv_ zevik1990 balkkhrog crapss johnsfatstomach killouze lightkiwixx on3byone sql_kakoo taiidana candyvalentinne"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :coeurdabeille sekaiisan tonton_zw maitrecumiste nahika24 timaress xvi_wathox zeubet62 jltylerdurden juenzo iam_nessos mugen92 pinheiro432 thisiseku alkikilekikidetousleskiki besancon25 purplehaze84 enorloulabz heazeun k3jru stygaa bananasplifff d3nkyo danfox3111 fanstuff jkaaff lemysterb nalyddd29 sergentbacq bryandimaria carrismattick snb_ledjidji yagamibite piedsdefemme relaxx_x dantren_ myenergies fakersai566",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "coeurdabeille sekaiisan tonton_zw maitrecumiste nahika24 timaress xvi_wathox zeubet62 jltylerdurden juenzo iam_nessos mugen92 pinheiro432 thisiseku alkikilekikidetousleskiki besancon25 purplehaze84 enorloulabz heazeun k3jru stygaa bananasplifff d3nkyo danfox3111 fanstuff jkaaff lemysterb nalyddd29 sergentbacq bryandimaria carrismattick snb_ledjidji yagamibite piedsdefemme relaxx_x dantren_ myenergies fakersai566"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :coeurdabeille sekaiisan tonton_zw maitrecumiste nahika24 timaress xvi_wathox zeubet62 jltylerdurden juenzo iam_nessos mugen92 pinheiro432 thisiseku alkikilekikidetousleskiki besancon25 purplehaze84 enorloulabz heazeun k3jru stygaa bananasplifff d3nkyo danfox3111 fanstuff jkaaff lemysterb nalyddd29 sergentbacq bryandimaria carrismattick snb_ledjidji yagamibite piedsdefemme relaxx_x dantren_ myenergies fakersai566",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "coeurdabeille sekaiisan tonton_zw maitrecumiste nahika24 timaress xvi_wathox zeubet62 jltylerdurden juenzo iam_nessos mugen92 pinheiro432 thisiseku alkikilekikidetousleskiki besancon25 purplehaze84 enorloulabz heazeun k3jru stygaa bananasplifff d3nkyo danfox3111 fanstuff jkaaff lemysterb nalyddd29 sergentbacq bryandimaria carrismattick snb_ledjidji yagamibite piedsdefemme relaxx_x dantren_ myenergies fakersai566"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :hagmhell meyskyyy sa_snoww saiross23 babsito britosrush nuitbleue zkubafn bogoss177 chocaille lbh_okaynos wexx_fire canardboiteux2 kkamoulox jauuz45 lebeaujour h4shed jeeerrreeemmm kalimboo lakishta212 ldweez poonpirate 915358093139588130000231 avinski deafshadow123 drcmihawk tikoke archangegaia blitzchung karshs o0richtofen0o pirate_legameur_54 ristac83 rsharko eldynn jlben667 tuuppp bouzook faak__ gyujhvbb",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "hagmhell meyskyyy sa_snoww saiross23 babsito britosrush nuitbleue zkubafn bogoss177 chocaille lbh_okaynos wexx_fire canardboiteux2 kkamoulox jauuz45 lebeaujour h4shed jeeerrreeemmm kalimboo lakishta212 ldweez poonpirate 915358093139588130000231 avinski deafshadow123 drcmihawk tikoke archangegaia blitzchung karshs o0richtofen0o pirate_legameur_54 ristac83 rsharko eldynn jlben667 tuuppp bouzook faak__ gyujhvbb"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :hagmhell meyskyyy sa_snoww saiross23 babsito britosrush nuitbleue zkubafn bogoss177 chocaille lbh_okaynos wexx_fire canardboiteux2 kkamoulox jauuz45 lebeaujour h4shed jeeerrreeemmm kalimboo lakishta212 ldweez poonpirate 915358093139588130000231 avinski deafshadow123 drcmihawk tikoke archangegaia blitzchung karshs o0richtofen0o pirate_legameur_54 ristac83 rsharko eldynn jlben667 tuuppp bouzook faak__ gyujhvbb",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "hagmhell meyskyyy sa_snoww saiross23 babsito britosrush nuitbleue zkubafn bogoss177 chocaille lbh_okaynos wexx_fire canardboiteux2 kkamoulox jauuz45 lebeaujour h4shed jeeerrreeemmm kalimboo lakishta212 ldweez poonpirate 915358093139588130000231 avinski deafshadow123 drcmihawk tikoke archangegaia blitzchung karshs o0richtofen0o pirate_legameur_54 ristac83 rsharko eldynn jlben667 tuuppp bouzook faak__ gyujhvbb"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :jimbo_brasco mat_dko snako95 4a6f afpgoonzy stootesalue kopthy neilyo76 shawk_tv soap9329 adm_ringhton jayjaymcdowel fanabordo furaxx_x itsvodoo nypar pochon rudox amazinghs35 artus1210 slowlylow baptiste0444 darkonar derricklechbeb lukonzo parazar_rex robhdfut abder638 akaruu shaining8 viirtu92 math_ultramarines33 mimilee mr_lasnic punkdis same16k cursed_lines feet yohandelrey ago_____ josephwankline marcozeppeli",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "jimbo_brasco mat_dko snako95 4a6f afpgoonzy stootesalue kopthy neilyo76 shawk_tv soap9329 adm_ringhton jayjaymcdowel fanabordo furaxx_x itsvodoo nypar pochon rudox amazinghs35 artus1210 slowlylow baptiste0444 darkonar derricklechbeb lukonzo parazar_rex robhdfut abder638 akaruu shaining8 viirtu92 math_ultramarines33 mimilee mr_lasnic punkdis same16k cursed_lines feet yohandelrey ago_____ josephwankline marcozeppeli"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :jimbo_brasco mat_dko snako95 4a6f afpgoonzy stootesalue kopthy neilyo76 shawk_tv soap9329 adm_ringhton jayjaymcdowel fanabordo furaxx_x itsvodoo nypar pochon rudox amazinghs35 artus1210 slowlylow baptiste0444 darkonar derricklechbeb lukonzo parazar_rex robhdfut abder638 akaruu shaining8 viirtu92 math_ultramarines33 mimilee mr_lasnic punkdis same16k cursed_lines feet yohandelrey ago_____ josephwankline marcozeppeli",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "jimbo_brasco mat_dko snako95 4a6f afpgoonzy stootesalue kopthy neilyo76 shawk_tv soap9329 adm_ringhton jayjaymcdowel fanabordo furaxx_x itsvodoo nypar pochon rudox amazinghs35 artus1210 slowlylow baptiste0444 darkonar derricklechbeb lukonzo parazar_rex robhdfut abder638 akaruu shaining8 viirtu92 math_ultramarines33 mimilee mr_lasnic punkdis same16k cursed_lines feet yohandelrey ago_____ josephwankline marcozeppeli"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :mojahhhh thanostv ayor69 f_o_l_g_ gregoyr12 hugzow jezveh kuoissa marvin161604 noven__ angelo27000 dea7h666 rezzbart sbstn974 baconburger30 salahhh geronimo_66680 kevin_baldwin_ maximegtn twitchprimereminder basthum clemvnt cltron_ elifioll flav22440 malooa mange1c muse_atroce bakuras bryan71starz tobukujira twitch_keyzixxx ugetsugg youtubewatcheur skydozz tangz_53 nyanis5 oxyfa roropero thebzhbambi xxamnesia59x",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "mojahhhh thanostv ayor69 f_o_l_g_ gregoyr12 hugzow jezveh kuoissa marvin161604 noven__ angelo27000 dea7h666 rezzbart sbstn974 baconburger30 salahhh geronimo_66680 kevin_baldwin_ maximegtn twitchprimereminder basthum clemvnt cltron_ elifioll flav22440 malooa mange1c muse_atroce bakuras bryan71starz tobukujira twitch_keyzixxx ugetsugg youtubewatcheur skydozz tangz_53 nyanis5 oxyfa roropero thebzhbambi xxamnesia59x"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :mojahhhh thanostv ayor69 f_o_l_g_ gregoyr12 hugzow jezveh kuoissa marvin161604 noven__ angelo27000 dea7h666 rezzbart sbstn974 baconburger30 salahhh geronimo_66680 kevin_baldwin_ maximegtn twitchprimereminder basthum clemvnt cltron_ elifioll flav22440 malooa mange1c muse_atroce bakuras bryan71starz tobukujira twitch_keyzixxx ugetsugg youtubewatcheur skydozz tangz_53 nyanis5 oxyfa roropero thebzhbambi xxamnesia59x",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "mojahhhh thanostv ayor69 f_o_l_g_ gregoyr12 hugzow jezveh kuoissa marvin161604 noven__ angelo27000 dea7h666 rezzbart sbstn974 baconburger30 salahhh geronimo_66680 kevin_baldwin_ maximegtn twitchprimereminder basthum clemvnt cltron_ elifioll flav22440 malooa mange1c muse_atroce bakuras bryan71starz tobukujira twitch_keyzixxx ugetsugg youtubewatcheur skydozz tangz_53 nyanis5 oxyfa roropero thebzhbambi xxamnesia59x"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :yoyolebarge azul67 djclad440 juneeor percyvai trollzubiar yebius bamboux64 beterel jake_parc banmonitor indyheaven kiopdev muddashipp waticavalier frenchy35 jl_ibrax keril_iam maxgneuhgneuhgneuh tetsuyo44 cyrilsisi ineska nemeeer chayanne00 jlcroko twixtyoffi wexhus leckblue marcowlaabricot jokxy mokkoristador skrimte tom_hagen7 tomfaror anthropologydept jikajikajikajika zshurikn1 yanlss ziik77 chok38",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "yoyolebarge azul67 djclad440 juneeor percyvai trollzubiar yebius bamboux64 beterel jake_parc banmonitor indyheaven kiopdev muddashipp waticavalier frenchy35 jl_ibrax keril_iam maxgneuhgneuhgneuh tetsuyo44 cyrilsisi ineska nemeeer chayanne00 jlcroko twixtyoffi wexhus leckblue marcowlaabricot jokxy mokkoristador skrimte tom_hagen7 tomfaror anthropologydept jikajikajikajika zshurikn1 yanlss ziik77 chok38"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :yoyolebarge azul67 djclad440 juneeor percyvai trollzubiar yebius bamboux64 beterel jake_parc banmonitor indyheaven kiopdev muddashipp waticavalier frenchy35 jl_ibrax keril_iam maxgneuhgneuhgneuh tetsuyo44 cyrilsisi ineska nemeeer chayanne00 jlcroko twixtyoffi wexhus leckblue marcowlaabricot jokxy mokkoristador skrimte tom_hagen7 tomfaror anthropologydept jikajikajikajika zshurikn1 yanlss ziik77 chok38",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "yoyolebarge azul67 djclad440 juneeor percyvai trollzubiar yebius bamboux64 beterel jake_parc banmonitor indyheaven kiopdev muddashipp waticavalier frenchy35 jl_ibrax keril_iam maxgneuhgneuhgneuh tetsuyo44 cyrilsisi ineska nemeeer chayanne00 jlcroko twixtyoffi wexhus leckblue marcowlaabricot jokxy mokkoristador skrimte tom_hagen7 tomfaror anthropologydept jikajikajikajika zshurikn1 yanlss ziik77 chok38"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :lamonsterderhobalas alvy2a bclv4 ti_mal2_7 xsoo_ yvanada legameurdu_13 thefuzion59 malikofs shaadow37 skwitch42 tbf_elix tt69 yerelfr laculottedakaruu lxdq yiahyiah maverickgoose69 qlfdtr skythief antogros elgoodcat magnusspans nute___ pvvs_1030 biigoudene im_zenoz menowir mrtheshootertv thetsumi xavier60 bothbarrel magal20758 maaaaaaaagik themongolianchopsquad thot56 xianigar zilibe arsenik29 hatoua",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "lamonsterderhobalas alvy2a bclv4 ti_mal2_7 xsoo_ yvanada legameurdu_13 thefuzion59 malikofs shaadow37 skwitch42 tbf_elix tt69 yerelfr laculottedakaruu lxdq yiahyiah maverickgoose69 qlfdtr skythief antogros elgoodcat magnusspans nute___ pvvs_1030 biigoudene im_zenoz menowir mrtheshootertv thetsumi xavier60 bothbarrel magal20758 maaaaaaaagik themongolianchopsquad thot56 xianigar zilibe arsenik29 hatoua"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :lamonsterderhobalas alvy2a bclv4 ti_mal2_7 xsoo_ yvanada legameurdu_13 thefuzion59 malikofs shaadow37 skwitch42 tbf_elix tt69 yerelfr laculottedakaruu lxdq yiahyiah maverickgoose69 qlfdtr skythief antogros elgoodcat magnusspans nute___ pvvs_1030 biigoudene im_zenoz menowir mrtheshootertv thetsumi xavier60 bothbarrel magal20758 maaaaaaaagik themongolianchopsquad thot56 xianigar zilibe arsenik29 hatoua",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "lamonsterderhobalas alvy2a bclv4 ti_mal2_7 xsoo_ yvanada legameurdu_13 thefuzion59 malikofs shaadow37 skwitch42 tbf_elix tt69 yerelfr laculottedakaruu lxdq yiahyiah maverickgoose69 qlfdtr skythief antogros elgoodcat magnusspans nute___ pvvs_1030 biigoudene im_zenoz menowir mrtheshootertv thetsumi xavier60 bothbarrel magal20758 maaaaaaaagik themongolianchopsquad thot56 xianigar zilibe arsenik29 hatoua"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :antoinekahlouche",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "antoinekahlouche"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 353 antoinekahlouche = #manuelferraratv :antoinekahlouche",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "353",
+			"params": ["antoinekahlouche", "=", "#manuelferraratv", "antoinekahlouche"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 366 antoinekahlouche #manuelferraratv :End of /NAMES list",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "366",
+			"params": ["antoinekahlouche", "#manuelferraratv", "End of /NAMES list"]
+		},
+		"message": {
+			"raw": ":antoinekahlouche.tmi.twitch.tv 366 antoinekahlouche #manuelferraratv :End of /NAMES list",
+			"tags": {},
+			"prefix": "antoinekahlouche.tmi.twitch.tv",
+			"command": "366",
+			"params": ["antoinekahlouche", "#manuelferraratv", "End of /NAMES list"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": "@badge-info=subscriber/4;badges=subscriber/3;color=;display-name=tom_hagen7;emotes=;flags=;id=8dff0e6a-cc61-4251-8b5c-c0a46b6fdb7f;mod=0;room-id=131861345;subscriber=1;tmi-sent-ts=1598162297198;turbo=0;user-id=505902353;user-type= :tom_hagen7!tom_hagen7@tom_hagen7.tmi.twitch.tv PRIVMSG #manuelferraratv :C'est ca !",
+			"tags": {
+				"badge-info": "subscriber/4",
+				"badges": "subscriber/3",
+				"color": true,
+				"display-name": "tom_hagen7",
+				"emotes": true,
+				"flags": true,
+				"id": "8dff0e6a-cc61-4251-8b5c-c0a46b6fdb7f",
+				"mod": "0",
+				"room-id": "131861345",
+				"subscriber": "1",
+				"tmi-sent-ts": "1598162297198",
+				"turbo": "0",
+				"user-id": "505902353",
+				"user-type": true
+			},
+			"prefix": "tom_hagen7!tom_hagen7@tom_hagen7.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#manuelferraratv", "C'est ca !"]
+		},
+		"message": {
+			"raw": "@badge-info=subscriber/4;badges=subscriber/3;color=;display-name=tom_hagen7;emotes=;flags=;id=8dff0e6a-cc61-4251-8b5c-c0a46b6fdb7f;mod=0;room-id=131861345;subscriber=1;tmi-sent-ts=1598162297198;turbo=0;user-id=505902353;user-type= :tom_hagen7!tom_hagen7@tom_hagen7.tmi.twitch.tv PRIVMSG #manuelferraratv :C'est ca !",
+			"tags": {
+				"badge-info": {
+					"subscriber": "4"
+				},
+				"badges": {
+					"subscriber": "3"
+				},
+				"color": null,
+				"display-name": "tom_hagen7",
+				"emotes": null,
+				"flags": null,
+				"id": "8dff0e6a-cc61-4251-8b5c-c0a46b6fdb7f",
+				"mod": false,
+				"room-id": "131861345",
+				"subscriber": true,
+				"tmi-sent-ts": "1598162297198",
+				"turbo": false,
+				"user-id": "505902353",
+				"user-type": null,
+				"emotes-raw": null,
+				"badge-info-raw": "subscriber/4",
+				"badges-raw": "subscriber/3",
+				"username": "tom_hagen7",
+				"message-type": "chat"
+			},
+			"prefix": "tom_hagen7!tom_hagen7@tom_hagen7.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#manuelferraratv", "C'est ca !"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": "@badge-info=;badges=;color=;display-name=kenshinnhimuraaa;emotes=;flags=;id=91f420de-1709-4258-8b73-9d60ae17fcad;mod=0;room-id=131861345;subscriber=0;tmi-sent-ts=1598162297937;turbo=0;user-id=478100939;user-type= :kenshinnhimuraaa!kenshinnhimuraaa@kenshinnhimuraaa.tmi.twitch.tv PRIVMSG #manuelferraratv :@manuelferraratv ta baiser Lana Rhoades elle es bonne à mort mdr",
+			"tags": {
+				"badge-info": true,
+				"badges": true,
+				"color": true,
+				"display-name": "kenshinnhimuraaa",
+				"emotes": true,
+				"flags": true,
+				"id": "91f420de-1709-4258-8b73-9d60ae17fcad",
+				"mod": "0",
+				"room-id": "131861345",
+				"subscriber": "0",
+				"tmi-sent-ts": "1598162297937",
+				"turbo": "0",
+				"user-id": "478100939",
+				"user-type": true
+			},
+			"prefix": "kenshinnhimuraaa!kenshinnhimuraaa@kenshinnhimuraaa.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#manuelferraratv", "@manuelferraratv ta baiser Lana Rhoades elle es bonne à mort mdr"]
+		},
+		"message": {
+			"raw": "@badge-info=;badges=;color=;display-name=kenshinnhimuraaa;emotes=;flags=;id=91f420de-1709-4258-8b73-9d60ae17fcad;mod=0;room-id=131861345;subscriber=0;tmi-sent-ts=1598162297937;turbo=0;user-id=478100939;user-type= :kenshinnhimuraaa!kenshinnhimuraaa@kenshinnhimuraaa.tmi.twitch.tv PRIVMSG #manuelferraratv :@manuelferraratv ta baiser Lana Rhoades elle es bonne à mort mdr",
+			"tags": {
+				"badge-info": null,
+				"badges": null,
+				"color": null,
+				"display-name": "kenshinnhimuraaa",
+				"emotes": null,
+				"flags": null,
+				"id": "91f420de-1709-4258-8b73-9d60ae17fcad",
+				"mod": false,
+				"room-id": "131861345",
+				"subscriber": false,
+				"tmi-sent-ts": "1598162297937",
+				"turbo": false,
+				"user-id": "478100939",
+				"user-type": null,
+				"emotes-raw": null,
+				"badge-info-raw": null,
+				"badges-raw": null,
+				"username": "kenshinnhimuraaa",
+				"message-type": "chat"
+			},
+			"prefix": "kenshinnhimuraaa!kenshinnhimuraaa@kenshinnhimuraaa.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#manuelferraratv", "@manuelferraratv ta baiser Lana Rhoades elle es bonne à mort mdr"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": "@badge-info=;badges=;color=;display-name=agamdalo;emotes=;flags=;id=fc01f5b5-c6b1-4f14-a4d5-14cf5221ccff;mod=0;room-id=131861345;subscriber=0;tmi-sent-ts=1598162299766;turbo=0;user-id=540622619;user-type= :agamdalo!agamdalo@agamdalo.tmi.twitch.tv PRIVMSG #manuelferraratv :@d4liano je sais pas comment il fait ce Nino",
+			"tags": {
+				"badge-info": true,
+				"badges": true,
+				"color": true,
+				"display-name": "agamdalo",
+				"emotes": true,
+				"flags": true,
+				"id": "fc01f5b5-c6b1-4f14-a4d5-14cf5221ccff",
+				"mod": "0",
+				"room-id": "131861345",
+				"subscriber": "0",
+				"tmi-sent-ts": "1598162299766",
+				"turbo": "0",
+				"user-id": "540622619",
+				"user-type": true
+			},
+			"prefix": "agamdalo!agamdalo@agamdalo.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#manuelferraratv", "@d4liano je sais pas comment il fait ce Nino"]
+		},
+		"message": {
+			"raw": "@badge-info=;badges=;color=;display-name=agamdalo;emotes=;flags=;id=fc01f5b5-c6b1-4f14-a4d5-14cf5221ccff;mod=0;room-id=131861345;subscriber=0;tmi-sent-ts=1598162299766;turbo=0;user-id=540622619;user-type= :agamdalo!agamdalo@agamdalo.tmi.twitch.tv PRIVMSG #manuelferraratv :@d4liano je sais pas comment il fait ce Nino",
+			"tags": {
+				"badge-info": null,
+				"badges": null,
+				"color": null,
+				"display-name": "agamdalo",
+				"emotes": null,
+				"flags": null,
+				"id": "fc01f5b5-c6b1-4f14-a4d5-14cf5221ccff",
+				"mod": false,
+				"room-id": "131861345",
+				"subscriber": false,
+				"tmi-sent-ts": "1598162299766",
+				"turbo": false,
+				"user-id": "540622619",
+				"user-type": null,
+				"emotes-raw": null,
+				"badge-info-raw": null,
+				"badges-raw": null,
+				"username": "agamdalo",
+				"message-type": "chat"
+			},
+			"prefix": "agamdalo!agamdalo@agamdalo.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#manuelferraratv", "@d4liano je sais pas comment il fait ce Nino"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": "@badge-info=;badges=;color=;display-name=jetskush;emotes=;flags=;id=07b24dca-f20f-4241-8143-8599b2bb0aa9;mod=0;room-id=131861345;subscriber=0;tmi-sent-ts=1598162302160;turbo=0;user-id=565358043;user-type= :jetskush!jetskush@jetskush.tmi.twitch.tv PRIVMSG #manuelferraratv :commen jfait jouire unne fille stp",
+			"tags": {
+				"badge-info": true,
+				"badges": true,
+				"color": true,
+				"display-name": "jetskush",
+				"emotes": true,
+				"flags": true,
+				"id": "07b24dca-f20f-4241-8143-8599b2bb0aa9",
+				"mod": "0",
+				"room-id": "131861345",
+				"subscriber": "0",
+				"tmi-sent-ts": "1598162302160",
+				"turbo": "0",
+				"user-id": "565358043",
+				"user-type": true
+			},
+			"prefix": "jetskush!jetskush@jetskush.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#manuelferraratv", "commen jfait jouire unne fille stp"]
+		},
+		"message": {
+			"raw": "@badge-info=;badges=;color=;display-name=jetskush;emotes=;flags=;id=07b24dca-f20f-4241-8143-8599b2bb0aa9;mod=0;room-id=131861345;subscriber=0;tmi-sent-ts=1598162302160;turbo=0;user-id=565358043;user-type= :jetskush!jetskush@jetskush.tmi.twitch.tv PRIVMSG #manuelferraratv :commen jfait jouire unne fille stp",
+			"tags": {
+				"badge-info": null,
+				"badges": null,
+				"color": null,
+				"display-name": "jetskush",
+				"emotes": null,
+				"flags": null,
+				"id": "07b24dca-f20f-4241-8143-8599b2bb0aa9",
+				"mod": false,
+				"room-id": "131861345",
+				"subscriber": false,
+				"tmi-sent-ts": "1598162302160",
+				"turbo": false,
+				"user-id": "565358043",
+				"user-type": null,
+				"emotes-raw": null,
+				"badge-info-raw": null,
+				"badges-raw": null,
+				"username": "jetskush",
+				"message-type": "chat"
+			},
+			"prefix": "jetskush!jetskush@jetskush.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#manuelferraratv", "commen jfait jouire unne fille stp"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": "@badge-info=;badges=;client-nonce=ebe31e3dda81b44812a89951f872fa8c;color=#008000;display-name=Lanlan234;emotes=;flags=;id=b0f217e1-0600-410d-885f-3ed3ed6a107e;mod=0;room-id=72480716;subscriber=0;tmi-sent-ts=1598162302242;turbo=0;user-id=39415465;user-type= :lanlan234!lanlan234@lanlan234.tmi.twitch.tv PRIVMSG #tonton :oui mais ils sont plus",
+			"tags": {
+				"badge-info": true,
+				"badges": true,
+				"client-nonce": "ebe31e3dda81b44812a89951f872fa8c",
+				"color": "#008000",
+				"display-name": "Lanlan234",
+				"emotes": true,
+				"flags": true,
+				"id": "b0f217e1-0600-410d-885f-3ed3ed6a107e",
+				"mod": "0",
+				"room-id": "72480716",
+				"subscriber": "0",
+				"tmi-sent-ts": "1598162302242",
+				"turbo": "0",
+				"user-id": "39415465",
+				"user-type": true
+			},
+			"prefix": "lanlan234!lanlan234@lanlan234.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "oui mais ils sont plus"]
+		},
+		"message": {
+			"raw": "@badge-info=;badges=;client-nonce=ebe31e3dda81b44812a89951f872fa8c;color=#008000;display-name=Lanlan234;emotes=;flags=;id=b0f217e1-0600-410d-885f-3ed3ed6a107e;mod=0;room-id=72480716;subscriber=0;tmi-sent-ts=1598162302242;turbo=0;user-id=39415465;user-type= :lanlan234!lanlan234@lanlan234.tmi.twitch.tv PRIVMSG #tonton :oui mais ils sont plus",
+			"tags": {
+				"badge-info": null,
+				"badges": null,
+				"client-nonce": "ebe31e3dda81b44812a89951f872fa8c",
+				"color": "#008000",
+				"display-name": "Lanlan234",
+				"emotes": null,
+				"flags": null,
+				"id": "b0f217e1-0600-410d-885f-3ed3ed6a107e",
+				"mod": false,
+				"room-id": "72480716",
+				"subscriber": false,
+				"tmi-sent-ts": "1598162302242",
+				"turbo": false,
+				"user-id": "39415465",
+				"user-type": null,
+				"emotes-raw": null,
+				"badge-info-raw": null,
+				"badges-raw": null,
+				"username": "lanlan234",
+				"message-type": "chat"
+			},
+			"prefix": "lanlan234!lanlan234@lanlan234.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "oui mais ils sont plus"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": "@badge-info=subscriber/16;badges=vip/1,subscriber/12,sub-gifter/50;color=;display-name=krimdark;emotes=;flags=;id=b40f28eb-e37e-4a42-a238-3fa321da42f9;mod=0;room-id=72480716;subscriber=1;tmi-sent-ts=1598162302342;turbo=0;user-id=410918036;user-type= :krimdark!krimdark@krimdark.tmi.twitch.tv PRIVMSG #tonton :oui mais nan ^^",
+			"tags": {
+				"badge-info": "subscriber/16",
+				"badges": "vip/1,subscriber/12,sub-gifter/50",
+				"color": true,
+				"display-name": "krimdark",
+				"emotes": true,
+				"flags": true,
+				"id": "b40f28eb-e37e-4a42-a238-3fa321da42f9",
+				"mod": "0",
+				"room-id": "72480716",
+				"subscriber": "1",
+				"tmi-sent-ts": "1598162302342",
+				"turbo": "0",
+				"user-id": "410918036",
+				"user-type": true
+			},
+			"prefix": "krimdark!krimdark@krimdark.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "oui mais nan ^^"]
+		},
+		"message": {
+			"raw": "@badge-info=subscriber/16;badges=vip/1,subscriber/12,sub-gifter/50;color=;display-name=krimdark;emotes=;flags=;id=b40f28eb-e37e-4a42-a238-3fa321da42f9;mod=0;room-id=72480716;subscriber=1;tmi-sent-ts=1598162302342;turbo=0;user-id=410918036;user-type= :krimdark!krimdark@krimdark.tmi.twitch.tv PRIVMSG #tonton :oui mais nan ^^",
+			"tags": {
+				"badge-info": {
+					"subscriber": "16"
+				},
+				"badges": {
+					"vip": "1",
+					"subscriber": "12",
+					"sub-gifter": "50"
+				},
+				"color": null,
+				"display-name": "krimdark",
+				"emotes": null,
+				"flags": null,
+				"id": "b40f28eb-e37e-4a42-a238-3fa321da42f9",
+				"mod": false,
+				"room-id": "72480716",
+				"subscriber": true,
+				"tmi-sent-ts": "1598162302342",
+				"turbo": false,
+				"user-id": "410918036",
+				"user-type": null,
+				"emotes-raw": null,
+				"badge-info-raw": "subscriber/16",
+				"badges-raw": "vip/1,subscriber/12,sub-gifter/50",
+				"username": "krimdark",
+				"message-type": "chat"
+			},
+			"prefix": "krimdark!krimdark@krimdark.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "oui mais nan ^^"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": "@badge-info=;badges=;client-nonce=8a8b6c224cd4b524762e09f79cce96c9;color=#FF0000;display-name=ksos1;emotes=;flags=;id=7c6288fa-9e2e-41be-b9d3-6deb02341450;mod=0;room-id=72480716;subscriber=0;tmi-sent-ts=1598162303346;turbo=0;user-id=498368901;user-type= :ksos1!ksos1@ksos1.tmi.twitch.tv PRIVMSG #tonton :Le problème avec le foot, c'est les ultras qu'il y a dans les supporters, après la diffférence avec la vidéo à Paris, c'est qu'ils soont là pour foutre juste la merde et comme dab c'est les flics qui se prennent tout",
+			"tags": {
+				"badge-info": true,
+				"badges": true,
+				"client-nonce": "8a8b6c224cd4b524762e09f79cce96c9",
+				"color": "#FF0000",
+				"display-name": "ksos1",
+				"emotes": true,
+				"flags": true,
+				"id": "7c6288fa-9e2e-41be-b9d3-6deb02341450",
+				"mod": "0",
+				"room-id": "72480716",
+				"subscriber": "0",
+				"tmi-sent-ts": "1598162303346",
+				"turbo": "0",
+				"user-id": "498368901",
+				"user-type": true
+			},
+			"prefix": "ksos1!ksos1@ksos1.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "Le problème avec le foot, c'est les ultras qu'il y a dans les supporters, après la diffférence avec la vidéo à Paris, c'est qu'ils soont là pour foutre juste la merde et comme dab c'est les flics qui se prennent tout"]
+		},
+		"message": {
+			"raw": "@badge-info=;badges=;client-nonce=8a8b6c224cd4b524762e09f79cce96c9;color=#FF0000;display-name=ksos1;emotes=;flags=;id=7c6288fa-9e2e-41be-b9d3-6deb02341450;mod=0;room-id=72480716;subscriber=0;tmi-sent-ts=1598162303346;turbo=0;user-id=498368901;user-type= :ksos1!ksos1@ksos1.tmi.twitch.tv PRIVMSG #tonton :Le problème avec le foot, c'est les ultras qu'il y a dans les supporters, après la diffférence avec la vidéo à Paris, c'est qu'ils soont là pour foutre juste la merde et comme dab c'est les flics qui se prennent tout",
+			"tags": {
+				"badge-info": null,
+				"badges": null,
+				"client-nonce": "8a8b6c224cd4b524762e09f79cce96c9",
+				"color": "#FF0000",
+				"display-name": "ksos1",
+				"emotes": null,
+				"flags": null,
+				"id": "7c6288fa-9e2e-41be-b9d3-6deb02341450",
+				"mod": false,
+				"room-id": "72480716",
+				"subscriber": false,
+				"tmi-sent-ts": "1598162303346",
+				"turbo": false,
+				"user-id": "498368901",
+				"user-type": null,
+				"emotes-raw": null,
+				"badge-info-raw": null,
+				"badges-raw": null,
+				"username": "ksos1",
+				"message-type": "chat"
+			},
+			"prefix": "ksos1!ksos1@ksos1.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "Le problème avec le foot, c'est les ultras qu'il y a dans les supporters, après la diffférence avec la vidéo à Paris, c'est qu'ils soont là pour foutre juste la merde et comme dab c'est les flics qui se prennent tout"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": "@badge-info=;badges=;client-nonce=21510c8149b3d426f34e0331e7befabd;color=#008000;display-name=Lanlan234;emotes=;flags=;id=4e46342c-d5df-4c32-96fa-f47806614635;mod=0;room-id=72480716;subscriber=0;tmi-sent-ts=1598162306597;turbo=0;user-id=39415465;user-type= :lanlan234!lanlan234@lanlan234.tmi.twitch.tv PRIVMSG #tonton :mais j'entends ton pdv",
+			"tags": {
+				"badge-info": true,
+				"badges": true,
+				"client-nonce": "21510c8149b3d426f34e0331e7befabd",
+				"color": "#008000",
+				"display-name": "Lanlan234",
+				"emotes": true,
+				"flags": true,
+				"id": "4e46342c-d5df-4c32-96fa-f47806614635",
+				"mod": "0",
+				"room-id": "72480716",
+				"subscriber": "0",
+				"tmi-sent-ts": "1598162306597",
+				"turbo": "0",
+				"user-id": "39415465",
+				"user-type": true
+			},
+			"prefix": "lanlan234!lanlan234@lanlan234.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "mais j'entends ton pdv"]
+		},
+		"message": {
+			"raw": "@badge-info=;badges=;client-nonce=21510c8149b3d426f34e0331e7befabd;color=#008000;display-name=Lanlan234;emotes=;flags=;id=4e46342c-d5df-4c32-96fa-f47806614635;mod=0;room-id=72480716;subscriber=0;tmi-sent-ts=1598162306597;turbo=0;user-id=39415465;user-type= :lanlan234!lanlan234@lanlan234.tmi.twitch.tv PRIVMSG #tonton :mais j'entends ton pdv",
+			"tags": {
+				"badge-info": null,
+				"badges": null,
+				"client-nonce": "21510c8149b3d426f34e0331e7befabd",
+				"color": "#008000",
+				"display-name": "Lanlan234",
+				"emotes": null,
+				"flags": null,
+				"id": "4e46342c-d5df-4c32-96fa-f47806614635",
+				"mod": false,
+				"room-id": "72480716",
+				"subscriber": false,
+				"tmi-sent-ts": "1598162306597",
+				"turbo": false,
+				"user-id": "39415465",
+				"user-type": null,
+				"emotes-raw": null,
+				"badge-info-raw": null,
+				"badges-raw": null,
+				"username": "lanlan234",
+				"message-type": "chat"
+			},
+			"prefix": "lanlan234!lanlan234@lanlan234.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "mais j'entends ton pdv"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": "@badge-info=;badges=;client-nonce=e73c79750f273821705abc04d7c1bc26;color=;display-name=bouledogue;emotes=;flags=;id=9b6abb51-d1bc-4c72-8fbc-5a6b98326d94;mod=0;room-id=72480716;subscriber=0;tmi-sent-ts=1598162307518;turbo=0;user-id=465026260;user-type= :bouledogue!bouledogue@bouledogue.tmi.twitch.tv PRIVMSG #tonton :la petanque je pense",
+			"tags": {
+				"badge-info": true,
+				"badges": true,
+				"client-nonce": "e73c79750f273821705abc04d7c1bc26",
+				"color": true,
+				"display-name": "bouledogue",
+				"emotes": true,
+				"flags": true,
+				"id": "9b6abb51-d1bc-4c72-8fbc-5a6b98326d94",
+				"mod": "0",
+				"room-id": "72480716",
+				"subscriber": "0",
+				"tmi-sent-ts": "1598162307518",
+				"turbo": "0",
+				"user-id": "465026260",
+				"user-type": true
+			},
+			"prefix": "bouledogue!bouledogue@bouledogue.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "la petanque je pense"]
+		},
+		"message": {
+			"raw": "@badge-info=;badges=;client-nonce=e73c79750f273821705abc04d7c1bc26;color=;display-name=bouledogue;emotes=;flags=;id=9b6abb51-d1bc-4c72-8fbc-5a6b98326d94;mod=0;room-id=72480716;subscriber=0;tmi-sent-ts=1598162307518;turbo=0;user-id=465026260;user-type= :bouledogue!bouledogue@bouledogue.tmi.twitch.tv PRIVMSG #tonton :la petanque je pense",
+			"tags": {
+				"badge-info": null,
+				"badges": null,
+				"client-nonce": "e73c79750f273821705abc04d7c1bc26",
+				"color": null,
+				"display-name": "bouledogue",
+				"emotes": null,
+				"flags": null,
+				"id": "9b6abb51-d1bc-4c72-8fbc-5a6b98326d94",
+				"mod": false,
+				"room-id": "72480716",
+				"subscriber": false,
+				"tmi-sent-ts": "1598162307518",
+				"turbo": false,
+				"user-id": "465026260",
+				"user-type": null,
+				"emotes-raw": null,
+				"badge-info-raw": null,
+				"badges-raw": null,
+				"username": "bouledogue",
+				"message-type": "chat"
+			},
+			"prefix": "bouledogue!bouledogue@bouledogue.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "la petanque je pense"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": "@badge-info=subscriber/1;badges=subscriber/0,premium/1;client-nonce=10953bf21668c36b54a02aaec346fa73;color=;display-name=inoko;emotes=;flags=;id=d6e34c3a-1c8a-4e5b-948d-5d7639297b53;mod=0;room-id=72480716;subscriber=1;tmi-sent-ts=1598162307929;turbo=0;user-id=409647087;user-type= :inoko!inoko@inoko.tmi.twitch.tv PRIVMSG #tonton :la langue la plus parlée c'est le mandarin",
+			"tags": {
+				"badge-info": "subscriber/1",
+				"badges": "subscriber/0,premium/1",
+				"client-nonce": "10953bf21668c36b54a02aaec346fa73",
+				"color": true,
+				"display-name": "inoko",
+				"emotes": true,
+				"flags": true,
+				"id": "d6e34c3a-1c8a-4e5b-948d-5d7639297b53",
+				"mod": "0",
+				"room-id": "72480716",
+				"subscriber": "1",
+				"tmi-sent-ts": "1598162307929",
+				"turbo": "0",
+				"user-id": "409647087",
+				"user-type": true
+			},
+			"prefix": "inoko!inoko@inoko.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "la langue la plus parlée c'est le mandarin"]
+		},
+		"message": {
+			"raw": "@badge-info=subscriber/1;badges=subscriber/0,premium/1;client-nonce=10953bf21668c36b54a02aaec346fa73;color=;display-name=inoko;emotes=;flags=;id=d6e34c3a-1c8a-4e5b-948d-5d7639297b53;mod=0;room-id=72480716;subscriber=1;tmi-sent-ts=1598162307929;turbo=0;user-id=409647087;user-type= :inoko!inoko@inoko.tmi.twitch.tv PRIVMSG #tonton :la langue la plus parlée c'est le mandarin",
+			"tags": {
+				"badge-info": {
+					"subscriber": "1"
+				},
+				"badges": {
+					"subscriber": "0",
+					"premium": "1"
+				},
+				"client-nonce": "10953bf21668c36b54a02aaec346fa73",
+				"color": null,
+				"display-name": "inoko",
+				"emotes": null,
+				"flags": null,
+				"id": "d6e34c3a-1c8a-4e5b-948d-5d7639297b53",
+				"mod": false,
+				"room-id": "72480716",
+				"subscriber": true,
+				"tmi-sent-ts": "1598162307929",
+				"turbo": false,
+				"user-id": "409647087",
+				"user-type": null,
+				"emotes-raw": null,
+				"badge-info-raw": "subscriber/1",
+				"badges-raw": "subscriber/0,premium/1",
+				"username": "inoko",
+				"message-type": "chat"
+			},
+			"prefix": "inoko!inoko@inoko.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "la langue la plus parlée c'est le mandarin"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": "@badge-info=;badges=;client-nonce=3e181c7694fda5e0be3a9c6ac05ecc66;color=#FF0000;display-name=ArcanyteTV;emote-only=1;emotes=704319:0-7,9-16,18-25;flags=;id=b1f7323d-66e4-43fc-bdd4-34aeccd13e30;mod=0;room-id=72480716;subscriber=0;tmi-sent-ts=1598162308991;turbo=0;user-id=180596210;user-type= :arcanytetv!arcanytetv@arcanytetv.tmi.twitch.tv PRIVMSG #tonton :srzSalut srzSalut srzSalut",
+			"tags": {
+				"badge-info": true,
+				"badges": true,
+				"client-nonce": "3e181c7694fda5e0be3a9c6ac05ecc66",
+				"color": "#FF0000",
+				"display-name": "ArcanyteTV",
+				"emote-only": "1",
+				"emotes": "704319:0-7,9-16,18-25",
+				"flags": true,
+				"id": "b1f7323d-66e4-43fc-bdd4-34aeccd13e30",
+				"mod": "0",
+				"room-id": "72480716",
+				"subscriber": "0",
+				"tmi-sent-ts": "1598162308991",
+				"turbo": "0",
+				"user-id": "180596210",
+				"user-type": true
+			},
+			"prefix": "arcanytetv!arcanytetv@arcanytetv.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "srzSalut srzSalut srzSalut"]
+		},
+		"message": {
+			"raw": "@badge-info=;badges=;client-nonce=3e181c7694fda5e0be3a9c6ac05ecc66;color=#FF0000;display-name=ArcanyteTV;emote-only=1;emotes=704319:0-7,9-16,18-25;flags=;id=b1f7323d-66e4-43fc-bdd4-34aeccd13e30;mod=0;room-id=72480716;subscriber=0;tmi-sent-ts=1598162308991;turbo=0;user-id=180596210;user-type= :arcanytetv!arcanytetv@arcanytetv.tmi.twitch.tv PRIVMSG #tonton :srzSalut srzSalut srzSalut",
+			"tags": {
+				"badge-info": null,
+				"badges": null,
+				"client-nonce": "3e181c7694fda5e0be3a9c6ac05ecc66",
+				"color": "#FF0000",
+				"display-name": "ArcanyteTV",
+				"emote-only": true,
+				"emotes": {
+					"704319": ["0-7", "9-16", "18-25"]
+				},
+				"flags": null,
+				"id": "b1f7323d-66e4-43fc-bdd4-34aeccd13e30",
+				"mod": false,
+				"room-id": "72480716",
+				"subscriber": false,
+				"tmi-sent-ts": "1598162308991",
+				"turbo": false,
+				"user-id": "180596210",
+				"user-type": null,
+				"emotes-raw": "704319:0-7,9-16,18-25",
+				"badge-info-raw": null,
+				"badges-raw": null,
+				"username": "arcanytetv",
+				"message-type": "chat"
+			},
+			"prefix": "arcanytetv!arcanytetv@arcanytetv.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "srzSalut srzSalut srzSalut"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": "@badge-info=;badges=;color=;display-name=hatoua;emotes=302860792:35-43;flags=29-33:S.5;id=24c6060a-19a0-44a1-ae50-66cd4cf933c7;mod=0;room-id=131861345;subscriber=0;tmi-sent-ts=1598162309346;turbo=0;user-id=250367879;user-type= :hatoua!hatoua@hatoua.tmi.twitch.tv PRIVMSG #manuelferraratv :mauvais au tennis mauvais au pénis mbappePop",
+			"tags": {
+				"badge-info": true,
+				"badges": true,
+				"color": true,
+				"display-name": "hatoua",
+				"emotes": "302860792:35-43",
+				"flags": "29-33:S.5",
+				"id": "24c6060a-19a0-44a1-ae50-66cd4cf933c7",
+				"mod": "0",
+				"room-id": "131861345",
+				"subscriber": "0",
+				"tmi-sent-ts": "1598162309346",
+				"turbo": "0",
+				"user-id": "250367879",
+				"user-type": true
+			},
+			"prefix": "hatoua!hatoua@hatoua.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#manuelferraratv", "mauvais au tennis mauvais au pénis mbappePop"]
+		},
+		"message": {
+			"raw": "@badge-info=;badges=;color=;display-name=hatoua;emotes=302860792:35-43;flags=29-33:S.5;id=24c6060a-19a0-44a1-ae50-66cd4cf933c7;mod=0;room-id=131861345;subscriber=0;tmi-sent-ts=1598162309346;turbo=0;user-id=250367879;user-type= :hatoua!hatoua@hatoua.tmi.twitch.tv PRIVMSG #manuelferraratv :mauvais au tennis mauvais au pénis mbappePop",
+			"tags": {
+				"badge-info": null,
+				"badges": null,
+				"color": null,
+				"display-name": "hatoua",
+				"emotes": {
+					"302860792": ["35-43"]
+				},
+				"flags": "29-33:S.5",
+				"id": "24c6060a-19a0-44a1-ae50-66cd4cf933c7",
+				"mod": false,
+				"room-id": "131861345",
+				"subscriber": false,
+				"tmi-sent-ts": "1598162309346",
+				"turbo": false,
+				"user-id": "250367879",
+				"user-type": null,
+				"emotes-raw": "302860792:35-43",
+				"badge-info-raw": null,
+				"badges-raw": null,
+				"username": "hatoua",
+				"message-type": "chat"
+			},
+			"prefix": "hatoua!hatoua@hatoua.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#manuelferraratv", "mauvais au tennis mauvais au pénis mbappePop"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": "@badge-info=;badges=glhf-pledge/1;client-nonce=2d387f5a9c23b18a5f492b310b269530;color=;display-name=theooftn;emotes=;flags=;id=654a00ae-21ed-483f-aaed-32a13ebe5938;mod=0;room-id=131861345;subscriber=0;tmi-sent-ts=1598162309308;turbo=0;user-id=449964096;user-type= :theooftn!theooftn@theooftn.tmi.twitch.tv PRIVMSG #manuelferraratv :@D4LIANO C est juste car il a un phisique atyphique et est en contrat avec brazer tu m etonne",
+			"tags": {
+				"badge-info": true,
+				"badges": "glhf-pledge/1",
+				"client-nonce": "2d387f5a9c23b18a5f492b310b269530",
+				"color": true,
+				"display-name": "theooftn",
+				"emotes": true,
+				"flags": true,
+				"id": "654a00ae-21ed-483f-aaed-32a13ebe5938",
+				"mod": "0",
+				"room-id": "131861345",
+				"subscriber": "0",
+				"tmi-sent-ts": "1598162309308",
+				"turbo": "0",
+				"user-id": "449964096",
+				"user-type": true
+			},
+			"prefix": "theooftn!theooftn@theooftn.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#manuelferraratv", "@D4LIANO C est juste car il a un phisique atyphique et est en contrat avec brazer tu m etonne"]
+		},
+		"message": {
+			"raw": "@badge-info=;badges=glhf-pledge/1;client-nonce=2d387f5a9c23b18a5f492b310b269530;color=;display-name=theooftn;emotes=;flags=;id=654a00ae-21ed-483f-aaed-32a13ebe5938;mod=0;room-id=131861345;subscriber=0;tmi-sent-ts=1598162309308;turbo=0;user-id=449964096;user-type= :theooftn!theooftn@theooftn.tmi.twitch.tv PRIVMSG #manuelferraratv :@D4LIANO C est juste car il a un phisique atyphique et est en contrat avec brazer tu m etonne",
+			"tags": {
+				"badge-info": null,
+				"badges": {
+					"glhf-pledge": "1"
+				},
+				"client-nonce": "2d387f5a9c23b18a5f492b310b269530",
+				"color": null,
+				"display-name": "theooftn",
+				"emotes": null,
+				"flags": null,
+				"id": "654a00ae-21ed-483f-aaed-32a13ebe5938",
+				"mod": false,
+				"room-id": "131861345",
+				"subscriber": false,
+				"tmi-sent-ts": "1598162309308",
+				"turbo": false,
+				"user-id": "449964096",
+				"user-type": null,
+				"emotes-raw": null,
+				"badge-info-raw": null,
+				"badges-raw": "glhf-pledge/1",
+				"username": "theooftn",
+				"message-type": "chat"
+			},
+			"prefix": "theooftn!theooftn@theooftn.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#manuelferraratv", "@D4LIANO C est juste car il a un phisique atyphique et est en contrat avec brazer tu m etonne"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": "@badge-info=;badges=;client-nonce=15cc5392a93a81a6c6c90606dcd56201;color=#FF0000;display-name=Altefkatre;emotes=;flags=;id=ecf4e2ba-a2aa-410e-82dc-0c06f91d0efd;mod=0;room-id=72480716;subscriber=0;tmi-sent-ts=1598162309443;turbo=0;user-id=114345974;user-type= :altefkatre!altefkatre@altefkatre.tmi.twitch.tv PRIVMSG #tonton :@Tonton Normal le commentaire de @raph2929 plus haut dans le tchat ?",
+			"tags": {
+				"badge-info": true,
+				"badges": true,
+				"client-nonce": "15cc5392a93a81a6c6c90606dcd56201",
+				"color": "#FF0000",
+				"display-name": "Altefkatre",
+				"emotes": true,
+				"flags": true,
+				"id": "ecf4e2ba-a2aa-410e-82dc-0c06f91d0efd",
+				"mod": "0",
+				"room-id": "72480716",
+				"subscriber": "0",
+				"tmi-sent-ts": "1598162309443",
+				"turbo": "0",
+				"user-id": "114345974",
+				"user-type": true
+			},
+			"prefix": "altefkatre!altefkatre@altefkatre.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "@Tonton Normal le commentaire de @raph2929 plus haut dans le tchat ?"]
+		},
+		"message": {
+			"raw": "@badge-info=;badges=;client-nonce=15cc5392a93a81a6c6c90606dcd56201;color=#FF0000;display-name=Altefkatre;emotes=;flags=;id=ecf4e2ba-a2aa-410e-82dc-0c06f91d0efd;mod=0;room-id=72480716;subscriber=0;tmi-sent-ts=1598162309443;turbo=0;user-id=114345974;user-type= :altefkatre!altefkatre@altefkatre.tmi.twitch.tv PRIVMSG #tonton :@Tonton Normal le commentaire de @raph2929 plus haut dans le tchat ?",
+			"tags": {
+				"badge-info": null,
+				"badges": null,
+				"client-nonce": "15cc5392a93a81a6c6c90606dcd56201",
+				"color": "#FF0000",
+				"display-name": "Altefkatre",
+				"emotes": null,
+				"flags": null,
+				"id": "ecf4e2ba-a2aa-410e-82dc-0c06f91d0efd",
+				"mod": false,
+				"room-id": "72480716",
+				"subscriber": false,
+				"tmi-sent-ts": "1598162309443",
+				"turbo": false,
+				"user-id": "114345974",
+				"user-type": null,
+				"emotes-raw": null,
+				"badge-info-raw": null,
+				"badges-raw": null,
+				"username": "altefkatre",
+				"message-type": "chat"
+			},
+			"prefix": "altefkatre!altefkatre@altefkatre.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "@Tonton Normal le commentaire de @raph2929 plus haut dans le tchat ?"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": "@badge-info=subscriber/2;badges=subscriber/0,premium/1;color=;display-name=KaRa_77;emotes=;flags=;id=b71f3ad6-10e5-4039-8b57-54c029e405a6;mod=0;room-id=72480716;subscriber=1;tmi-sent-ts=1598162309437;turbo=0;user-id=88377758;user-type= :kara_77!kara_77@kara_77.tmi.twitch.tv PRIVMSG #tonton :Dans le monde c'est le foot sans hésiter. Les sports américains c'est très regardé qu'en Amérique justement",
+			"tags": {
+				"badge-info": "subscriber/2",
+				"badges": "subscriber/0,premium/1",
+				"color": true,
+				"display-name": "KaRa_77",
+				"emotes": true,
+				"flags": true,
+				"id": "b71f3ad6-10e5-4039-8b57-54c029e405a6",
+				"mod": "0",
+				"room-id": "72480716",
+				"subscriber": "1",
+				"tmi-sent-ts": "1598162309437",
+				"turbo": "0",
+				"user-id": "88377758",
+				"user-type": true
+			},
+			"prefix": "kara_77!kara_77@kara_77.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "Dans le monde c'est le foot sans hésiter. Les sports américains c'est très regardé qu'en Amérique justement"]
+		},
+		"message": {
+			"raw": "@badge-info=subscriber/2;badges=subscriber/0,premium/1;color=;display-name=KaRa_77;emotes=;flags=;id=b71f3ad6-10e5-4039-8b57-54c029e405a6;mod=0;room-id=72480716;subscriber=1;tmi-sent-ts=1598162309437;turbo=0;user-id=88377758;user-type= :kara_77!kara_77@kara_77.tmi.twitch.tv PRIVMSG #tonton :Dans le monde c'est le foot sans hésiter. Les sports américains c'est très regardé qu'en Amérique justement",
+			"tags": {
+				"badge-info": {
+					"subscriber": "2"
+				},
+				"badges": {
+					"subscriber": "0",
+					"premium": "1"
+				},
+				"color": null,
+				"display-name": "KaRa_77",
+				"emotes": null,
+				"flags": null,
+				"id": "b71f3ad6-10e5-4039-8b57-54c029e405a6",
+				"mod": false,
+				"room-id": "72480716",
+				"subscriber": true,
+				"tmi-sent-ts": "1598162309437",
+				"turbo": false,
+				"user-id": "88377758",
+				"user-type": null,
+				"emotes-raw": null,
+				"badge-info-raw": "subscriber/2",
+				"badges-raw": "subscriber/0,premium/1",
+				"username": "kara_77",
+				"message-type": "chat"
+			},
+			"prefix": "kara_77!kara_77@kara_77.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "Dans le monde c'est le foot sans hésiter. Les sports américains c'est très regardé qu'en Amérique justement"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": "@badge-info=;badges=premium/1;client-nonce=8e031e362e7b434bec1be4a6297b14ee;color=#FF4500;display-name=Panthemort;emotes=;flags=;id=701ea709-8b62-4583-9d6d-827b3a48d7e7;mod=0;room-id=72480716;subscriber=0;tmi-sent-ts=1598162312870;turbo=0;user-id=44219269;user-type= :panthemort!panthemort@panthemort.tmi.twitch.tv PRIVMSG #tonton :Bonjour !",
+			"tags": {
+				"badge-info": true,
+				"badges": "premium/1",
+				"client-nonce": "8e031e362e7b434bec1be4a6297b14ee",
+				"color": "#FF4500",
+				"display-name": "Panthemort",
+				"emotes": true,
+				"flags": true,
+				"id": "701ea709-8b62-4583-9d6d-827b3a48d7e7",
+				"mod": "0",
+				"room-id": "72480716",
+				"subscriber": "0",
+				"tmi-sent-ts": "1598162312870",
+				"turbo": "0",
+				"user-id": "44219269",
+				"user-type": true
+			},
+			"prefix": "panthemort!panthemort@panthemort.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "Bonjour !"]
+		},
+		"message": {
+			"raw": "@badge-info=;badges=premium/1;client-nonce=8e031e362e7b434bec1be4a6297b14ee;color=#FF4500;display-name=Panthemort;emotes=;flags=;id=701ea709-8b62-4583-9d6d-827b3a48d7e7;mod=0;room-id=72480716;subscriber=0;tmi-sent-ts=1598162312870;turbo=0;user-id=44219269;user-type= :panthemort!panthemort@panthemort.tmi.twitch.tv PRIVMSG #tonton :Bonjour !",
+			"tags": {
+				"badge-info": null,
+				"badges": {
+					"premium": "1"
+				},
+				"client-nonce": "8e031e362e7b434bec1be4a6297b14ee",
+				"color": "#FF4500",
+				"display-name": "Panthemort",
+				"emotes": null,
+				"flags": null,
+				"id": "701ea709-8b62-4583-9d6d-827b3a48d7e7",
+				"mod": false,
+				"room-id": "72480716",
+				"subscriber": false,
+				"tmi-sent-ts": "1598162312870",
+				"turbo": false,
+				"user-id": "44219269",
+				"user-type": null,
+				"emotes-raw": null,
+				"badge-info-raw": null,
+				"badges-raw": "premium/1",
+				"username": "panthemort",
+				"message-type": "chat"
+			},
+			"prefix": "panthemort!panthemort@panthemort.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "Bonjour !"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": "@badge-info=subscriber/1;badges=subscriber/0,premium/1;client-nonce=4a98f844394040abbe1fd1991680cf00;color=#D42424;display-name=Rhummer;emotes=;flags=;id=8dda9c7c-2c21-42da-bff8-f6a67540689b;mod=0;room-id=72480716;subscriber=1;tmi-sent-ts=1598162313139;turbo=0;user-id=85187719;user-type= :rhummer!rhummer@rhummer.tmi.twitch.tv PRIVMSG #tonton :meme en chine il y a plusioeurs dialectes les gens",
+			"tags": {
+				"badge-info": "subscriber/1",
+				"badges": "subscriber/0,premium/1",
+				"client-nonce": "4a98f844394040abbe1fd1991680cf00",
+				"color": "#D42424",
+				"display-name": "Rhummer",
+				"emotes": true,
+				"flags": true,
+				"id": "8dda9c7c-2c21-42da-bff8-f6a67540689b",
+				"mod": "0",
+				"room-id": "72480716",
+				"subscriber": "1",
+				"tmi-sent-ts": "1598162313139",
+				"turbo": "0",
+				"user-id": "85187719",
+				"user-type": true
+			},
+			"prefix": "rhummer!rhummer@rhummer.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "meme en chine il y a plusioeurs dialectes les gens"]
+		},
+		"message": {
+			"raw": "@badge-info=subscriber/1;badges=subscriber/0,premium/1;client-nonce=4a98f844394040abbe1fd1991680cf00;color=#D42424;display-name=Rhummer;emotes=;flags=;id=8dda9c7c-2c21-42da-bff8-f6a67540689b;mod=0;room-id=72480716;subscriber=1;tmi-sent-ts=1598162313139;turbo=0;user-id=85187719;user-type= :rhummer!rhummer@rhummer.tmi.twitch.tv PRIVMSG #tonton :meme en chine il y a plusioeurs dialectes les gens",
+			"tags": {
+				"badge-info": {
+					"subscriber": "1"
+				},
+				"badges": {
+					"subscriber": "0",
+					"premium": "1"
+				},
+				"client-nonce": "4a98f844394040abbe1fd1991680cf00",
+				"color": "#D42424",
+				"display-name": "Rhummer",
+				"emotes": null,
+				"flags": null,
+				"id": "8dda9c7c-2c21-42da-bff8-f6a67540689b",
+				"mod": false,
+				"room-id": "72480716",
+				"subscriber": true,
+				"tmi-sent-ts": "1598162313139",
+				"turbo": false,
+				"user-id": "85187719",
+				"user-type": null,
+				"emotes-raw": null,
+				"badge-info-raw": "subscriber/1",
+				"badges-raw": "subscriber/0,premium/1",
+				"username": "rhummer",
+				"message-type": "chat"
+			},
+			"prefix": "rhummer!rhummer@rhummer.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "meme en chine il y a plusioeurs dialectes les gens"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": "@badge-info=;badges=;client-nonce=d63e715fd486d4e1b64ea302e09d94ae;color=#D2691E;display-name=TazzLeViewer;emotes=;flags=;id=99274957-8e8a-4bea-b0b9-58013216b51a;mod=0;room-id=72480716;subscriber=0;tmi-sent-ts=1598162315270;turbo=0;user-id=128666561;user-type= :tazzleviewer!tazzleviewer@tazzleviewer.tmi.twitch.tv PRIVMSG #tonton :c'est le mandarin en tant que langue natale, c'est l'anglais en tant que langue lvl2",
+			"tags": {
+				"badge-info": true,
+				"badges": true,
+				"client-nonce": "d63e715fd486d4e1b64ea302e09d94ae",
+				"color": "#D2691E",
+				"display-name": "TazzLeViewer",
+				"emotes": true,
+				"flags": true,
+				"id": "99274957-8e8a-4bea-b0b9-58013216b51a",
+				"mod": "0",
+				"room-id": "72480716",
+				"subscriber": "0",
+				"tmi-sent-ts": "1598162315270",
+				"turbo": "0",
+				"user-id": "128666561",
+				"user-type": true
+			},
+			"prefix": "tazzleviewer!tazzleviewer@tazzleviewer.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "c'est le mandarin en tant que langue natale, c'est l'anglais en tant que langue lvl2"]
+		},
+		"message": {
+			"raw": "@badge-info=;badges=;client-nonce=d63e715fd486d4e1b64ea302e09d94ae;color=#D2691E;display-name=TazzLeViewer;emotes=;flags=;id=99274957-8e8a-4bea-b0b9-58013216b51a;mod=0;room-id=72480716;subscriber=0;tmi-sent-ts=1598162315270;turbo=0;user-id=128666561;user-type= :tazzleviewer!tazzleviewer@tazzleviewer.tmi.twitch.tv PRIVMSG #tonton :c'est le mandarin en tant que langue natale, c'est l'anglais en tant que langue lvl2",
+			"tags": {
+				"badge-info": null,
+				"badges": null,
+				"client-nonce": "d63e715fd486d4e1b64ea302e09d94ae",
+				"color": "#D2691E",
+				"display-name": "TazzLeViewer",
+				"emotes": null,
+				"flags": null,
+				"id": "99274957-8e8a-4bea-b0b9-58013216b51a",
+				"mod": false,
+				"room-id": "72480716",
+				"subscriber": false,
+				"tmi-sent-ts": "1598162315270",
+				"turbo": false,
+				"user-id": "128666561",
+				"user-type": null,
+				"emotes-raw": null,
+				"badge-info-raw": null,
+				"badges-raw": null,
+				"username": "tazzleviewer",
+				"message-type": "chat"
+			},
+			"prefix": "tazzleviewer!tazzleviewer@tazzleviewer.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "c'est le mandarin en tant que langue natale, c'est l'anglais en tant que langue lvl2"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": "@badge-info=;badges=;color=;display-name=john04100;emotes=;flags=;id=b0c8f77d-3ab0-43a1-b70e-526449340cb0;mod=0;room-id=131861345;subscriber=0;tmi-sent-ts=1598162316954;turbo=0;user-id=526916606;user-type= :john04100!john04100@john04100.tmi.twitch.tv PRIVMSG #manuelferraratv :Manu t’aime bien l’huile quand tu tourne tes scenes ?",
+			"tags": {
+				"badge-info": true,
+				"badges": true,
+				"color": true,
+				"display-name": "john04100",
+				"emotes": true,
+				"flags": true,
+				"id": "b0c8f77d-3ab0-43a1-b70e-526449340cb0",
+				"mod": "0",
+				"room-id": "131861345",
+				"subscriber": "0",
+				"tmi-sent-ts": "1598162316954",
+				"turbo": "0",
+				"user-id": "526916606",
+				"user-type": true
+			},
+			"prefix": "john04100!john04100@john04100.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#manuelferraratv", "Manu t’aime bien l’huile quand tu tourne tes scenes ?"]
+		},
+		"message": {
+			"raw": "@badge-info=;badges=;color=;display-name=john04100;emotes=;flags=;id=b0c8f77d-3ab0-43a1-b70e-526449340cb0;mod=0;room-id=131861345;subscriber=0;tmi-sent-ts=1598162316954;turbo=0;user-id=526916606;user-type= :john04100!john04100@john04100.tmi.twitch.tv PRIVMSG #manuelferraratv :Manu t’aime bien l’huile quand tu tourne tes scenes ?",
+			"tags": {
+				"badge-info": null,
+				"badges": null,
+				"color": null,
+				"display-name": "john04100",
+				"emotes": null,
+				"flags": null,
+				"id": "b0c8f77d-3ab0-43a1-b70e-526449340cb0",
+				"mod": false,
+				"room-id": "131861345",
+				"subscriber": false,
+				"tmi-sent-ts": "1598162316954",
+				"turbo": false,
+				"user-id": "526916606",
+				"user-type": null,
+				"emotes-raw": null,
+				"badge-info-raw": null,
+				"badges-raw": null,
+				"username": "john04100",
+				"message-type": "chat"
+			},
+			"prefix": "john04100!john04100@john04100.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#manuelferraratv", "Manu t’aime bien l’huile quand tu tourne tes scenes ?"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": "@badge-info=;badges=;color=;display-name=zerivokk;emotes=;flags=;id=26be7c32-a553-42d2-9761-50717aef6c9e;mod=0;room-id=131861345;subscriber=0;tmi-sent-ts=1598162317117;turbo=0;user-id=512838104;user-type= :zerivokk!zerivokk@zerivokk.tmi.twitch.tv PRIVMSG #manuelferraratv :bah il voulait te faire comprendre que tu merite pas ce que ta gagner , alors que di tu en a gagner ces que tu la meriter @manuelferraratv",
+			"tags": {
+				"badge-info": true,
+				"badges": true,
+				"color": true,
+				"display-name": "zerivokk",
+				"emotes": true,
+				"flags": true,
+				"id": "26be7c32-a553-42d2-9761-50717aef6c9e",
+				"mod": "0",
+				"room-id": "131861345",
+				"subscriber": "0",
+				"tmi-sent-ts": "1598162317117",
+				"turbo": "0",
+				"user-id": "512838104",
+				"user-type": true
+			},
+			"prefix": "zerivokk!zerivokk@zerivokk.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#manuelferraratv", "bah il voulait te faire comprendre que tu merite pas ce que ta gagner , alors que di tu en a gagner ces que tu la meriter @manuelferraratv"]
+		},
+		"message": {
+			"raw": "@badge-info=;badges=;color=;display-name=zerivokk;emotes=;flags=;id=26be7c32-a553-42d2-9761-50717aef6c9e;mod=0;room-id=131861345;subscriber=0;tmi-sent-ts=1598162317117;turbo=0;user-id=512838104;user-type= :zerivokk!zerivokk@zerivokk.tmi.twitch.tv PRIVMSG #manuelferraratv :bah il voulait te faire comprendre que tu merite pas ce que ta gagner , alors que di tu en a gagner ces que tu la meriter @manuelferraratv",
+			"tags": {
+				"badge-info": null,
+				"badges": null,
+				"color": null,
+				"display-name": "zerivokk",
+				"emotes": null,
+				"flags": null,
+				"id": "26be7c32-a553-42d2-9761-50717aef6c9e",
+				"mod": false,
+				"room-id": "131861345",
+				"subscriber": false,
+				"tmi-sent-ts": "1598162317117",
+				"turbo": false,
+				"user-id": "512838104",
+				"user-type": null,
+				"emotes-raw": null,
+				"badge-info-raw": null,
+				"badges-raw": null,
+				"username": "zerivokk",
+				"message-type": "chat"
+			},
+			"prefix": "zerivokk!zerivokk@zerivokk.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#manuelferraratv", "bah il voulait te faire comprendre que tu merite pas ce que ta gagner , alors que di tu en a gagner ces que tu la meriter @manuelferraratv"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": "@badge-info=subscriber/2;badges=subscriber/0,bits/100;color=;display-name=badrac62;emotes=;flags=;id=0882619e-d555-48e3-98e6-a583e84ba511;mod=0;room-id=72480716;subscriber=1;tmi-sent-ts=1598162320611;turbo=0;user-id=540897926;user-type= :badrac62!badrac62@badrac62.tmi.twitch.tv PRIVMSG #tonton :ça cogite mdr",
+			"tags": {
+				"badge-info": "subscriber/2",
+				"badges": "subscriber/0,bits/100",
+				"color": true,
+				"display-name": "badrac62",
+				"emotes": true,
+				"flags": true,
+				"id": "0882619e-d555-48e3-98e6-a583e84ba511",
+				"mod": "0",
+				"room-id": "72480716",
+				"subscriber": "1",
+				"tmi-sent-ts": "1598162320611",
+				"turbo": "0",
+				"user-id": "540897926",
+				"user-type": true
+			},
+			"prefix": "badrac62!badrac62@badrac62.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "ça cogite mdr"]
+		},
+		"message": {
+			"raw": "@badge-info=subscriber/2;badges=subscriber/0,bits/100;color=;display-name=badrac62;emotes=;flags=;id=0882619e-d555-48e3-98e6-a583e84ba511;mod=0;room-id=72480716;subscriber=1;tmi-sent-ts=1598162320611;turbo=0;user-id=540897926;user-type= :badrac62!badrac62@badrac62.tmi.twitch.tv PRIVMSG #tonton :ça cogite mdr",
+			"tags": {
+				"badge-info": {
+					"subscriber": "2"
+				},
+				"badges": {
+					"subscriber": "0",
+					"bits": "100"
+				},
+				"color": null,
+				"display-name": "badrac62",
+				"emotes": null,
+				"flags": null,
+				"id": "0882619e-d555-48e3-98e6-a583e84ba511",
+				"mod": false,
+				"room-id": "72480716",
+				"subscriber": true,
+				"tmi-sent-ts": "1598162320611",
+				"turbo": false,
+				"user-id": "540897926",
+				"user-type": null,
+				"emotes-raw": null,
+				"badge-info-raw": "subscriber/2",
+				"badges-raw": "subscriber/0,bits/100",
+				"username": "badrac62",
+				"message-type": "chat"
+			},
+			"prefix": "badrac62!badrac62@badrac62.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "ça cogite mdr"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": "@badge-info=;badges=;color=;display-name=badobado94470;emotes=;flags=;id=52f3cee7-9385-4586-94a6-2a4aee419ad9;mod=0;room-id=131861345;subscriber=0;tmi-sent-ts=1598162320878;turbo=0;user-id=519470454;user-type= :badobado94470!badobado94470@badobado94470.tmi.twitch.tv PRIVMSG #manuelferraratv :Ta le meilleur métier du monde",
+			"tags": {
+				"badge-info": true,
+				"badges": true,
+				"color": true,
+				"display-name": "badobado94470",
+				"emotes": true,
+				"flags": true,
+				"id": "52f3cee7-9385-4586-94a6-2a4aee419ad9",
+				"mod": "0",
+				"room-id": "131861345",
+				"subscriber": "0",
+				"tmi-sent-ts": "1598162320878",
+				"turbo": "0",
+				"user-id": "519470454",
+				"user-type": true
+			},
+			"prefix": "badobado94470!badobado94470@badobado94470.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#manuelferraratv", "Ta le meilleur métier du monde"]
+		},
+		"message": {
+			"raw": "@badge-info=;badges=;color=;display-name=badobado94470;emotes=;flags=;id=52f3cee7-9385-4586-94a6-2a4aee419ad9;mod=0;room-id=131861345;subscriber=0;tmi-sent-ts=1598162320878;turbo=0;user-id=519470454;user-type= :badobado94470!badobado94470@badobado94470.tmi.twitch.tv PRIVMSG #manuelferraratv :Ta le meilleur métier du monde",
+			"tags": {
+				"badge-info": null,
+				"badges": null,
+				"color": null,
+				"display-name": "badobado94470",
+				"emotes": null,
+				"flags": null,
+				"id": "52f3cee7-9385-4586-94a6-2a4aee419ad9",
+				"mod": false,
+				"room-id": "131861345",
+				"subscriber": false,
+				"tmi-sent-ts": "1598162320878",
+				"turbo": false,
+				"user-id": "519470454",
+				"user-type": null,
+				"emotes-raw": null,
+				"badge-info-raw": null,
+				"badges-raw": null,
+				"username": "badobado94470",
+				"message-type": "chat"
+			},
+			"prefix": "badobado94470!badobado94470@badobado94470.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#manuelferraratv", "Ta le meilleur métier du monde"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": "@badge-info=subscriber/1;badges=subscriber/0;client-nonce=0bceabb6bd9ec19c422f9f4d552bee1f;color=;display-name=lamchantantes;emotes=;flags=;id=aba2921c-bd93-4b11-979a-97589e5a7c27;mod=0;room-id=72480716;subscriber=1;tmi-sent-ts=1598162321529;turbo=0;user-id=412278646;user-type= :lamchantantes!lamchantantes@lamchantantes.tmi.twitch.tv PRIVMSG #tonton :différence entre \"la plus parlée\" et \"la plus utilisée\"",
+			"tags": {
+				"badge-info": "subscriber/1",
+				"badges": "subscriber/0",
+				"client-nonce": "0bceabb6bd9ec19c422f9f4d552bee1f",
+				"color": true,
+				"display-name": "lamchantantes",
+				"emotes": true,
+				"flags": true,
+				"id": "aba2921c-bd93-4b11-979a-97589e5a7c27",
+				"mod": "0",
+				"room-id": "72480716",
+				"subscriber": "1",
+				"tmi-sent-ts": "1598162321529",
+				"turbo": "0",
+				"user-id": "412278646",
+				"user-type": true
+			},
+			"prefix": "lamchantantes!lamchantantes@lamchantantes.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "différence entre \"la plus parlée\" et \"la plus utilisée\""]
+		},
+		"message": {
+			"raw": "@badge-info=subscriber/1;badges=subscriber/0;client-nonce=0bceabb6bd9ec19c422f9f4d552bee1f;color=;display-name=lamchantantes;emotes=;flags=;id=aba2921c-bd93-4b11-979a-97589e5a7c27;mod=0;room-id=72480716;subscriber=1;tmi-sent-ts=1598162321529;turbo=0;user-id=412278646;user-type= :lamchantantes!lamchantantes@lamchantantes.tmi.twitch.tv PRIVMSG #tonton :différence entre \"la plus parlée\" et \"la plus utilisée\"",
+			"tags": {
+				"badge-info": {
+					"subscriber": "1"
+				},
+				"badges": {
+					"subscriber": "0"
+				},
+				"client-nonce": "0bceabb6bd9ec19c422f9f4d552bee1f",
+				"color": null,
+				"display-name": "lamchantantes",
+				"emotes": null,
+				"flags": null,
+				"id": "aba2921c-bd93-4b11-979a-97589e5a7c27",
+				"mod": false,
+				"room-id": "72480716",
+				"subscriber": true,
+				"tmi-sent-ts": "1598162321529",
+				"turbo": false,
+				"user-id": "412278646",
+				"user-type": null,
+				"emotes-raw": null,
+				"badge-info-raw": "subscriber/1",
+				"badges-raw": "subscriber/0",
+				"username": "lamchantantes",
+				"message-type": "chat"
+			},
+			"prefix": "lamchantantes!lamchantantes@lamchantantes.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "différence entre \"la plus parlée\" et \"la plus utilisée\""]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": "@badge-info=;badges=premium/1;client-nonce=1a5925742c95a3b7215731ab0a26cd51;color=#62E0FF;display-name=nero_scp;emotes=;flags=;id=3213fb73-872b-482d-a847-b9b4366efdda;mod=0;room-id=72480716;subscriber=0;tmi-sent-ts=1598162322873;turbo=0;user-id=464256324;user-type= :nero_scp!nero_scp@nero_scp.tmi.twitch.tv PRIVMSG #tonton :check sur google sinon ta les infos donné : Classement des sports les plus populaires dans le monde ^^",
+			"tags": {
+				"badge-info": true,
+				"badges": "premium/1",
+				"client-nonce": "1a5925742c95a3b7215731ab0a26cd51",
+				"color": "#62E0FF",
+				"display-name": "nero_scp",
+				"emotes": true,
+				"flags": true,
+				"id": "3213fb73-872b-482d-a847-b9b4366efdda",
+				"mod": "0",
+				"room-id": "72480716",
+				"subscriber": "0",
+				"tmi-sent-ts": "1598162322873",
+				"turbo": "0",
+				"user-id": "464256324",
+				"user-type": true
+			},
+			"prefix": "nero_scp!nero_scp@nero_scp.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "check sur google sinon ta les infos donné : Classement des sports les plus populaires dans le monde ^^"]
+		},
+		"message": {
+			"raw": "@badge-info=;badges=premium/1;client-nonce=1a5925742c95a3b7215731ab0a26cd51;color=#62E0FF;display-name=nero_scp;emotes=;flags=;id=3213fb73-872b-482d-a847-b9b4366efdda;mod=0;room-id=72480716;subscriber=0;tmi-sent-ts=1598162322873;turbo=0;user-id=464256324;user-type= :nero_scp!nero_scp@nero_scp.tmi.twitch.tv PRIVMSG #tonton :check sur google sinon ta les infos donné : Classement des sports les plus populaires dans le monde ^^",
+			"tags": {
+				"badge-info": null,
+				"badges": {
+					"premium": "1"
+				},
+				"client-nonce": "1a5925742c95a3b7215731ab0a26cd51",
+				"color": "#62E0FF",
+				"display-name": "nero_scp",
+				"emotes": null,
+				"flags": null,
+				"id": "3213fb73-872b-482d-a847-b9b4366efdda",
+				"mod": false,
+				"room-id": "72480716",
+				"subscriber": false,
+				"tmi-sent-ts": "1598162322873",
+				"turbo": false,
+				"user-id": "464256324",
+				"user-type": null,
+				"emotes-raw": null,
+				"badge-info-raw": null,
+				"badges-raw": "premium/1",
+				"username": "nero_scp",
+				"message-type": "chat"
+			},
+			"prefix": "nero_scp!nero_scp@nero_scp.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "check sur google sinon ta les infos donné : Classement des sports les plus populaires dans le monde ^^"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": "@badge-info=;badges=;client-nonce=7a9dfceb135b6dcbcbf4b801f2c5dd28;color=;display-name=SoBrightAndDelicate;emotes=;flags=69-73:S.5;id=70decb91-c01c-4197-ba98-39693779852a;mod=0;room-id=72480716;subscriber=0;tmi-sent-ts=1598162323281;turbo=0;user-id=520176023;user-type= :sobrightanddelicate!sobrightanddelicate@sobrightanddelicate.tmi.twitch.tv PRIVMSG #tonton :Enfin vous ne connaissez pas le club de cricket de Morges au bord du Leman ?",
+			"tags": {
+				"badge-info": true,
+				"badges": true,
+				"client-nonce": "7a9dfceb135b6dcbcbf4b801f2c5dd28",
+				"color": true,
+				"display-name": "SoBrightAndDelicate",
+				"emotes": true,
+				"flags": "69-73:S.5",
+				"id": "70decb91-c01c-4197-ba98-39693779852a",
+				"mod": "0",
+				"room-id": "72480716",
+				"subscriber": "0",
+				"tmi-sent-ts": "1598162323281",
+				"turbo": "0",
+				"user-id": "520176023",
+				"user-type": true
+			},
+			"prefix": "sobrightanddelicate!sobrightanddelicate@sobrightanddelicate.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "Enfin vous ne connaissez pas le club de cricket de Morges au bord du Leman ?"]
+		},
+		"message": {
+			"raw": "@badge-info=;badges=;client-nonce=7a9dfceb135b6dcbcbf4b801f2c5dd28;color=;display-name=SoBrightAndDelicate;emotes=;flags=69-73:S.5;id=70decb91-c01c-4197-ba98-39693779852a;mod=0;room-id=72480716;subscriber=0;tmi-sent-ts=1598162323281;turbo=0;user-id=520176023;user-type= :sobrightanddelicate!sobrightanddelicate@sobrightanddelicate.tmi.twitch.tv PRIVMSG #tonton :Enfin vous ne connaissez pas le club de cricket de Morges au bord du Leman ?",
+			"tags": {
+				"badge-info": null,
+				"badges": null,
+				"client-nonce": "7a9dfceb135b6dcbcbf4b801f2c5dd28",
+				"color": null,
+				"display-name": "SoBrightAndDelicate",
+				"emotes": null,
+				"flags": "69-73:S.5",
+				"id": "70decb91-c01c-4197-ba98-39693779852a",
+				"mod": false,
+				"room-id": "72480716",
+				"subscriber": false,
+				"tmi-sent-ts": "1598162323281",
+				"turbo": false,
+				"user-id": "520176023",
+				"user-type": null,
+				"emotes-raw": null,
+				"badge-info-raw": null,
+				"badges-raw": null,
+				"username": "sobrightanddelicate",
+				"message-type": "chat"
+			},
+			"prefix": "sobrightanddelicate!sobrightanddelicate@sobrightanddelicate.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#tonton", "Enfin vous ne connaissez pas le club de cricket de Morges au bord du Leman ?"]
+		}
+	},
+	{
+		"messageCloned": {
+			"raw": "@badge-info=subscriber/2;badges=subscriber/0;client-nonce=8e8edbd24cb1210e3efbbe1cd5eb98d4;color=;display-name=legjuice95;emotes=;flags=;id=3c5b5f74-0bc3-46e6-b138-2abfa6d1a353;mod=0;room-id=131861345;subscriber=1;tmi-sent-ts=1598162323548;turbo=0;user-id=491681463;user-type= :legjuice95!legjuice95@legjuice95.tmi.twitch.tv PRIVMSG #manuelferraratv :mdrrrr",
+			"tags": {
+				"badge-info": "subscriber/2",
+				"badges": "subscriber/0",
+				"client-nonce": "8e8edbd24cb1210e3efbbe1cd5eb98d4",
+				"color": true,
+				"display-name": "legjuice95",
+				"emotes": true,
+				"flags": true,
+				"id": "3c5b5f74-0bc3-46e6-b138-2abfa6d1a353",
+				"mod": "0",
+				"room-id": "131861345",
+				"subscriber": "1",
+				"tmi-sent-ts": "1598162323548",
+				"turbo": "0",
+				"user-id": "491681463",
+				"user-type": true
+			},
+			"prefix": "legjuice95!legjuice95@legjuice95.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#manuelferraratv", "mdrrrr"]
+		},
+		"message": {
+			"raw": "@badge-info=subscriber/2;badges=subscriber/0;client-nonce=8e8edbd24cb1210e3efbbe1cd5eb98d4;color=;display-name=legjuice95;emotes=;flags=;id=3c5b5f74-0bc3-46e6-b138-2abfa6d1a353;mod=0;room-id=131861345;subscriber=1;tmi-sent-ts=1598162323548;turbo=0;user-id=491681463;user-type= :legjuice95!legjuice95@legjuice95.tmi.twitch.tv PRIVMSG #manuelferraratv :mdrrrr",
+			"tags": {
+				"badge-info": "subscriber/2",
+				"badges": "subscriber/0",
+				"client-nonce": "8e8edbd24cb1210e3efbbe1cd5eb98d4",
+				"color": true,
+				"display-name": "legjuice95",
+				"emotes": true,
+				"flags": true,
+				"id": "3c5b5f74-0bc3-46e6-b138-2abfa6d1a353",
+				"mod": "0",
+				"room-id": "131861345",
+				"subscriber": "1",
+				"tmi-sent-ts": "1598162323548",
+				"turbo": "0",
+				"user-id": "491681463",
+				"user-type": true
+			},
+			"prefix": "legjuice95!legjuice95@legjuice95.tmi.twitch.tv",
+			"command": "PRIVMSG",
+			"params": ["#manuelferraratv", "mdrrrr"]
+		}
+	}
+]

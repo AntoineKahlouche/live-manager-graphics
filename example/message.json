@@ -1,0 +1,742 @@
+[
+	{
+		"channel": "#manuelferraratv",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "4"
+			},
+			"badges": {
+				"subscriber": "3"
+			},
+			"color": null,
+			"display-name": "tom_hagen7",
+			"emotes": null,
+			"flags": null,
+			"id": "8dff0e6a-cc61-4251-8b5c-c0a46b6fdb7f",
+			"mod": false,
+			"room-id": "131861345",
+			"subscriber": true,
+			"tmi-sent-ts": "1598162297198",
+			"turbo": false,
+			"user-id": "505902353",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/4",
+			"badges-raw": "subscriber/3",
+			"username": "tom_hagen7",
+			"message-type": "chat"
+		},
+		"message": "C'est ca !",
+		"self": false
+	},
+	{
+		"channel": "#manuelferraratv",
+		"userstate": {
+			"badge-info": null,
+			"badges": null,
+			"color": null,
+			"display-name": "kenshinnhimuraaa",
+			"emotes": null,
+			"flags": null,
+			"id": "91f420de-1709-4258-8b73-9d60ae17fcad",
+			"mod": false,
+			"room-id": "131861345",
+			"subscriber": false,
+			"tmi-sent-ts": "1598162297937",
+			"turbo": false,
+			"user-id": "478100939",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": null,
+			"badges-raw": null,
+			"username": "kenshinnhimuraaa",
+			"message-type": "chat"
+		},
+		"message": "@manuelferraratv ta baiser Lana Rhoades elle es bonne à mort mdr",
+		"self": false
+	},
+	{
+		"channel": "#manuelferraratv",
+		"userstate": {
+			"badge-info": null,
+			"badges": null,
+			"color": null,
+			"display-name": "agamdalo",
+			"emotes": null,
+			"flags": null,
+			"id": "fc01f5b5-c6b1-4f14-a4d5-14cf5221ccff",
+			"mod": false,
+			"room-id": "131861345",
+			"subscriber": false,
+			"tmi-sent-ts": "1598162299766",
+			"turbo": false,
+			"user-id": "540622619",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": null,
+			"badges-raw": null,
+			"username": "agamdalo",
+			"message-type": "chat"
+		},
+		"message": "@d4liano je sais pas comment il fait ce Nino",
+		"self": false
+	},
+	{
+		"channel": "#manuelferraratv",
+		"userstate": {
+			"badge-info": null,
+			"badges": null,
+			"color": null,
+			"display-name": "jetskush",
+			"emotes": null,
+			"flags": null,
+			"id": "07b24dca-f20f-4241-8143-8599b2bb0aa9",
+			"mod": false,
+			"room-id": "131861345",
+			"subscriber": false,
+			"tmi-sent-ts": "1598162302160",
+			"turbo": false,
+			"user-id": "565358043",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": null,
+			"badges-raw": null,
+			"username": "jetskush",
+			"message-type": "chat"
+		},
+		"message": "commen jfait jouire unne fille stp",
+		"self": false
+	},
+	{
+		"channel": "#tonton",
+		"userstate": {
+			"badge-info": null,
+			"badges": null,
+			"client-nonce": "ebe31e3dda81b44812a89951f872fa8c",
+			"color": "#008000",
+			"display-name": "Lanlan234",
+			"emotes": null,
+			"flags": null,
+			"id": "b0f217e1-0600-410d-885f-3ed3ed6a107e",
+			"mod": false,
+			"room-id": "72480716",
+			"subscriber": false,
+			"tmi-sent-ts": "1598162302242",
+			"turbo": false,
+			"user-id": "39415465",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": null,
+			"badges-raw": null,
+			"username": "lanlan234",
+			"message-type": "chat"
+		},
+		"message": "oui mais ils sont plus",
+		"self": false
+	},
+	{
+		"channel": "#tonton",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "16"
+			},
+			"badges": {
+				"vip": "1",
+				"subscriber": "12",
+				"sub-gifter": "50"
+			},
+			"color": null,
+			"display-name": "krimdark",
+			"emotes": null,
+			"flags": null,
+			"id": "b40f28eb-e37e-4a42-a238-3fa321da42f9",
+			"mod": false,
+			"room-id": "72480716",
+			"subscriber": true,
+			"tmi-sent-ts": "1598162302342",
+			"turbo": false,
+			"user-id": "410918036",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/16",
+			"badges-raw": "vip/1,subscriber/12,sub-gifter/50",
+			"username": "krimdark",
+			"message-type": "chat"
+		},
+		"message": "oui mais nan ^^",
+		"self": false
+	},
+	{
+		"channel": "#tonton",
+		"userstate": {
+			"badge-info": null,
+			"badges": null,
+			"client-nonce": "8a8b6c224cd4b524762e09f79cce96c9",
+			"color": "#FF0000",
+			"display-name": "ksos1",
+			"emotes": null,
+			"flags": null,
+			"id": "7c6288fa-9e2e-41be-b9d3-6deb02341450",
+			"mod": false,
+			"room-id": "72480716",
+			"subscriber": false,
+			"tmi-sent-ts": "1598162303346",
+			"turbo": false,
+			"user-id": "498368901",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": null,
+			"badges-raw": null,
+			"username": "ksos1",
+			"message-type": "chat"
+		},
+		"message": "Le problème avec le foot, c'est les ultras qu'il y a dans les supporters, après la diffférence avec la vidéo à Paris, c'est qu'ils soont là pour foutre juste la merde et comme dab c'est les flics qui se prennent tout",
+		"self": false
+	},
+	{
+		"channel": "#tonton",
+		"userstate": {
+			"badge-info": null,
+			"badges": null,
+			"client-nonce": "21510c8149b3d426f34e0331e7befabd",
+			"color": "#008000",
+			"display-name": "Lanlan234",
+			"emotes": null,
+			"flags": null,
+			"id": "4e46342c-d5df-4c32-96fa-f47806614635",
+			"mod": false,
+			"room-id": "72480716",
+			"subscriber": false,
+			"tmi-sent-ts": "1598162306597",
+			"turbo": false,
+			"user-id": "39415465",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": null,
+			"badges-raw": null,
+			"username": "lanlan234",
+			"message-type": "chat"
+		},
+		"message": "mais j'entends ton pdv",
+		"self": false
+	},
+	{
+		"channel": "#tonton",
+		"userstate": {
+			"badge-info": null,
+			"badges": null,
+			"client-nonce": "e73c79750f273821705abc04d7c1bc26",
+			"color": null,
+			"display-name": "bouledogue",
+			"emotes": null,
+			"flags": null,
+			"id": "9b6abb51-d1bc-4c72-8fbc-5a6b98326d94",
+			"mod": false,
+			"room-id": "72480716",
+			"subscriber": false,
+			"tmi-sent-ts": "1598162307518",
+			"turbo": false,
+			"user-id": "465026260",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": null,
+			"badges-raw": null,
+			"username": "bouledogue",
+			"message-type": "chat"
+		},
+		"message": "la petanque je pense",
+		"self": false
+	},
+	{
+		"channel": "#tonton",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "1"
+			},
+			"badges": {
+				"subscriber": "0",
+				"premium": "1"
+			},
+			"client-nonce": "10953bf21668c36b54a02aaec346fa73",
+			"color": null,
+			"display-name": "inoko",
+			"emotes": null,
+			"flags": null,
+			"id": "d6e34c3a-1c8a-4e5b-948d-5d7639297b53",
+			"mod": false,
+			"room-id": "72480716",
+			"subscriber": true,
+			"tmi-sent-ts": "1598162307929",
+			"turbo": false,
+			"user-id": "409647087",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/1",
+			"badges-raw": "subscriber/0,premium/1",
+			"username": "inoko",
+			"message-type": "chat"
+		},
+		"message": "la langue la plus parlée c'est le mandarin",
+		"self": false
+	},
+	{
+		"channel": "#tonton",
+		"userstate": {
+			"badge-info": null,
+			"badges": null,
+			"client-nonce": "3e181c7694fda5e0be3a9c6ac05ecc66",
+			"color": "#FF0000",
+			"display-name": "ArcanyteTV",
+			"emote-only": true,
+			"emotes": {
+				"704319": ["0-7", "9-16", "18-25"]
+			},
+			"flags": null,
+			"id": "b1f7323d-66e4-43fc-bdd4-34aeccd13e30",
+			"mod": false,
+			"room-id": "72480716",
+			"subscriber": false,
+			"tmi-sent-ts": "1598162308991",
+			"turbo": false,
+			"user-id": "180596210",
+			"user-type": null,
+			"emotes-raw": "704319:0-7,9-16,18-25",
+			"badge-info-raw": null,
+			"badges-raw": null,
+			"username": "arcanytetv",
+			"message-type": "chat"
+		},
+		"message": "srzSalut srzSalut srzSalut",
+		"self": false
+	},
+	{
+		"channel": "#manuelferraratv",
+		"userstate": {
+			"badge-info": null,
+			"badges": null,
+			"color": null,
+			"display-name": "hatoua",
+			"emotes": {
+				"302860792": ["35-43"]
+			},
+			"flags": "29-33:S.5",
+			"id": "24c6060a-19a0-44a1-ae50-66cd4cf933c7",
+			"mod": false,
+			"room-id": "131861345",
+			"subscriber": false,
+			"tmi-sent-ts": "1598162309346",
+			"turbo": false,
+			"user-id": "250367879",
+			"user-type": null,
+			"emotes-raw": "302860792:35-43",
+			"badge-info-raw": null,
+			"badges-raw": null,
+			"username": "hatoua",
+			"message-type": "chat"
+		},
+		"message": "mauvais au tennis mauvais au pénis mbappePop",
+		"self": false
+	},
+	{
+		"channel": "#manuelferraratv",
+		"userstate": {
+			"badge-info": null,
+			"badges": {
+				"glhf-pledge": "1"
+			},
+			"client-nonce": "2d387f5a9c23b18a5f492b310b269530",
+			"color": null,
+			"display-name": "theooftn",
+			"emotes": null,
+			"flags": null,
+			"id": "654a00ae-21ed-483f-aaed-32a13ebe5938",
+			"mod": false,
+			"room-id": "131861345",
+			"subscriber": false,
+			"tmi-sent-ts": "1598162309308",
+			"turbo": false,
+			"user-id": "449964096",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": null,
+			"badges-raw": "glhf-pledge/1",
+			"username": "theooftn",
+			"message-type": "chat"
+		},
+		"message": "@D4LIANO C est juste car il a un phisique atyphique et est en contrat avec brazer tu m etonne",
+		"self": false
+	},
+	{
+		"channel": "#tonton",
+		"userstate": {
+			"badge-info": null,
+			"badges": null,
+			"client-nonce": "15cc5392a93a81a6c6c90606dcd56201",
+			"color": "#FF0000",
+			"display-name": "Altefkatre",
+			"emotes": null,
+			"flags": null,
+			"id": "ecf4e2ba-a2aa-410e-82dc-0c06f91d0efd",
+			"mod": false,
+			"room-id": "72480716",
+			"subscriber": false,
+			"tmi-sent-ts": "1598162309443",
+			"turbo": false,
+			"user-id": "114345974",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": null,
+			"badges-raw": null,
+			"username": "altefkatre",
+			"message-type": "chat"
+		},
+		"message": "@Tonton Normal le commentaire de @raph2929 plus haut dans le tchat ?",
+		"self": false
+	},
+	{
+		"channel": "#tonton",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "2"
+			},
+			"badges": {
+				"subscriber": "0",
+				"premium": "1"
+			},
+			"color": null,
+			"display-name": "KaRa_77",
+			"emotes": null,
+			"flags": null,
+			"id": "b71f3ad6-10e5-4039-8b57-54c029e405a6",
+			"mod": false,
+			"room-id": "72480716",
+			"subscriber": true,
+			"tmi-sent-ts": "1598162309437",
+			"turbo": false,
+			"user-id": "88377758",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/2",
+			"badges-raw": "subscriber/0,premium/1",
+			"username": "kara_77",
+			"message-type": "chat"
+		},
+		"message": "Dans le monde c'est le foot sans hésiter. Les sports américains c'est très regardé qu'en Amérique justement",
+		"self": false
+	},
+	{
+		"channel": "#tonton",
+		"userstate": {
+			"badge-info": null,
+			"badges": {
+				"premium": "1"
+			},
+			"client-nonce": "8e031e362e7b434bec1be4a6297b14ee",
+			"color": "#FF4500",
+			"display-name": "Panthemort",
+			"emotes": null,
+			"flags": null,
+			"id": "701ea709-8b62-4583-9d6d-827b3a48d7e7",
+			"mod": false,
+			"room-id": "72480716",
+			"subscriber": false,
+			"tmi-sent-ts": "1598162312870",
+			"turbo": false,
+			"user-id": "44219269",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": null,
+			"badges-raw": "premium/1",
+			"username": "panthemort",
+			"message-type": "chat"
+		},
+		"message": "Bonjour !",
+		"self": false
+	},
+	{
+		"channel": "#tonton",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "1"
+			},
+			"badges": {
+				"subscriber": "0",
+				"premium": "1"
+			},
+			"client-nonce": "4a98f844394040abbe1fd1991680cf00",
+			"color": "#D42424",
+			"display-name": "Rhummer",
+			"emotes": null,
+			"flags": null,
+			"id": "8dda9c7c-2c21-42da-bff8-f6a67540689b",
+			"mod": false,
+			"room-id": "72480716",
+			"subscriber": true,
+			"tmi-sent-ts": "1598162313139",
+			"turbo": false,
+			"user-id": "85187719",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/1",
+			"badges-raw": "subscriber/0,premium/1",
+			"username": "rhummer",
+			"message-type": "chat"
+		},
+		"message": "meme en chine il y a plusioeurs dialectes les gens",
+		"self": false
+	},
+	{
+		"channel": "#tonton",
+		"userstate": {
+			"badge-info": null,
+			"badges": null,
+			"client-nonce": "d63e715fd486d4e1b64ea302e09d94ae",
+			"color": "#D2691E",
+			"display-name": "TazzLeViewer",
+			"emotes": null,
+			"flags": null,
+			"id": "99274957-8e8a-4bea-b0b9-58013216b51a",
+			"mod": false,
+			"room-id": "72480716",
+			"subscriber": false,
+			"tmi-sent-ts": "1598162315270",
+			"turbo": false,
+			"user-id": "128666561",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": null,
+			"badges-raw": null,
+			"username": "tazzleviewer",
+			"message-type": "chat"
+		},
+		"message": "c'est le mandarin en tant que langue natale, c'est l'anglais en tant que langue lvl2",
+		"self": false
+	},
+	{
+		"channel": "#manuelferraratv",
+		"userstate": {
+			"badge-info": null,
+			"badges": null,
+			"color": null,
+			"display-name": "john04100",
+			"emotes": null,
+			"flags": null,
+			"id": "b0c8f77d-3ab0-43a1-b70e-526449340cb0",
+			"mod": false,
+			"room-id": "131861345",
+			"subscriber": false,
+			"tmi-sent-ts": "1598162316954",
+			"turbo": false,
+			"user-id": "526916606",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": null,
+			"badges-raw": null,
+			"username": "john04100",
+			"message-type": "chat"
+		},
+		"message": "Manu t’aime bien l’huile quand tu tourne tes scenes ?",
+		"self": false
+	},
+	{
+		"channel": "#manuelferraratv",
+		"userstate": {
+			"badge-info": null,
+			"badges": null,
+			"color": null,
+			"display-name": "zerivokk",
+			"emotes": null,
+			"flags": null,
+			"id": "26be7c32-a553-42d2-9761-50717aef6c9e",
+			"mod": false,
+			"room-id": "131861345",
+			"subscriber": false,
+			"tmi-sent-ts": "1598162317117",
+			"turbo": false,
+			"user-id": "512838104",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": null,
+			"badges-raw": null,
+			"username": "zerivokk",
+			"message-type": "chat"
+		},
+		"message": "bah il voulait te faire comprendre que tu merite pas ce que ta gagner , alors que di tu en a gagner ces que tu la meriter @manuelferraratv",
+		"self": false
+	},
+	{
+		"channel": "#tonton",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "2"
+			},
+			"badges": {
+				"subscriber": "0",
+				"bits": "100"
+			},
+			"color": null,
+			"display-name": "badrac62",
+			"emotes": null,
+			"flags": null,
+			"id": "0882619e-d555-48e3-98e6-a583e84ba511",
+			"mod": false,
+			"room-id": "72480716",
+			"subscriber": true,
+			"tmi-sent-ts": "1598162320611",
+			"turbo": false,
+			"user-id": "540897926",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/2",
+			"badges-raw": "subscriber/0,bits/100",
+			"username": "badrac62",
+			"message-type": "chat"
+		},
+		"message": "ça cogite mdr",
+		"self": false
+	},
+	{
+		"channel": "#manuelferraratv",
+		"userstate": {
+			"badge-info": null,
+			"badges": null,
+			"color": null,
+			"display-name": "badobado94470",
+			"emotes": null,
+			"flags": null,
+			"id": "52f3cee7-9385-4586-94a6-2a4aee419ad9",
+			"mod": false,
+			"room-id": "131861345",
+			"subscriber": false,
+			"tmi-sent-ts": "1598162320878",
+			"turbo": false,
+			"user-id": "519470454",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": null,
+			"badges-raw": null,
+			"username": "badobado94470",
+			"message-type": "chat"
+		},
+		"message": "Ta le meilleur métier du monde",
+		"self": false
+	},
+	{
+		"channel": "#tonton",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "1"
+			},
+			"badges": {
+				"subscriber": "0"
+			},
+			"client-nonce": "0bceabb6bd9ec19c422f9f4d552bee1f",
+			"color": null,
+			"display-name": "lamchantantes",
+			"emotes": null,
+			"flags": null,
+			"id": "aba2921c-bd93-4b11-979a-97589e5a7c27",
+			"mod": false,
+			"room-id": "72480716",
+			"subscriber": true,
+			"tmi-sent-ts": "1598162321529",
+			"turbo": false,
+			"user-id": "412278646",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/1",
+			"badges-raw": "subscriber/0",
+			"username": "lamchantantes",
+			"message-type": "chat"
+		},
+		"message": "différence entre \"la plus parlée\" et \"la plus utilisée\"",
+		"self": false
+	},
+	{
+		"channel": "#tonton",
+		"userstate": {
+			"badge-info": null,
+			"badges": {
+				"premium": "1"
+			},
+			"client-nonce": "1a5925742c95a3b7215731ab0a26cd51",
+			"color": "#62E0FF",
+			"display-name": "nero_scp",
+			"emotes": null,
+			"flags": null,
+			"id": "3213fb73-872b-482d-a847-b9b4366efdda",
+			"mod": false,
+			"room-id": "72480716",
+			"subscriber": false,
+			"tmi-sent-ts": "1598162322873",
+			"turbo": false,
+			"user-id": "464256324",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": null,
+			"badges-raw": "premium/1",
+			"username": "nero_scp",
+			"message-type": "chat"
+		},
+		"message": "check sur google sinon ta les infos donné : Classement des sports les plus populaires dans le monde ^^",
+		"self": false
+	},
+	{
+		"channel": "#tonton",
+		"userstate": {
+			"badge-info": null,
+			"badges": null,
+			"client-nonce": "7a9dfceb135b6dcbcbf4b801f2c5dd28",
+			"color": null,
+			"display-name": "SoBrightAndDelicate",
+			"emotes": null,
+			"flags": "69-73:S.5",
+			"id": "70decb91-c01c-4197-ba98-39693779852a",
+			"mod": false,
+			"room-id": "72480716",
+			"subscriber": false,
+			"tmi-sent-ts": "1598162323281",
+			"turbo": false,
+			"user-id": "520176023",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": null,
+			"badges-raw": null,
+			"username": "sobrightanddelicate",
+			"message-type": "chat"
+		},
+		"message": "Enfin vous ne connaissez pas le club de cricket de Morges au bord du Leman ?",
+		"self": false
+	},
+	{
+		"channel": "#manuelferraratv",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "2"
+			},
+			"badges": {
+				"subscriber": "0"
+			},
+			"client-nonce": "8e8edbd24cb1210e3efbbe1cd5eb98d4",
+			"color": null,
+			"display-name": "legjuice95",
+			"emotes": null,
+			"flags": null,
+			"id": "3c5b5f74-0bc3-46e6-b138-2abfa6d1a353",
+			"mod": false,
+			"room-id": "131861345",
+			"subscriber": true,
+			"tmi-sent-ts": "1598162323548",
+			"turbo": false,
+			"user-id": "491681463",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/2",
+			"badges-raw": "subscriber/0",
+			"username": "legjuice95",
+			"message-type": "chat"
+		},
+		"message": "mdrrrr",
+		"self": false
+	}
+]

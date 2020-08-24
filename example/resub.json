@@ -1,0 +1,176 @@
+[
+	{
+		"channel": "#heelmike",
+		"username": "mikelikescawwks",
+		"months": 0,
+		"message": "Ugly dood",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "19"
+			},
+			"badges": {
+				"subscriber": "18",
+				"premium": "1"
+			},
+			"color": "#FFFFFF",
+			"display-name": "mikelikescawwks",
+			"emotes": null,
+			"flags": null,
+			"id": "329c7ec3-7b75-41e0-a554-6d5f68318813",
+			"login": "mikelikescawwks",
+			"mod": false,
+			"msg-id": "resub",
+			"msg-param-cumulative-months": "19",
+			"msg-param-months": false,
+			"msg-param-should-share-streak": false,
+			"msg-param-sub-plan-name": "Channel Subscription (heelmike)",
+			"msg-param-sub-plan": "Prime",
+			"room-id": "96419668",
+			"subscriber": true,
+			"system-msg": "mikelikescawwks subscribed with Twitch Prime. They've subscribed for 19 months!",
+			"tmi-sent-ts": "1598163431626",
+			"user-id": "217111794",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/19",
+			"badges-raw": "subscriber/18,premium/1",
+			"message-type": "resub"
+		},
+		"methods": {
+			"prime": true,
+			"plan": "Prime",
+			"planName": "Channel Subscription (heelmike)"
+		}
+	},
+	{
+		"channel": "#heelmike",
+		"username": "tfols",
+		"months": 0,
+		"message": "15 MONTHS MAN ITS BEEN A RIDE AND WE STILL GETTING BIGGER, YOUVE COME A LONG WAY IM HAPPY IVE BEEN HERE ALONG THE WAY LOVE U MAN",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "15"
+			},
+			"badges": {
+				"subscriber": "2012",
+				"bits": "5000"
+			},
+			"color": "#DAA520",
+			"display-name": "tfols",
+			"emotes": null,
+			"flags": null,
+			"id": "81f5e875-539e-416b-9621-b3b20f80b30c",
+			"login": "tfols",
+			"mod": false,
+			"msg-id": "resub",
+			"msg-param-cumulative-months": "15",
+			"msg-param-months": false,
+			"msg-param-should-share-streak": false,
+			"msg-param-sub-plan-name": "Channel Subscription (heelmike): $9.99 Sub",
+			"msg-param-sub-plan": "2000",
+			"room-id": "96419668",
+			"subscriber": true,
+			"system-msg": "tfols subscribed at Tier 2. They've subscribed for 15 months!",
+			"tmi-sent-ts": "1598163610205",
+			"user-id": "204745595",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/15",
+			"badges-raw": "subscriber/2012,bits/5000",
+			"message-type": "resub"
+		},
+		"methods": {
+			"prime": false,
+			"plan": "2000",
+			"planName": "Channel Subscription (heelmike): $9.99 Sub"
+		}
+	},
+	{
+		"channel": "#heelmike",
+		"username": "ImStephenG",
+		"months": 2,
+		"message": "lfg",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "2"
+			},
+			"badges": {
+				"subscriber": "0",
+				"glhf-pledge": "1"
+			},
+			"color": "#00FF7F",
+			"display-name": "ImStephenG",
+			"emotes": null,
+			"flags": null,
+			"id": "9df1a007-da22-4f57-8239-694ce27b40b0",
+			"login": "imstepheng",
+			"mod": false,
+			"msg-id": "resub",
+			"msg-param-cumulative-months": "2",
+			"msg-param-months": false,
+			"msg-param-should-share-streak": true,
+			"msg-param-streak-months": "2",
+			"msg-param-sub-plan-name": "Channel Subscription (heelmike)",
+			"msg-param-sub-plan": "1000",
+			"room-id": "96419668",
+			"subscriber": true,
+			"system-msg": "ImStephenG subscribed at Tier 1. They've subscribed for 2 months, currently on a 2 month streak!",
+			"tmi-sent-ts": "1598163750154",
+			"user-id": "443818852",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/2",
+			"badges-raw": "subscriber/0,glhf-pledge/1",
+			"message-type": "resub"
+		},
+		"methods": {
+			"prime": false,
+			"plan": "1000",
+			"planName": "Channel Subscription (heelmike)"
+		}
+	},
+	{
+		"channel": "#heelmike",
+		"username": "vtheechosenone",
+		"months": 1,
+		"message": null,
+		"userstate": {
+			"badge-info": {
+				"subscriber": "2"
+			},
+			"badges": {
+				"subscriber": "0",
+				"premium": "1"
+			},
+			"color": null,
+			"display-name": "vtheechosenone",
+			"emotes": null,
+			"flags": null,
+			"id": "9ce18715-2323-4ff2-bf57-8872240e12b4",
+			"login": "vtheechosenone",
+			"mod": false,
+			"msg-id": "resub",
+			"msg-param-cumulative-months": "2",
+			"msg-param-months": false,
+			"msg-param-should-share-streak": true,
+			"msg-param-streak-months": true,
+			"msg-param-sub-plan-name": "Channel Subscription (heelmike)",
+			"msg-param-sub-plan": "1000",
+			"room-id": "96419668",
+			"subscriber": true,
+			"system-msg": "vtheechosenone subscribed at Tier 1. They've subscribed for 2 months, currently on a 1 month streak!",
+			"tmi-sent-ts": "1598163904255",
+			"user-id": "182077351",
+			"user-type": null,
+			"emotes-raw": null,
+			"badge-info-raw": "subscriber/2",
+			"badges-raw": "subscriber/0,premium/1",
+			"message-type": "resub"
+		},
+		"methods": {
+			"prime": false,
+			"plan": "1000",
+			"planName": "Channel Subscription (heelmike)"
+		}
+	}
+]

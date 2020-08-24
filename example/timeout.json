@@ -1,0 +1,86 @@
+[
+	{
+		"channel": "#staryuuki",
+		"username": "robinxlogan",
+		"reason": null,
+		"duration": 30,
+		"userstate": {
+			"ban-duration": "30",
+			"room-id": "167189231",
+			"target-user-id": "527342498",
+			"tmi-sent-ts": "1598162719094"
+		}
+	},
+	{
+		"channel": "#staryuuki",
+		"username": "vintagedejuan",
+		"reason": null,
+		"duration": 30,
+		"userstate": {
+			"ban-duration": "30",
+			"room-id": "167189231",
+			"target-user-id": "417603966",
+			"tmi-sent-ts": "1598162744681"
+		}
+	},
+	{
+		"channel": "#staryuuki",
+		"username": "ian_st4g",
+		"reason": null,
+		"duration": 30,
+		"userstate": {
+			"ban-duration": "30",
+			"room-id": "167189231",
+			"target-user-id": "549402791",
+			"tmi-sent-ts": "1598162764413"
+		}
+	},
+	{
+		"channel": "#staryuuki",
+		"username": "titoleo2",
+		"reason": null,
+		"duration": 5,
+		"userstate": {
+			"ban-duration": "5",
+			"room-id": "167189231",
+			"target-user-id": "487458207",
+			"tmi-sent-ts": "1598162916815"
+		}
+	},
+	{
+		"channel": "#staryuuki",
+		"username": "titoleo2",
+		"reason": null,
+		"duration": 600,
+		"userstate": {
+			"ban-duration": "600",
+			"room-id": "167189231",
+			"target-user-id": "487458207",
+			"tmi-sent-ts": "1598162918585"
+		}
+	},
+	{
+		"channel": "#manuelferraratv",
+		"username": "donmaxiimo",
+		"reason": null,
+		"duration": 86400,
+		"userstate": {
+			"ban-duration": "86400",
+			"room-id": "131861345",
+			"target-user-id": "571445100",
+			"tmi-sent-ts": "1598162927733"
+		}
+	},
+	{
+		"channel": "#staryuuki",
+		"username": "gatitoxd999",
+		"reason": null,
+		"duration": 600,
+		"userstate": {
+			"ban-duration": "600",
+			"room-id": "167189231",
+			"target-user-id": "435931046",
+			"tmi-sent-ts": "1598162928194"
+		}
+	}
+]

@@ -1,0 +1,70 @@
+[
+	{
+		"channel": "#heelmike",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "10"
+			},
+			"badges": {
+				"moderator": "1",
+				"subscriber": "9",
+				"partner": "1"
+			},
+			"color": "#5B99FF",
+			"display-name": "StreamElements",
+			"emotes": {
+				"88": ["0-7", "50-57"]
+			},
+			"flags": null,
+			"id": "17c20faa-5129-4dbb-a711-1256f03adb35",
+			"mod": true,
+			"room-id": "96419668",
+			"subscriber": true,
+			"tmi-sent-ts": "1598162718738",
+			"turbo": false,
+			"user-id": "100135110",
+			"user-type": "mod",
+			"emotes-raw": "88:0-7,50-57",
+			"badge-info-raw": "subscriber/10",
+			"badges-raw": "moderator/1,subscriber/9,partner/1",
+			"username": "streamelements",
+			"message-type": "action"
+		},
+		"message": "PogChamp bobthetoca went all in and won 80 points PogChamp they now have 160 points FeelsGoodMan",
+		"self": false
+	},
+	{
+		"channel": "#heelmike",
+		"userstate": {
+			"badge-info": {
+				"subscriber": "10"
+			},
+			"badges": {
+				"moderator": "1",
+				"subscriber": "9",
+				"partner": "1"
+			},
+			"color": "#5B99FF",
+			"display-name": "StreamElements",
+			"emotes": {
+				"88": ["0-7", "53-60"]
+			},
+			"flags": null,
+			"id": "7bd73c1a-a9dc-4918-a4f7-d91a736a2fd2",
+			"mod": true,
+			"room-id": "96419668",
+			"subscriber": true,
+			"tmi-sent-ts": "1598162767374",
+			"turbo": false,
+			"user-id": "100135110",
+			"user-type": "mod",
+			"emotes-raw": "88:0-7,53-60",
+			"badge-info-raw": "subscriber/10",
+			"badges-raw": "moderator/1,subscriber/9,partner/1",
+			"username": "streamelements",
+			"message-type": "action"
+		},
+		"message": "PogChamp teardrop_faze went all in and won 10 points PogChamp they now have 20 points FeelsGoodMan",
+		"self": false
+	}
+]

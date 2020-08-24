@@ -1,0 +1,28 @@
+[
+	{
+		"channel": "#tonton",
+		"state": {
+			"emote-only": false,
+			"followers-only": "-1",
+			"r9k": false,
+			"rituals": false,
+			"room-id": "72480716",
+			"slow": false,
+			"subs-only": false,
+			"channel": "#tonton"
+		}
+	},
+	{
+		"channel": "#manuelferraratv",
+		"state": {
+			"emote-only": false,
+			"followers-only": false,
+			"r9k": false,
+			"rituals": false,
+			"room-id": "131861345",
+			"slow": false,
+			"subs-only": false,
+			"channel": "#manuelferraratv"
+		}
+	}
+]
