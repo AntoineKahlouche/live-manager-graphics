@@ -8,6 +8,5 @@ Jack3.5 : butonn play sound connected to RSPi pins
 
 # TODO
 
--   Youtube
+-   Youtube chat events
 -   Parse emotes and emoji
--   Sound alert

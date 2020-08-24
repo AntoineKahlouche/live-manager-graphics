@@ -17,6 +17,36 @@ async function init() {
 	}
 }
 
+// Alert for fill path
+const gunshot = new Audio("gunshot.mp3")
+function playSound() {
+	if (window.location.pathname !== "/fill") return
+	var isPlaying = gunshot.currentTime > 0 && !gunshot.paused && !gunshot.ended && gunshot.readyState > 2
+
+	if (isPlaying) {
+		gunshot.pause()
+		gunshot.currentTime = 0
+	}
+	gunshot.play()
+}
+
+// Lofi for key path
+let player
+function onYouTubeIframeAPIReady() {
+	if (window.location.pathname !== "/key") return
+	player = new YT.Player("player", {
+		height: "390",
+		width: "640",
+		videoId: "5yx6BWlEVcY",
+		events: {
+			onReady: event => {
+				event.target.setVolume(100)
+				event.target.playVideo()
+			}
+		}
+	})
+}
+
 function open(data) {
 	const functionName = _.toLower(data.type)
 	const html = window[functionName](data)
@@ -31,6 +61,8 @@ function open(data) {
 	alert.css({ top })
 
 	alert.addClass("animate__fadeInLeft")
+
+	playSound()
 }
 
 function close(data) {
@@ -45,6 +77,8 @@ function close(data) {
 			transition: "top 1s ease-in"
 		})
 	})
+
+	playSound()
 
 	setTimeout(() => {
 		alert.alert("close")

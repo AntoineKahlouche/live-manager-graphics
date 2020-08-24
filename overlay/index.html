@@ -17,6 +17,7 @@
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.19/lodash.min.js"></script>
 		<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 		<script src="/socket.io/socket.io.js"></script>
+		<script src="https://www.youtube.com/iframe_api"></script>
 
 		<style>
 			html{
@@ -29,6 +30,7 @@
 				font-family: Roboto !important;
 				font-size: 18px;
 				overflow: hidden;
+				/* background: no-repeat url("testBackground.png"); */
 			}
 
 			.alert {
@@ -47,5 +49,7 @@
 		</script>
 	</head>
 
-	<body></body>
+	<body>
+		<div id="player" class="d-none"></div>
+	</body>
 </html>
