@@ -9,3 +9,5 @@ Jack3.5 : butonn play sound connected to RSPi pins
 # TODO
 
 -   Youtube chat events
+-   Buttons sound (badum tsss, ...)
+-   Buttons message automatique (ex FAQ)
