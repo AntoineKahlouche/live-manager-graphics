@@ -35,9 +35,9 @@ app.get("/historic", (req, res) => {
 
 function render(view, data = {}) {
 	const title = _.capitalize(view) + (data && data.title ? " : " + data.title : "")
-	const style = data && data.style ? fs.readFileSync(__dirname + "/" + view + "/" + data.style + ".css") : ""
-	const script = fs.readFileSync(__dirname + "/" + view + "/index.js")
-	return _.template(fs.readFileSync(__dirname + "/" + view + "/index.html"))({ title, style, script })
+	const style = data && data.style ? fs.readFileSync(__dirname + "/www/" + view + "/" + data.style + ".css") : ""
+	const script = fs.readFileSync(__dirname + "/www/" + view + "/index.js")
+	return _.template(fs.readFileSync(__dirname + "/www/" + view + "/index.html"))({ title, style, script })
 }
 
 const http = socket.create(app)

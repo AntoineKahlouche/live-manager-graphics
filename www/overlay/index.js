@@ -18,16 +18,16 @@ async function init() {
 }
 
 // Alert for fill path
-const gunshot = new Audio("gunshot.mp3")
+const alertSound = new Audio("click.mp3")
 function playSound() {
 	if (window.location.pathname !== "/fill") return
-	var isPlaying = gunshot.currentTime > 0 && !gunshot.paused && !gunshot.ended && gunshot.readyState > 2
+	var isPlaying = alertSound.currentTime > 0 && !alertSound.paused && !alertSound.ended && alertSound.readyState > 2
 
 	if (isPlaying) {
-		gunshot.pause()
-		gunshot.currentTime = 0
+		alertSound.pause()
+		alertSound.currentTime = 0
 	}
-	gunshot.play()
+	alertSound.play()
 }
 
 // Lofi for key path
@@ -48,6 +48,8 @@ function onYouTubeIframeAPIReady() {
 }
 
 function open(data) {
+	playSound()
+
 	const functionName = _.toLower(data.type)
 	const html = window[functionName](data)
 	$("body").append(html)
@@ -61,11 +63,11 @@ function open(data) {
 	alert.css({ top })
 
 	alert.addClass("animate__fadeInLeft")
-
-	playSound()
 }
 
 function close(data) {
+	playSound()
+
 	const alert = $(`#${data.id}`)
 	alert.addClass("animate__fadeOutLeft")
 
@@ -77,8 +79,6 @@ function close(data) {
 			transition: "top 1s ease-in"
 		})
 	})
-
-	playSound()
 
 	setTimeout(() => {
 		alert.alert("close")

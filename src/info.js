@@ -3,29 +3,24 @@ const { alert, event } = require("./enum.js")
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms))
 
 const brands = {
-	pro: {
-		website: { icon: "r4ce", title: "https://r4ce.co", message: "Website" },
-		facebook: { icon: "facebook", title: "@r4ce", message: "Advancement & Answer questions" },
-		instagram: { icon: "instagram", title: "@r4ce.co", message: "Daily & Backstage & Announcement" },
-		soundcloud: { icon: "soundcloud", title: "@r4ce", message: "Podcast" },
-		twitter: { icon: "twitter", title: "@r4ceco", message: "Announcement" },
-		youtube: { icon: "youtube", title: "@r4ce", message: "VOD & Video produite & How to" }
-	},
-	perso: {
-		website: { icon: "antoinekahlouche", title: "https://antoine.kahlouche.fr", message: "Website" },
-		github: { icon: "github", title: "@antoinekahlouche", message: "Code" },
-		linkedin: { icon: "linkedin", title: "@antoinekahlouche", message: "Tech & Business subject" },
-		patreon: { icon: "patreon", title: "@antoinekahlouche", message: "Support" },
-		strava: { icon: "strava", title: "@antoinekahlouche", message: "Sport" },
-		twitch: { icon: "twitch", title: "@antoinekahlouche", message: "Live" }
-	}
+	antoinekahlouche: { icon: "antoinekahlouche", title: "https://antoine.kahlouche.fr", message: "Website" },
+	facebook: { icon: "facebook", title: "@r4ce", message: "Advancement & Answer questions" },
+	github: { icon: "github", title: "@antoinekahlouche", message: "Code" },
+	instagram: { icon: "instagram", title: "@r4ce.co", message: "Daily & Backstage & Announcement" },
+	linkedin: { icon: "linkedin", title: "@antoinekahlouche", message: "Tech & Business subject" },
+	r4ce: { icon: "r4ce", title: "https://r4ce.co", message: "Website" },
+	soundcloud: { icon: "soundcloud", title: "@r4ce", message: "Podcast" },
+	strava: { icon: "strava", title: "@antoinekahlouche", message: "Sport" },
+	twitch: { icon: "twitch", title: "@antoinekahlouche", message: "Live" },
+	twitter: { icon: "twitter", title: "@r4ceco", message: "Announcement" },
+	youtube: { icon: "youtube", title: "@r4ce", message: "VOD & Video produite & How to" }
 }
 
 async function run() {
 	await sleep(process.env.INFO_AWAIT)
 
 	const id = socket.guid()
-	const brand = _.sample(_.concat(_.values(brands.pro), _.values(brands.perso)))
+	const brand = _.sample(brands)
 	socket.emit(event.openAlert, {
 		id,
 		type: alert.info,
