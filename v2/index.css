@@ -1,0 +1,112 @@
+body {
+	width: 1920px;
+	height: 1080px;
+	margin: 0;
+	font-family: "Roboto", sans-serif;
+}
+
+#content {
+	position: absolute;
+	left: 1530px;
+	width: 390px;
+	height: 1080px;
+	display: flex;
+	flex-direction: column-reverse;
+}
+
+#webcam {
+	width: 350px;
+	border-radius: 5px;
+	margin: 20px;
+}
+
+#bloc {
+	margin: 0px 20px 20px 20px;
+	border-radius: 5px;
+	line-height: 3rem;
+	display: flex;
+	padding-left: 15px;
+	animation: fadeIn 1s;
+}
+
+#icon {
+	line-height: 3rem;
+	font-size: 2rem;
+}
+
+#icon img {
+	height: 40px;
+	vertical-align: -10px;
+}
+
+#username {
+	font-weight: 500;
+	font-size: 1.3rem;
+	margin: auto;
+}
+
+#alerts {
+	position: absolute;
+	width: 500px;
+	height: 1080px;
+	display: flex;
+	flex-direction: column-reverse;
+}
+
+.alert {
+	margin: 0px 20px 20px 20px;
+	border-radius: 5px;
+	line-height: 3rem;
+	font-size: 1.2rem;
+	display: flex;
+	padding-left: 15px;
+
+	border-width: 1px;
+	border-style: solid;
+}
+
+.alert .text,
+.alert i {
+	line-height: 3rem;
+}
+
+.alert i {
+	margin-right: 1rem;
+	font-size: 1.5rem;
+}
+
+#sub {
+	color: #721c24;
+	background-color: #f8d7da;
+	border-color: #f5c6cb;
+}
+
+#follow {
+	color: #004085;
+	background-color: #cce5ff;
+	border-color: #b8daff;
+}
+
+#bit {
+	color: #155724;
+	background-color: #d4edda;
+	border-color: #c3e6cb;
+}
+
+@keyframes fadeIn {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+@keyframes fadeOut {
+	0% {
+		opacity: 1;
+	}
+	100% {
+		opacity: 0;
+	}
+}
