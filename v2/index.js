@@ -2,17 +2,17 @@ main(0)
 
 async function main(i) {
 	const elements = [
-		["facebook", "antoinekahlouche", "#3b5998"],
-		["github", "antoinekahlouche", "#24292e"],
-		["instagram", "antoinekahlouche", "linear-gradient(90deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%)"],
-		["linkedin", "antoinekahlouche", "#0077b5"],
-		["strava", "antoinekahlouche", "#fc4c02"],
-		["tiktok", "antoinekahlouche", "linear-gradient(90deg, #69c9d0 0%, #ee1d52 100%)"],
-		["twitch", "antoinekahlouche", "#9146ff"],
-		["twitter", "antoinekahlouch", "#1da1f2"],
-		["youtube", "...", "#ff0000"],
-		["pro", "antoine.kahlouche.fr", "#e9ecef", "black"],
-		["r4ce", "r4ce.co", "#c62828"]
+		{ name: "facebook", username: "antoinekahlouche", background: "#3b5998", color: "white" },
+		{ name: "github", username: "antoinekahlouche", background: "#24292e", color: "white" },
+		{ name: "instagram", username: "antoinekahlouche", background: "linear-gradient(90deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%)", color: "white" },
+		{ name: "linkedin", username: "antoinekahlouche", background: "#0077b5", color: "white" },
+		{ name: "strava", username: "antoinekahlouche", background: "#fc4c02", color: "white" },
+		{ name: "tiktok", username: "antoinekahlouche", background: "linear-gradient(90deg, #69c9d0 0%, #ee1d52 100%)", color: "white" },
+		{ name: "twitch", username: "antoinekahlouche", background: "#9146ff", color: "white" },
+		{ name: "twitter", username: "antoinekahlouch", background: "#1da1f2", color: "white" },
+		{ name: "youtube", username: "...", background: "#ff0000", color: "white", border: "#9e0000" },
+		{ name: "pro", username: "antoine.kahlouche.fr", background: "#e9ecef", color: "black" },
+		{ name: "r4ce", username: "r4ce.co", background: "#c62828", color: "white" }
 	]
 
 	const j = elements[i + 1] ? i + 1 : 0
@@ -44,22 +44,24 @@ function fade(inOrOut) {
 
 function replaceColor(el) {
 	const bloc = document.getElementById("bloc")
-	bloc.style.background = el[2]
-	bloc.style.color = el[3] || "white"
+	bloc.style.background = el.background
+	bloc.style.color = el.color
 }
 
 function replaceLogo(el) {
 	const icon = document.getElementById("icon")
-	if (["r4ce", "pro"].includes(el[0])) {
-		icon.innerHTML = `<img src="img/${el[0]}.png" />`
+	if (el.name === "r4ce") {
+		icon.innerHTML = `<img src="img/r4ce.png" />`
+	} else if (el.name === "pro") {
+		icon.innerHTML = `<i class="fas fa-link"></i>`
 	} else {
-		icon.innerHTML = `<i class="fab fa-${el[0]}"></i>`
+		icon.innerHTML = `<i class="fab fa-${el.name}"></i>`
 	}
 }
 
 function replaceText(el) {
 	const username = document.getElementById("username")
-	username.innerHTML = el[1]
+	username.innerHTML = el.username
 }
 
 function sleep(ms) {

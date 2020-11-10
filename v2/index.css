@@ -23,14 +23,14 @@ body {
 #bloc {
 	margin: 0px 20px 20px 20px;
 	border-radius: 5px;
-	line-height: 3rem;
+	line-height: 3.5rem;
 	display: flex;
 	padding-left: 15px;
 	animation: fadeIn 1s;
 }
 
 #icon {
-	line-height: 3rem;
+	line-height: 3.5rem;
 	font-size: 2rem;
 }
 
@@ -56,18 +56,15 @@ body {
 .alert {
 	margin: 0px 20px 20px 20px;
 	border-radius: 5px;
-	line-height: 3rem;
+	line-height: 3.5rem;
 	font-size: 1.2rem;
 	display: flex;
 	padding-left: 15px;
-
-	border-width: 1px;
-	border-style: solid;
 }
 
 .alert .text,
 .alert i {
-	line-height: 3rem;
+	line-height: 3.5rem;
 }
 
 .alert i {
@@ -78,19 +75,16 @@ body {
 #sub {
 	color: #721c24;
 	background-color: #f8d7da;
-	border-color: #f5c6cb;
 }
 
 #follow {
 	color: #004085;
 	background-color: #cce5ff;
-	border-color: #b8daff;
 }
 
 #bit {
 	color: #155724;
 	background-color: #d4edda;
-	border-color: #c3e6cb;
 }
 
 @keyframes fadeIn {
