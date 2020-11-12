@@ -7,10 +7,10 @@ async function main(i) {
 		{ name: "instagram", username: "antoinekahlouche", background: "linear-gradient(90deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%)", color: "white" },
 		{ name: "linkedin", username: "antoinekahlouche", background: "#0077b5", color: "white" },
 		{ name: "strava", username: "antoinekahlouche", background: "#fc4c02", color: "white" },
-		{ name: "tiktok", username: "antoinekahlouche", background: "linear-gradient(90deg, #69c9d0 0%, #ee1d52 100%)", color: "white" },
-		{ name: "twitch", username: "antoinekahlouche", background: "#9146ff", color: "white" },
+		// { name: "tiktok", username: "antoinekahlouche", background: "linear-gradient(90deg, #69c9d0 0%, #ee1d52 100%)", color: "white" },
+		// { name: "twitch", username: "antoinekahlouche", background: "#9146ff", color: "white" },
 		{ name: "twitter", username: "antoinekahlouch", background: "#1da1f2", color: "white" },
-		{ name: "youtube", username: "...", background: "#ff0000", color: "white", border: "#9e0000" },
+		// { name: "youtube", username: "...", background: "#ff0000", color: "white", border: "#9e0000" },
 		{ name: "pro", username: "antoine.kahlouche.fr", background: "#e9ecef", color: "black" },
 		{ name: "r4ce", username: "r4ce.co", background: "#c62828", color: "white" }
 	]
