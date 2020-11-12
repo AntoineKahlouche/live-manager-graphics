@@ -23,6 +23,7 @@ body {
 }
 
 #webcam img {
+	position: relative;
 	width: 100%;
 	top: 115px;
 	border-radius: 10px;
