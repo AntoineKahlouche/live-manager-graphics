@@ -7,19 +7,21 @@ body {
 
 #content {
 	position: absolute;
-	left: 1530px;
-	width: 390px;
-	height: 1080px;
+	left: 1480px;
+	width: 440px;
+	height: 1060px;
 	display: flex;
 	flex-direction: column-reverse;
+	justify-content: space-between;
+	margin: 10px 0;
 }
 
 #webcam {
 	background: #e9ecef;
-	width: 350px;
-	height: 466px;
+	width: 400px;
+	height: 533px;
 	border-radius: 10px;
-	margin: 20px;
+	margin: 10px 20px;
 }
 
 #webcam img {
@@ -30,7 +32,7 @@ body {
 }
 
 #bloc {
-	margin: 0px 20px 20px 20px;
+	margin: 10px 20px;
 	border-radius: 10px;
 	line-height: 3.5rem;
 	display: flex;
@@ -54,46 +56,12 @@ body {
 	margin: auto;
 }
 
-#alerts {
-	position: absolute;
-	width: 500px;
-	height: 1080px;
-	display: flex;
-	flex-direction: column-reverse;
-}
-
-.alert {
-	margin: 0px 20px 20px 20px;
+#chat {
+	flex: 1;
+	/* background: #e9ecef; */
+	margin: 10px 20px;
 	border-radius: 10px;
-	line-height: 3.5rem;
-	font-size: 1.2rem;
-	display: flex;
-	padding-left: 15px;
-}
-
-.alert .text,
-.alert i {
-	line-height: 3.5rem;
-}
-
-.alert i {
-	margin-right: 1rem;
-	font-size: 1.5rem;
-}
-
-#sub {
-	color: #721c24;
-	background-color: #f8d7da;
-}
-
-#follow {
-	color: #004085;
-	background-color: #cce5ff;
-}
-
-#bit {
-	color: #155724;
-	background-color: #d4edda;
+	width: 400px;
 }
 
 @keyframes fadeIn {

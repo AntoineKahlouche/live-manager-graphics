@@ -1,0 +1,37 @@
+body {
+	background-color: rgba(0, 0, 0, 0);
+	margin: 0px auto;
+	overflow: hidden;
+}
+.stream-chat-header {
+	display: none !important;
+	visibility: hidden;
+	height: 0;
+}
+.tw-z-default {
+	display: none !important;
+}
+div.chat-input {
+	display: none !important;
+	visibility: hidden !important;
+	height: 0 !important;
+	background: #e9ecef;
+}
+.chat-line__message {
+	padding: 0.5rem 0rem;
+}
+.simplebar-track {
+	display: none;
+}
+.chat-scrollable-area__message-container {
+	padding: 0 !important;
+}
+.simplebar-content {
+	padding: 0 !important;
+}
+div {
+	background-color: rgba(0, 0, 0, 0);
+}
+.simplebar-scroll-content {
+	background: #e9ecef;
+}
